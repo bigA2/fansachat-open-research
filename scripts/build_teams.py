@@ -66,7 +66,7 @@ def team(company, kind, tier, boss, sectors):
 # Team tier: a 10-person design + web agency
 TEAM = team('Northlane Studio', 'creative agency (design, web, social)', 'Team $149', ('11-1021.00', 'Founder & Managing Director'), [
     ('Design', ('27-1011.00', 'Creative Director'), [('27-1024.00', 'Graphic Designer', 2), ('15-1255.00', 'Web & Digital Designer', 1)]),
-    ('Client services', ('11-2021.00', 'Account Director'), [('13-1199.04', 'Project Coordinator', 1), ('27-3031.00', 'Social Media Specialist', 1)]),
+    ('Client services', ('11-2021.00', 'Account Director'), [('13-1199.04', 'Project Coordinator', 1), ('27-3031.00', 'Social Media Specialist', 1), ('27-3043.00', 'Copywriter', 1)]),
     ('Operations', ('43-3031.00', 'Bookkeeper'), [])])
 # Scale tier: a 50-person growing small business (e-commerce home goods brand with in-house studio)
 SCALE = team('Brightpath Home Co.', 'growing small business (e-commerce brand)', 'Scale $299', ('11-1011.00', 'CEO'), [
