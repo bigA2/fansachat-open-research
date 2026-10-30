@@ -1,0 +1,1585 @@
+[
+ {
+  "id": 1,
+  "co": "Northlane Studio",
+  "tier": "Team $149",
+  "dept": "Boss",
+  "name": "Amara Rahman",
+  "role": "Founder & Managing Director",
+  "tasks": [
+   "Review financial statements, sales or activity reports, or other performance data to measure productivity or g",
+   "Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, o",
+   "Manage the movement of goods into and out of production facilities to ensure efficiency, effectiveness, or sus"
+  ],
+  "apps": [
+   "Airtable",
+   "Confluence",
+   "Dropbox",
+   "Facebook Pages",
+   "Google Ads",
+   "Google Docs"
+  ],
+  "msg": "When Google Ads spend hits daily limit, alert team Slack and pause campaigns.",
+  "apps_recognised": [
+   "Google Ads",
+   "Slack"
+  ]
+ },
+ {
+  "id": 2,
+  "co": "Northlane Studio",
+  "tier": "Team $149",
+  "dept": "Design (head)",
+  "name": "Bilal Mensah",
+  "role": "Creative Director",
+  "tasks": [
+   "Work with creative directors to develop design solutions.",
+   "Present final layouts to clients for approval.",
+   "Manage own accounts and projects, working within budget and scheduling requirements."
+  ],
+  "apps": [
+   "Confluence",
+   "Drupal",
+   "Facebook Pages",
+   "Figma",
+   "Google Slides",
+   "Microsoft Excel 365"
+  ],
+  "msg": "When Figma file marked \"final review,\" auto-export frames to Google Slides deck.",
+  "apps_recognised": [
+   "Figma",
+   "Google Slides"
+  ]
+ },
+ {
+  "id": 3,
+  "co": "Northlane Studio",
+  "tier": "Team $149",
+  "dept": "Design",
+  "name": "Chen Nakamura",
+  "role": "Graphic Designer",
+  "tasks": [
+   "Key information into computer equipment to create layouts for client or supervisor.",
+   "Review final layouts and suggest improvements, as needed.",
+   "Determine size and arrangement of illustrative material and copy, and select style and size of type."
+  ],
+  "apps": [
+   "Drupal",
+   "Facebook Pages",
+   "Figma",
+   "Google Ads",
+   "Google Docs",
+   "Google Drive"
+  ],
+  "msg": "When client approves Figma mockup, generate Google Docs style guide with specs.",
+  "apps_recognised": [
+   "Figma",
+   "Google Docs"
+  ]
+ },
+ {
+  "id": 4,
+  "co": "Northlane Studio",
+  "tier": "Team $149",
+  "dept": "Design",
+  "name": "Dalia Usman",
+  "role": "Graphic Designer",
+  "tasks": [
+   "Key information into computer equipment to create layouts for client or supervisor.",
+   "Review final layouts and suggest improvements, as needed.",
+   "Determine size and arrangement of illustrative material and copy, and select style and size of type."
+  ],
+  "apps": [
+   "Drupal",
+   "Facebook Pages",
+   "Figma",
+   "Google Ads",
+   "Google Docs",
+   "Google Drive"
+  ],
+  "msg": "When Facebook Pages post scheduled, auto-create Figma asset archive in Drive.",
+  "apps_recognised": [
+   "Facebook Pages",
+   "Figma"
+  ]
+ },
+ {
+  "id": 5,
+  "co": "Northlane Studio",
+  "tier": "Team $149",
+  "dept": "Design",
+  "name": "Elif Dlamini",
+  "role": "Web & Digital Designer",
+  "tasks": [
+   "Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with W",
+   "Collaborate with web development professionals, such as front-end or back-end developers, to complete the full",
+   "Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecti"
+  ],
+  "apps": [
+   "Airtable",
+   "Apache Kafka",
+   "Cisco Webex Meetings",
+   "Confluence",
+   "Dropbox",
+   "Drupal"
+  ],
+  "msg": "When Drupal site error logged in Kafka, create Cisco Webex meeting with dev team.",
+  "apps_recognised": [
+   "Drupal",
+   "Cisco Webex Meetings"
+  ]
+ },
+ {
+  "id": 6,
+  "co": "Northlane Studio",
+  "tier": "Team $149",
+  "dept": "Client services (head)",
+  "name": "Farhan Khan",
+  "role": "Account Director",
+  "tasks": [
+   "Identify, develop, or evaluate marketing strategy, based on knowledge of establishment objectives, market char",
+   "Formulate, direct, or coordinate marketing activities or policies to promote products or services, working wit",
+   "Evaluate the financial aspects of product development, such as budgets, expenditures, research and development"
+  ],
+  "apps": [
+   "Airtable",
+   "Asana",
+   "Canva",
+   "Confluence",
+   "Constant Contact",
+   "Dropbox"
+  ],
+  "msg": "When Asana project hits budget threshold, alert Constant Contact list for review.",
+  "apps_recognised": [
+   "Asana",
+   "Constant Contact"
+  ]
+ },
+ {
+  "id": 7,
+  "co": "Northlane Studio",
+  "tier": "Team $149",
+  "dept": "Client services",
+  "name": "Grace Reyes",
+  "role": "Project Coordinator",
+  "tasks": [
+   "Develop emergency management plans for recovery decision making and communications, continuity of critical dep",
+   "Conduct or oversee collection of corporate intelligence to avoid fraud, financial crime, cyber attack, terrori",
+   "Test documented disaster recovery strategies and plans."
+  ],
+  "apps": [
+   "Confluence",
+   "Microsoft Excel 365",
+   "Microsoft Outlook",
+   "Microsoft SQL Server",
+   "Microsoft SharePoint",
+   "ServiceNow"
+  ],
+  "msg": "When ServiceNow incident resolved, auto-update Confluence runbook and notify Outlook.",
+  "apps_recognised": [
+   "ServiceNow",
+   "Confluence",
+   "Microsoft Outlook"
+  ]
+ },
+ {
+  "id": 8,
+  "co": "Northlane Studio",
+  "tier": "Team $149",
+  "dept": "Client services",
+  "name": "Hiro Young",
+  "role": "Social Media Specialist",
+  "tasks": [
+   "Respond to requests for information from the media or designate an appropriate spokesperson or information sou",
+   "Plan or direct development or communication of programs to maintain favorable public or stockholder perception",
+   "Post and update content on the company's Web site and social media outlets."
+  ],
+  "apps": [
+   "Airtable",
+   "Canva",
+   "Cisco Webex Meetings",
+   "Drupal",
+   "Facebook Pages",
+   "Google Ads"
+  ],
+  "msg": "When Canva design saved, schedule Facebook Pages post and log in Airtable.",
+  "apps_recognised": [
+   "Canva",
+   "Facebook Pages",
+   "Airtable"
+  ]
+ },
+ {
+  "id": 9,
+  "co": "Northlane Studio",
+  "tier": "Team $149",
+  "dept": "Client services",
+  "name": "Isha Novak",
+  "role": "Copywriter",
+  "tasks": [
+   "Develop advertising campaigns for a wide range of clients, working with an advertising agency's creative direc",
+   "Vary language and tone of messages based on product and medium.",
+   "Present drafts and ideas to clients."
+  ],
+  "apps": [
+   "Asana",
+   "Campaign Monitor",
+   "Canva",
+   "Drupal",
+   "Facebook Pages",
+   "Figma"
+  ],
+  "msg": "When Campaign Monitor draft approved, create Asana task for Drupal publishing.",
+  "apps_recognised": [
+   "Campaign Monitor",
+   "Asana",
+   "Drupal"
+  ]
+ },
+ {
+  "id": 10,
+  "co": "Northlane Studio",
+  "tier": "Team $149",
+  "dept": "Operations (head)",
+  "name": "Jonas Duarte",
+  "role": "Bookkeeper",
+  "tasks": [
+   "Operate computers programmed with accounting software to record, store, and analyze information.",
+   "Prepare and process payroll information.",
+   "Check figures, postings, and documents for correct entry, mathematical accuracy, and proper codes."
+  ],
+  "apps": [
+   "Dropbox",
+   "Facebook Pages",
+   "Google Docs",
+   "Google Drive",
+   "Microsoft Excel 365",
+   "Microsoft Outlook"
+  ],
+  "msg": "When Microsoft Outlook invoice arrives, save to Dropbox and update Excel tracker.",
+  "apps_recognised": [
+   "Microsoft Outlook",
+   "Dropbox",
+   "Microsoft Excel 365"
+  ]
+ },
+ {
+  "id": 11,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Boss",
+  "name": "Kofi Turner",
+  "role": "CEO",
+  "tasks": [
+   "Direct or coordinate an organization's financial or budget activities to fund operations, maximize investments",
+   "Confer with board members, organization officials, or staff members to discuss issues, coordinate activities, ",
+   "Prepare budgets for approval, including those for funding or implementation of programs."
+  ],
+  "apps": [
+   "Facebook Pages",
+   "Microsoft Excel 365",
+   "Microsoft Outlook",
+   "Microsoft SharePoint",
+   "Presenton",
+   "Quickbooks Online"
+  ],
+  "msg": "When Quickbooks Online report ready, auto-email board via Microsoft Outlook.",
+  "apps_recognised": [
+   "Quickbooks Online",
+   "Microsoft Outlook"
+  ]
+ },
+ {
+  "id": 12,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Marketing (head)",
+  "name": "Lena Castillo",
+  "role": "Head of Marketing",
+  "tasks": [
+   "Identify, develop, or evaluate marketing strategy, based on knowledge of establishment objectives, market char",
+   "Formulate, direct, or coordinate marketing activities or policies to promote products or services, working wit",
+   "Evaluate the financial aspects of product development, such as budgets, expenditures, research and development"
+  ],
+  "apps": [
+   "Airtable",
+   "Asana",
+   "Canva",
+   "Confluence",
+   "Constant Contact",
+   "Dropbox"
+  ],
+  "msg": "When Asana campaign deadline passes, alert Constant Contact list for status.",
+  "apps_recognised": [
+   "Asana",
+   "Constant Contact"
+  ]
+ },
+ {
+  "id": 13,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Marketing",
+  "name": "Mateo Jensen",
+  "role": "SEO & Search Marketer",
+  "tasks": [
+   "Manage tracking and reporting of search-related activities and provide analyses to marketing executives.",
+   "Optimize digital assets, such as text, graphics, or multimedia assets, for search engine optimization (SEO) or",
+   "Collect and analyze Web metrics, such as visits, time on site, page views per visit, transaction volume and re"
+  ],
+  "apps": [
+   "Drupal",
+   "Facebook Pages",
+   "Google Ads",
+   "Google Search",
+   "HubSpot",
+   "LinkedIn"
+  ],
+  "msg": "When Google Ads performance drops 20%, update HubSpot dashboard and alert LinkedIn.",
+  "apps_recognised": [
+   "Google Ads",
+   "HubSpot",
+   "LinkedIn"
+  ]
+ },
+ {
+  "id": 14,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Marketing",
+  "name": "Nadia Qureshi",
+  "role": "SEO & Search Marketer",
+  "tasks": [
+   "Manage tracking and reporting of search-related activities and provide analyses to marketing executives.",
+   "Optimize digital assets, such as text, graphics, or multimedia assets, for search engine optimization (SEO) or",
+   "Collect and analyze Web metrics, such as visits, time on site, page views per visit, transaction volume and re"
+  ],
+  "apps": [
+   "Drupal",
+   "Facebook Pages",
+   "Google Ads",
+   "Google Search",
+   "HubSpot",
+   "LinkedIn"
+  ],
+  "msg": "When HubSpot lead score spikes, trigger Google Ads remarketing and log in Drupal.",
+  "apps_recognised": [
+   "HubSpot",
+   "Google Ads",
+   "Drupal"
+  ]
+ },
+ {
+  "id": 15,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Marketing",
+  "name": "Omar Xu",
+  "role": "Market Research Analyst",
+  "tasks": [
+   "Prepare reports of findings, illustrating data graphically and translating complex findings into written text.",
+   "Collect and analyze data on customer demographics, preferences, needs, and buying habits to identify potential",
+   "Conduct research on consumer opinions and marketing strategies, collaborating with marketing professionals, st"
+  ],
+  "apps": [
+   "Airtable",
+   "Asana",
+   "Canva",
+   "Dropbox",
+   "Drupal",
+   "Facebook Pages"
+  ],
+  "msg": "When Airtable survey completes, generate Canva infographic and save to Dropbox.",
+  "apps_recognised": [
+   "Airtable",
+   "Canva",
+   "Dropbox"
+  ]
+ },
+ {
+  "id": 16,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Marketing",
+  "name": "Priya Haddad",
+  "role": "Social Media Manager",
+  "tasks": [
+   "Respond to requests for information from the media or designate an appropriate spokesperson or information sou",
+   "Plan or direct development or communication of programs to maintain favorable public or stockholder perception",
+   "Post and update content on the company's Web site and social media outlets."
+  ],
+  "apps": [
+   "Airtable",
+   "Canva",
+   "Cisco Webex Meetings",
+   "Drupal",
+   "Facebook Pages",
+   "Google Ads"
+  ],
+  "msg": "When Canva content approved, auto-post to Facebook Pages and log in Airtable.",
+  "apps_recognised": [
+   "Canva",
+   "Facebook Pages",
+   "Airtable"
+  ]
+ },
+ {
+  "id": 17,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Marketing",
+  "name": "Quinn Ahmed",
+  "role": "Social Media Manager",
+  "tasks": [
+   "Respond to requests for information from the media or designate an appropriate spokesperson or information sou",
+   "Plan or direct development or communication of programs to maintain favorable public or stockholder perception",
+   "Post and update content on the company's Web site and social media outlets."
+  ],
+  "apps": [
+   "Airtable",
+   "Canva",
+   "Cisco Webex Meetings",
+   "Drupal",
+   "Facebook Pages",
+   "Google Ads"
+  ],
+  "msg": "When Cisco Webex meeting ends, upload recording to Drupal and schedule Facebook Pages.",
+  "apps_recognised": [
+   "Cisco Webex Meetings",
+   "Drupal",
+   "Facebook Pages"
+  ]
+ },
+ {
+  "id": 18,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Marketing",
+  "name": "Rafael Sato",
+  "role": "Social Media Manager",
+  "tasks": [
+   "Respond to requests for information from the media or designate an appropriate spokesperson or information sou",
+   "Plan or direct development or communication of programs to maintain favorable public or stockholder perception",
+   "Post and update content on the company's Web site and social media outlets."
+  ],
+  "apps": [
+   "Airtable",
+   "Canva",
+   "Cisco Webex Meetings",
+   "Drupal",
+   "Facebook Pages",
+   "Google Ads"
+  ],
+  "msg": "When Google Ads campaign ends, archive data to Airtable and notify Canva team.",
+  "apps_recognised": [
+   "Google Ads",
+   "Airtable",
+   "Canva"
+  ]
+ },
+ {
+  "id": 19,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Marketing",
+  "name": "Sana Bose",
+  "role": "Content Writer",
+  "tasks": [
+   "Develop advertising campaigns for a wide range of clients, working with an advertising agency's creative direc",
+   "Vary language and tone of messages based on product and medium.",
+   "Present drafts and ideas to clients."
+  ],
+  "apps": [
+   "Asana",
+   "Campaign Monitor",
+   "Canva",
+   "Drupal",
+   "Facebook Pages",
+   "Figma"
+  ],
+  "msg": "When Figma wireframe approved, create Asana tasks and draft Campaign Monitor.",
+  "apps_recognised": [
+   "Figma",
+   "Asana",
+   "Campaign Monitor"
+  ]
+ },
+ {
+  "id": 20,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Marketing",
+  "name": "Tomas Iyer",
+  "role": "Content Writer",
+  "tasks": [
+   "Develop advertising campaigns for a wide range of clients, working with an advertising agency's creative direc",
+   "Vary language and tone of messages based on product and medium.",
+   "Present drafts and ideas to clients."
+  ],
+  "apps": [
+   "Asana",
+   "Campaign Monitor",
+   "Canva",
+   "Drupal",
+   "Facebook Pages",
+   "Figma"
+  ],
+  "msg": "When Campaign Monitor A/B test wins, update Figma templates and Asana board.",
+  "apps_recognised": [
+   "Campaign Monitor",
+   "Figma",
+   "Asana"
+  ]
+ },
+ {
+  "id": 21,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Marketing",
+  "name": "Uma Park",
+  "role": "Content Writer",
+  "tasks": [
+   "Develop advertising campaigns for a wide range of clients, working with an advertising agency's creative direc",
+   "Vary language and tone of messages based on product and medium.",
+   "Present drafts and ideas to clients."
+  ],
+  "apps": [
+   "Asana",
+   "Campaign Monitor",
+   "Canva",
+   "Drupal",
+   "Facebook Pages",
+   "Figma"
+  ],
+  "msg": "When Drupal article published, auto-share to Facebook Pages and log in Asana.",
+  "apps_recognised": [
+   "Drupal",
+   "Facebook Pages",
+   "Asana"
+  ]
+ },
+ {
+  "id": 22,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Marketing",
+  "name": "Victor Watanabe",
+  "role": "Email Marketing Specialist",
+  "tasks": [
+   "Prepare reports of findings, illustrating data graphically and translating complex findings into written text.",
+   "Collect and analyze data on customer demographics, preferences, needs, and buying habits to identify potential",
+   "Conduct research on consumer opinions and marketing strategies, collaborating with marketing professionals, st"
+  ],
+  "apps": [
+   "Airtable",
+   "Asana",
+   "Canva",
+   "Dropbox",
+   "Drupal",
+   "Facebook Pages"
+  ],
+  "msg": "When Airtable segment updates, trigger Dropbox report to marketing leads.",
+  "apps_recognised": [
+   "Airtable",
+   "Segment",
+   "Dropbox"
+  ]
+ },
+ {
+  "id": 23,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Design (head)",
+  "name": "Wen Tanaka",
+  "role": "Head of Design",
+  "tasks": [
+   "Work with creative directors to develop design solutions.",
+   "Present final layouts to clients for approval.",
+   "Manage own accounts and projects, working within budget and scheduling requirements."
+  ],
+  "apps": [
+   "Confluence",
+   "Drupal",
+   "Facebook Pages",
+   "Figma",
+   "Google Slides",
+   "Microsoft Excel 365"
+  ],
+  "msg": "When Figma design system updates, notify team Confluence and archive Google Slides.",
+  "apps_recognised": [
+   "Figma",
+   "Confluence",
+   "Google Slides"
+  ]
+ },
+ {
+  "id": 24,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Design",
+  "name": "Ximena Santos",
+  "role": "Graphic Designer",
+  "tasks": [
+   "Key information into computer equipment to create layouts for client or supervisor.",
+   "Review final layouts and suggest improvements, as needed.",
+   "Determine size and arrangement of illustrative material and copy, and select style and size of type."
+  ],
+  "apps": [
+   "Drupal",
+   "Facebook Pages",
+   "Figma",
+   "Google Ads",
+   "Google Docs",
+   "Google Drive"
+  ],
+  "msg": "When Google Ads creative approved, export Figma assets to Google Drive folder.",
+  "apps_recognised": [
+   "Google Ads",
+   "Figma",
+   "Google Drive"
+  ]
+ },
+ {
+  "id": 25,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Design",
+  "name": "Yusuf Rossi",
+  "role": "Graphic Designer",
+  "tasks": [
+   "Key information into computer equipment to create layouts for client or supervisor.",
+   "Review final layouts and suggest improvements, as needed.",
+   "Determine size and arrangement of illustrative material and copy, and select style and size of type."
+  ],
+  "apps": [
+   "Drupal",
+   "Facebook Pages",
+   "Figma",
+   "Google Ads",
+   "Google Docs",
+   "Google Drive"
+  ],
+  "msg": "When Facebook Pages post performs 2x average, save Figma screenshot to Drive.",
+  "apps_recognised": [
+   "Facebook Pages",
+   "Figma"
+  ]
+ },
+ {
+  "id": 26,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Design",
+  "name": "Zara Zhou",
+  "role": "Graphic Designer",
+  "tasks": [
+   "Key information into computer equipment to create layouts for client or supervisor.",
+   "Review final layouts and suggest improvements, as needed.",
+   "Determine size and arrangement of illustrative material and copy, and select style and size of type."
+  ],
+  "apps": [
+   "Drupal",
+   "Facebook Pages",
+   "Figma",
+   "Google Ads",
+   "Google Docs",
+   "Google Drive"
+  ],
+  "msg": "When Google Docs brief approved, create Figma file from template and alert team.",
+  "apps_recognised": [
+   "Google Docs",
+   "Figma"
+  ]
+ },
+ {
+  "id": 27,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Design",
+  "name": "Arjun Hughes",
+  "role": "Graphic Designer",
+  "tasks": [
+   "Key information into computer equipment to create layouts for client or supervisor.",
+   "Review final layouts and suggest improvements, as needed.",
+   "Determine size and arrangement of illustrative material and copy, and select style and size of type."
+  ],
+  "apps": [
+   "Drupal",
+   "Facebook Pages",
+   "Figma",
+   "Google Ads",
+   "Google Docs",
+   "Google Drive"
+  ],
+  "msg": "When Drupal page launches, auto-generate Figma social kit and Google Ads specs.",
+  "apps_recognised": [
+   "Drupal",
+   "Figma",
+   "Google Ads"
+  ]
+ },
+ {
+  "id": 28,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Design",
+  "name": "Bea Ortiz",
+  "role": "Video Editor",
+  "tasks": [
+   "Organize and string together raw footage into a continuous whole according to scripts or the instructions of d",
+   "Edit films and videotapes to insert music, dialogue, and sound effects, to arrange films into sequences, and t",
+   "Select and combine the most effective shots of each scene to form a logical and smoothly running story."
+  ],
+  "apps": [
+   "Instagram for Business",
+   "Microsoft Excel 365",
+   "YouTube"
+  ],
+  "msg": "When YouTube upload finishes, update Instagram for Business and Excel content calendar.",
+  "apps_recognised": [
+   "YouTube",
+   "Instagram for Business",
+   "Microsoft Excel 365"
+  ]
+ },
+ {
+  "id": 29,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Design",
+  "name": "Carlos Vargas",
+  "role": "Video Editor",
+  "tasks": [
+   "Organize and string together raw footage into a continuous whole according to scripts or the instructions of d",
+   "Edit films and videotapes to insert music, dialogue, and sound effects, to arrange films into sequences, and t",
+   "Select and combine the most effective shots of each scene to form a logical and smoothly running story."
+  ],
+  "apps": [
+   "Instagram for Business",
+   "Microsoft Excel 365",
+   "YouTube"
+  ],
+  "msg": "When Excel shoot schedule updates, auto-post Instagram for Business story reminder.",
+  "apps_recognised": [
+   "Microsoft Excel 365",
+   "Instagram for Business"
+  ]
+ },
+ {
+  "id": 30,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Design",
+  "name": "Divya Moreau",
+  "role": "Web Designer",
+  "tasks": [
+   "Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with W",
+   "Collaborate with web development professionals, such as front-end or back-end developers, to complete the full",
+   "Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecti"
+  ],
+  "apps": [
+   "Airtable",
+   "Apache Kafka",
+   "Cisco Webex Meetings",
+   "Confluence",
+   "Dropbox",
+   "Drupal"
+  ],
+  "msg": "When Airtable bug reported, create Cisco Webex meeting and Confluence ticket.",
+  "apps_recognised": [
+   "Airtable",
+   "Cisco Webex Meetings",
+   "Confluence"
+  ]
+ },
+ {
+  "id": 31,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Design",
+  "name": "Emeka Kowalski",
+  "role": "Product Photographer",
+  "tasks": [
+   "Adjust apertures, shutter speeds, and camera focus according to a combination of factors, such as lighting, fi",
+   "Create artificial light, using flashes and reflectors.",
+   "Determine desired images and picture composition, selecting and adjusting subjects, equipment, and lighting to"
+  ],
+  "apps": [
+   "Facebook Pages",
+   "Google Drive",
+   "Microsoft Excel 365",
+   "Quickbooks Online",
+   "Twitter",
+   "WordPress"
+  ],
+  "msg": "When Quickbooks Online expense logged, save photo to Google Drive and update Excel.",
+  "apps_recognised": [
+   "Quickbooks Online",
+   "Google Drive",
+   "Microsoft Excel 365"
+  ]
+ },
+ {
+  "id": 32,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Sales (head)",
+  "name": "Fatima Quiroga",
+  "role": "Head of Sales",
+  "tasks": [
+   "Oversee regional and local sales managers and their staffs.",
+   "Resolve customer complaints regarding sales and service.",
+   "Monitor customer preferences to determine focus of sales efforts."
+  ],
+  "apps": [
+   "Airtable",
+   "Dropbox",
+   "Facebook Pages",
+   "Google Ads",
+   "Google Docs",
+   "Google Drive"
+  ],
+  "msg": "When Google Ads spend hits weekly cap, alert Airtable and freeze team budgets.",
+  "apps_recognised": [
+   "Google Ads",
+   "Airtable"
+  ]
+ },
+ {
+  "id": 33,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Sales",
+  "name": "Gabriel Yilmaz",
+  "role": "B2B Sales Rep",
+  "tasks": [
+   "Negotiate with retail merchants to improve product exposure, such as shelf positioning and advertising.",
+   "Check stock levels and reorder merchandise as necessary.",
+   "Plan, assemble, and stock product displays in retail stores, or make recommendations to retailers regarding pr"
+  ],
+  "apps": [
+   "Airtable",
+   "Cisco Webex Meetings",
+   "Dropbox",
+   "Facebook Pages",
+   "Google Ads",
+   "Google Docs"
+  ],
+  "msg": "When Airtable deal closes, create Cisco Webex onboarding and Google Docs contract.",
+  "apps_recognised": [
+   "Airtable",
+   "Cisco Webex Meetings",
+   "Google Docs"
+  ]
+ },
+ {
+  "id": 34,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Sales",
+  "name": "Hana Gupta",
+  "role": "B2B Sales Rep",
+  "tasks": [
+   "Negotiate with retail merchants to improve product exposure, such as shelf positioning and advertising.",
+   "Check stock levels and reorder merchandise as necessary.",
+   "Plan, assemble, and stock product displays in retail stores, or make recommendations to retailers regarding pr"
+  ],
+  "apps": [
+   "Airtable",
+   "Cisco Webex Meetings",
+   "Dropbox",
+   "Facebook Pages",
+   "Google Ads",
+   "Google Docs"
+  ],
+  "msg": "When Google Ads lead converts, update Airtable and schedule Cisco Webex follow-up.",
+  "apps_recognised": [
+   "Google Ads",
+   "Airtable",
+   "Cisco Webex Meetings"
+  ]
+ },
+ {
+  "id": 35,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Sales",
+  "name": "Ivan Nguyen",
+  "role": "B2B Sales Rep",
+  "tasks": [
+   "Negotiate with retail merchants to improve product exposure, such as shelf positioning and advertising.",
+   "Check stock levels and reorder merchandise as necessary.",
+   "Plan, assemble, and stock product displays in retail stores, or make recommendations to retailers regarding pr"
+  ],
+  "apps": [
+   "Airtable",
+   "Cisco Webex Meetings",
+   "Dropbox",
+   "Facebook Pages",
+   "Google Ads",
+   "Google Docs"
+  ],
+  "msg": "When Dropbox proposal signed, trigger Airtable workflow and Google Ads pixel event.",
+  "apps_recognised": [
+   "Dropbox",
+   "Airtable",
+   "Google Ads"
+  ]
+ },
+ {
+  "id": 36,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Sales",
+  "name": "Jia Ueda",
+  "role": "B2B Sales Rep",
+  "tasks": [
+   "Negotiate with retail merchants to improve product exposure, such as shelf positioning and advertising.",
+   "Check stock levels and reorder merchandise as necessary.",
+   "Plan, assemble, and stock product displays in retail stores, or make recommendations to retailers regarding pr"
+  ],
+  "apps": [
+   "Airtable",
+   "Cisco Webex Meetings",
+   "Dropbox",
+   "Facebook Pages",
+   "Google Ads",
+   "Google Docs"
+  ],
+  "msg": "When Facebook Pages inquiry arrives, create Airtable lead and assign Google Docs.",
+  "apps_recognised": [
+   "Facebook Pages",
+   "Airtable",
+   "Google Docs"
+  ]
+ },
+ {
+  "id": 37,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Sales",
+  "name": "Kemal Lindqvist",
+  "role": "Sales Development Rep",
+  "tasks": [
+   "Answer customers' questions about services, prices, availability, or credit terms.",
+   "Attend sales or trade meetings or read related publications to obtain information about market conditions, bus",
+   "Compute and compare costs of services."
+  ],
+  "apps": [
+   "HubSpot",
+   "Microsoft Excel 365",
+   "Microsoft Outlook",
+   "Salesforce"
+  ],
+  "msg": "When Salesforce opportunity stalls 14 days, auto-email via Microsoft Outlook.",
+  "apps_recognised": [
+   "Salesforce",
+   "Microsoft Outlook"
+  ]
+ },
+ {
+  "id": 38,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Sales",
+  "name": "Lucia Ibrahim",
+  "role": "Wholesale Account Manager",
+  "tasks": [
+   "Answer customers' questions about services, prices, availability, or credit terms.",
+   "Attend sales or trade meetings or read related publications to obtain information about market conditions, bus",
+   "Compute and compare costs of services."
+  ],
+  "apps": [
+   "HubSpot",
+   "Microsoft Excel 365",
+   "Microsoft Outlook",
+   "Salesforce"
+  ],
+  "msg": "When HubSpot deal moves to closed, update Salesforce and send Microsoft Outlook invoice.",
+  "apps_recognised": [
+   "HubSpot",
+   "Salesforce",
+   "Microsoft Outlook"
+  ]
+ },
+ {
+  "id": 39,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Sales",
+  "name": "Malik Petrov",
+  "role": "Wholesale Account Manager",
+  "tasks": [
+   "Answer customers' questions about services, prices, availability, or credit terms.",
+   "Attend sales or trade meetings or read related publications to obtain information about market conditions, bus",
+   "Compute and compare costs of services."
+  ],
+  "apps": [
+   "HubSpot",
+   "Microsoft Excel 365",
+   "Microsoft Outlook",
+   "Salesforce"
+  ],
+  "msg": "When Microsoft Outlook meeting booked, log in Salesforce and update HubSpot sequence.",
+  "apps_recognised": [
+   "Microsoft Outlook",
+   "Salesforce",
+   "HubSpot"
+  ]
+ },
+ {
+  "id": 40,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Customer support (head)",
+  "name": "Noor Wolfe",
+  "role": "Head of Support",
+  "tasks": [
+   "Supervise the work of office, administrative, or customer service employees to ensure adherence to quality sta",
+   "Resolve customer complaints or answer customers' questions regarding policies and procedures.",
+   "Provide employees with guidance in handling difficult or complex problems or in resolving escalated complaints"
+  ],
+  "apps": [
+   "Dropbox",
+   "Facebook Pages",
+   "Google Docs",
+   "Google Drive",
+   "Microsoft Excel 365",
+   "Microsoft Outlook"
+  ],
+  "msg": "When Google Drive complaint folder updated, alert Microsoft Outlook and update Excel.",
+  "apps_recognised": [
+   "Google Drive",
+   "Microsoft Outlook",
+   "Microsoft Excel 365"
+  ]
+ },
+ {
+  "id": 41,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Customer support",
+  "name": "Olu Farouk",
+  "role": "Customer Service Rep",
+  "tasks": [
+   "Confer with customers by telephone or in person to provide information about products or services, take or ent",
+   "Keep records of customer interactions or transactions, recording details of inquiries, complaints, or comments",
+   "Check to ensure that appropriate changes were made to resolve customers' problems."
+  ],
+  "apps": [
+   "Airtable",
+   "Dropbox",
+   "Facebook Pages",
+   "Google Docs",
+   "Google Drive",
+   "LinkedIn"
+  ],
+  "msg": "When Airtable return initiated, create Google Docs case file and alert LinkedIn team.",
+  "apps_recognised": [
+   "Airtable",
+   "Google Docs",
+   "LinkedIn"
+  ]
+ },
+ {
+  "id": 42,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Customer support",
+  "name": "Paula Mwangi",
+  "role": "Customer Service Rep",
+  "tasks": [
+   "Confer with customers by telephone or in person to provide information about products or services, take or ent",
+   "Keep records of customer interactions or transactions, recording details of inquiries, complaints, or comments",
+   "Check to ensure that appropriate changes were made to resolve customers' problems."
+  ],
+  "apps": [
+   "Airtable",
+   "Dropbox",
+   "Facebook Pages",
+   "Google Docs",
+   "Google Drive",
+   "LinkedIn"
+  ],
+  "msg": "When Facebook Pages review posted, log in Airtable and create Google Docs response.",
+  "apps_recognised": [
+   "Facebook Pages",
+   "Airtable",
+   "Google Docs"
+  ]
+ },
+ {
+  "id": 43,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Customer support",
+  "name": "Reza Tran",
+  "role": "Customer Service Rep",
+  "tasks": [
+   "Confer with customers by telephone or in person to provide information about products or services, take or ent",
+   "Keep records of customer interactions or transactions, recording details of inquiries, complaints, or comments",
+   "Check to ensure that appropriate changes were made to resolve customers' problems."
+  ],
+  "apps": [
+   "Airtable",
+   "Dropbox",
+   "Facebook Pages",
+   "Google Docs",
+   "Google Drive",
+   "LinkedIn"
+  ],
+  "msg": "When Google Drive ticket resolved, update Airtable and notify LinkedIn feedback team.",
+  "apps_recognised": [
+   "Google Drive",
+   "Airtable",
+   "LinkedIn"
+  ]
+ },
+ {
+  "id": 44,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Customer support",
+  "name": "Sofia Okafor",
+  "role": "Customer Service Rep",
+  "tasks": [
+   "Confer with customers by telephone or in person to provide information about products or services, take or ent",
+   "Keep records of customer interactions or transactions, recording details of inquiries, complaints, or comments",
+   "Check to ensure that appropriate changes were made to resolve customers' problems."
+  ],
+  "apps": [
+   "Airtable",
+   "Dropbox",
+   "Facebook Pages",
+   "Google Docs",
+   "Google Drive",
+   "LinkedIn"
+  ],
+  "msg": "When LinkedIn message arrives, create Airtable task and draft Google Docs reply.",
+  "apps_recognised": [
+   "LinkedIn",
+   "Airtable",
+   "Google Docs"
+  ]
+ },
+ {
+  "id": 45,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Customer support",
+  "name": "Tariq Costa",
+  "role": "Customer Service Rep",
+  "tasks": [
+   "Confer with customers by telephone or in person to provide information about products or services, take or ent",
+   "Keep records of customer interactions or transactions, recording details of inquiries, complaints, or comments",
+   "Check to ensure that appropriate changes were made to resolve customers' problems."
+  ],
+  "apps": [
+   "Airtable",
+   "Dropbox",
+   "Facebook Pages",
+   "Google Docs",
+   "Google Drive",
+   "LinkedIn"
+  ],
+  "msg": "When Google Docs policy updated, alert Airtable team and archive in Dropbox.",
+  "apps_recognised": [
+   "Google Docs",
+   "Airtable",
+   "Dropbox"
+  ]
+ },
+ {
+  "id": 46,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Customer support",
+  "name": "Vera Osei",
+  "role": "Customer Service Rep",
+  "tasks": [
+   "Confer with customers by telephone or in person to provide information about products or services, take or ent",
+   "Keep records of customer interactions or transactions, recording details of inquiries, complaints, or comments",
+   "Check to ensure that appropriate changes were made to resolve customers' problems."
+  ],
+  "apps": [
+   "Airtable",
+   "Dropbox",
+   "Facebook Pages",
+   "Google Docs",
+   "Google Drive",
+   "LinkedIn"
+  ],
+  "msg": "When Dropbox refund approved, update Airtable and send Google Docs confirmation.",
+  "apps_recognised": [
+   "Dropbox",
+   "Airtable",
+   "Google Docs"
+  ]
+ },
+ {
+  "id": 47,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Customer support",
+  "name": "Wanjiru Varga",
+  "role": "Customer Service Rep",
+  "tasks": [
+   "Confer with customers by telephone or in person to provide information about products or services, take or ent",
+   "Keep records of customer interactions or transactions, recording details of inquiries, complaints, or comments",
+   "Check to ensure that appropriate changes were made to resolve customers' problems."
+  ],
+  "apps": [
+   "Airtable",
+   "Dropbox",
+   "Facebook Pages",
+   "Google Docs",
+   "Google Drive",
+   "LinkedIn"
+  ],
+  "msg": "When Airtable escalation triggers, create Google Docs brief and alert LinkedIn manager.",
+  "apps_recognised": [
+   "Airtable",
+   "Google Docs",
+   "LinkedIn"
+  ]
+ },
+ {
+  "id": 48,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Operations (head)",
+  "name": "Yara Eriksen",
+  "role": "Head of Operations",
+  "tasks": [
+   "Review financial statements, sales or activity reports, or other performance data to measure productivity or g",
+   "Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, o",
+   "Manage the movement of goods into and out of production facilities to ensure efficiency, effectiveness, or sus"
+  ],
+  "apps": [
+   "Airtable",
+   "Confluence",
+   "Dropbox",
+   "Facebook Pages",
+   "Google Ads",
+   "Google Docs"
+  ],
+  "msg": "When Google Ads monthly report ready, distribute via Google Docs and Airtable.",
+  "apps_recognised": [
+   "Google Ads",
+   "Google Docs",
+   "Airtable"
+  ]
+ },
+ {
+  "id": 49,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Operations",
+  "name": "Zubair Lopez",
+  "role": "Logistics Coordinator",
+  "tasks": [
+   "Maintain and develop positive business relationships with a customer's key personnel involved in, or directly ",
+   "Develop an understanding of customers' needs and take actions to ensure that such needs are met.",
+   "Manage subcontractor activities, reviewing proposals, developing performance specifications, and serving as li"
+  ],
+  "apps": [
+   "Facebook Pages",
+   "Microsoft Excel 365",
+   "Microsoft Outlook",
+   "Microsoft SQL Server",
+   "Microsoft SharePoint",
+   "Quickbooks Online"
+  ],
+  "msg": "When Quickbooks Online payment late, alert Microsoft Outlook and update Excel aging.",
+  "apps_recognised": [
+   "Quickbooks Online",
+   "Microsoft Outlook",
+   "Microsoft Excel 365"
+  ]
+ },
+ {
+  "id": 50,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Operations",
+  "name": "Anika Silva",
+  "role": "Logistics Coordinator",
+  "tasks": [
+   "Maintain and develop positive business relationships with a customer's key personnel involved in, or directly ",
+   "Develop an understanding of customers' needs and take actions to ensure that such needs are met.",
+   "Manage subcontractor activities, reviewing proposals, developing performance specifications, and serving as li"
+  ],
+  "apps": [
+   "Facebook Pages",
+   "Microsoft Excel 365",
+   "Microsoft Outlook",
+   "Microsoft SQL Server",
+   "Microsoft SharePoint",
+   "Quickbooks Online"
+  ],
+  "msg": "When Microsoft SQL Server stock low, trigger Microsoft Outlook PO and update SharePoint.",
+  "apps_recognised": [
+   "Microsoft SQL Server",
+   "Microsoft Outlook"
+  ]
+ },
+ {
+  "id": 51,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Operations",
+  "name": "Amara Okafor",
+  "role": "Warehouse & Shipping Clerk",
+  "tasks": [
+   "Examine shipment contents and compare with records, such as manifests, invoices, or orders, to verify accuracy",
+   "Requisition and store shipping materials and supplies to maintain inventory of stock.",
+   "Prepare documents, such as work orders, bills of lading, or shipping orders, to route materials."
+  ],
+  "apps": [
+   "Microsoft Excel 365",
+   "Microsoft Outlook"
+  ],
+  "msg": "When Microsoft Outlook shipment alert arrives, update Excel manifest and confirm.",
+  "apps_recognised": [
+   "Microsoft Outlook",
+   "Microsoft Excel 365"
+  ]
+ },
+ {
+  "id": 52,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Operations",
+  "name": "Bilal Costa",
+  "role": "Warehouse & Shipping Clerk",
+  "tasks": [
+   "Examine shipment contents and compare with records, such as manifests, invoices, or orders, to verify accuracy",
+   "Requisition and store shipping materials and supplies to maintain inventory of stock.",
+   "Prepare documents, such as work orders, bills of lading, or shipping orders, to route materials."
+  ],
+  "apps": [
+   "Microsoft Excel 365",
+   "Microsoft Outlook"
+  ],
+  "msg": "When Excel inventory discrepancy found, create Microsoft Outlook vendor inquiry.",
+  "apps_recognised": [
+   "Microsoft Excel 365",
+   "Microsoft Outlook"
+  ]
+ },
+ {
+  "id": 53,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Operations",
+  "name": "Chen Osei",
+  "role": "Supply Chain Manager",
+  "tasks": [
+   "Determine appropriate equipment and staffing levels to load, unload, move, or store materials.",
+   "Manage activities related to strategic or tactical purchasing, material requirements planning, controlling inv",
+   "Select transportation routes to maximize economy by combining shipments or consolidating warehousing and distr"
+  ],
+  "apps": [
+   "Facebook Pages",
+   "Microsoft Excel 365",
+   "Microsoft Outlook",
+   "Microsoft SQL Server",
+   "Microsoft SharePoint",
+   "NetSuite"
+  ],
+  "msg": "When Microsoft SQL Server demand spikes, optimize routes and alert Microsoft Outlook.",
+  "apps_recognised": [
+   "Microsoft SQL Server",
+   "Microsoft Outlook"
+  ]
+ },
+ {
+  "id": 54,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Operations",
+  "name": "Dalia Varga",
+  "role": "Purchasing Agent",
+  "tasks": [
+   "Monitor and follow applicable laws and regulations.",
+   "Purchase the highest quality merchandise at the lowest possible price and in correct amounts.",
+   "Formulate policies and procedures for bid proposals and procurement of goods and services."
+  ],
+  "apps": [
+   "Facebook Pages",
+   "Google Ads",
+   "Google Docs",
+   "Microsoft Excel 365",
+   "Microsoft Outlook",
+   "Microsoft SharePoint"
+  ],
+  "msg": "When Microsoft SharePoint bid deadline nears, alert Microsoft Outlook and update Excel.",
+  "apps_recognised": [
+   "Microsoft SharePoint",
+   "Microsoft Outlook",
+   "Microsoft Excel 365"
+  ]
+ },
+ {
+  "id": 55,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Finance & people (head)",
+  "name": "Elif Eriksen",
+  "role": "Head of Finance",
+  "tasks": [
+   "Establish procedures for custody or control of assets, records, loan collateral, or securities to ensure safek",
+   "Establish and maintain relationships with individual or business customers or provide assistance with problems",
+   "Communicate with stockholders or other investors to provide information or to raise capital."
+  ],
+  "apps": [
+   "Facebook Pages",
+   "Microsoft Excel 365",
+   "Microsoft Outlook",
+   "Microsoft SQL Server",
+   "Microsoft SharePoint",
+   "NetSuite"
+  ],
+  "msg": "When NetSuite quarter closes, distribute Microsoft Excel reports to Microsoft Outlook list.",
+  "apps_recognised": [
+   "NetSuite",
+   "Microsoft Excel 365",
+   "Microsoft Outlook"
+  ]
+ },
+ {
+  "id": 56,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Finance & people",
+  "name": "Farhan Lopez",
+  "role": "Accountant",
+  "tasks": [
+   "Prepare detailed reports on audit findings.",
+   "Report to management about asset utilization and audit results, and recommend changes in operations and financ",
+   "Collect and analyze data to detect deficient controls, duplicated effort, extravagance, fraud, or non-complian"
+  ],
+  "apps": [
+   "Facebook Pages",
+   "Google Docs",
+   "Google Sheets",
+   "Google Slides",
+   "Microsoft Excel 365",
+   "Microsoft OneNote"
+  ],
+  "msg": "When Google Sheets audit complete, update Google Slides and archive in Google Docs.",
+  "apps_recognised": [
+   "Google Sheets",
+   "Google Slides",
+   "Google Docs"
+  ]
+ },
+ {
+  "id": 57,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Finance & people",
+  "name": "Grace Silva",
+  "role": "Bookkeeper",
+  "tasks": [
+   "Operate computers programmed with accounting software to record, store, and analyze information.",
+   "Prepare and process payroll information.",
+   "Check figures, postings, and documents for correct entry, mathematical accuracy, and proper codes."
+  ],
+  "apps": [
+   "Dropbox",
+   "Facebook Pages",
+   "Google Docs",
+   "Google Drive",
+   "Microsoft Excel 365",
+   "Microsoft Outlook"
+  ],
+  "msg": "When Microsoft Outlook payroll email arrives, save to Dropbox and update Excel.",
+  "apps_recognised": [
+   "Microsoft Outlook",
+   "Dropbox",
+   "Microsoft Excel 365"
+  ]
+ },
+ {
+  "id": 58,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Finance & people",
+  "name": "Hiro Rahman",
+  "role": "HR Specialist",
+  "tasks": [
+   "Interpret and explain human resources policies, procedures, laws, standards, or regulations.",
+   "Hire employees and process hiring-related paperwork.",
+   "Administer employee benefit plans."
+  ],
+  "apps": [
+   "Airtable",
+   "Cisco Webex Meetings",
+   "Drupal",
+   "Facebook Pages",
+   "GitHub",
+   "Google Ads"
+  ],
+  "msg": "When Airtable PTO request approved, update Drupal org chart and alert Cisco Webex.",
+  "apps_recognised": [
+   "Airtable",
+   "Drupal",
+   "Cisco Webex Meetings"
+  ]
+ },
+ {
+  "id": 59,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Finance & people",
+  "name": "Isha Mensah",
+  "role": "Payroll Clerk",
+  "tasks": [
+   "Verify attendance, hours worked, and pay adjustments, and post information onto designated records.",
+   "Process and issue employee paychecks and statements of earnings and deductions.",
+   "Compute wages and deductions, and enter data into computers."
+  ],
+  "apps": [
+   "Facebook Pages",
+   "Microsoft Excel 365",
+   "Microsoft Outlook",
+   "NetSuite",
+   "Quickbooks Online",
+   "Workday"
+  ],
+  "msg": "When Workday hours submitted, verify in NetSuite and trigger Quickbooks Online run.",
+  "apps_recognised": [
+   "Workday",
+   "NetSuite",
+   "Quickbooks Online"
+  ]
+ },
+ {
+  "id": 60,
+  "co": "Brightpath Home Co.",
+  "tier": "Scale $299",
+  "dept": "Finance & people",
+  "name": "Jonas Nakamura",
+  "role": "Systems & Analytics Analyst",
+  "tasks": [
+   "Troubleshoot program and system malfunctions to restore normal functioning.",
+   "Provide staff and users with assistance solving computer-related problems, such as malfunctions and program pr",
+   "Test, maintain, and monitor computer programs and systems, including coordinating the installation of computer"
+  ],
+  "apps": [
+   "Apache Kafka",
+   "Cisco Webex Meetings",
+   "Confluence",
+   "Drupal",
+   "Facebook Pages",
+   "GitHub"
+  ],
+  "msg": "When GitHub deployment fails, create Cisco Webex bridge and Confluence incident.",
+  "apps_recognised": [
+   "GitHub",
+   "Cisco Webex Meetings",
+   "Confluence"
+  ]
+ }
+]
