@@ -1,0 +1,62 @@
+[
+ {
+  "url": "https://help.zapier.com/hc/en-us/articles/8496241726989",
+  "ok": true,
+  "chars": 13821,
+  "file": "results/autofix/00.md"
+ },
+ {
+  "url": "https://help.zapier.com/hc/en-us/articles/8496309697421",
+  "ok": true,
+  "chars": 9702,
+  "file": "results/autofix/01.md"
+ },
+ {
+  "url": "https://help.zapier.com/hc/en-us/articles/22495436062605",
+  "ok": true,
+  "chars": 12009,
+  "file": "results/autofix/02.md"
+ },
+ {
+  "url": "https://zapier.com/blog/zapier-error-handling/",
+  "ok": true,
+  "chars": 3828,
+  "file": "results/autofix/03.md"
+ },
+ {
+  "url": "https://help.zapier.com/hc/en-us/articles/8496241602189",
+  "ok": true,
+  "chars": 2979,
+  "file": "results/autofix/04.md"
+ },
+ {
+  "url": "https://www.make.com/en/help/errors/overview-of-error-handling",
+  "ok": false,
+  "chars": 0,
+  "file": "results/autofix/05.md"
+ },
+ {
+  "url": "https://www.make.com/en/help/errors/automatic-retry-of-incomplete-executions",
+  "ok": false,
+  "chars": 0,
+  "file": "results/autofix/06.md"
+ },
+ {
+  "url": "https://docs.n8n.io/flow-logic/error-handling/",
+  "ok": true,
+  "chars": 10640,
+  "file": "results/autofix/07.md"
+ },
+ {
+  "url": "https://www.activepieces.com/docs/flows/debugging-runs",
+  "ok": true,
+  "chars": 47391,
+  "file": "results/autofix/08.md"
+ },
+ {
+  "url": "https://www.activepieces.com/docs/install/configuration/environment-variables",
+  "ok": true,
+  "chars": 134296,
+  "file": "results/autofix/09.md"
+ }
+]
