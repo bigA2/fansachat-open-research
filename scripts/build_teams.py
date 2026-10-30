@@ -51,7 +51,7 @@ LAST = ['Rahman', 'Okafor', 'Lindqvist', 'Moreau', 'Tanaka', 'Haddad', 'Novak', 
         'Duarte', 'Nakamura', 'Osei', 'Petrov', 'Quiroga', 'Rossi', 'Sato', 'Turner', 'Usman', 'Varga', 'Wolfe', 'Yilmaz', 'Zhou', 'Bose',
         'Castillo', 'Dlamini', 'Eriksen', 'Farouk', 'Gupta', 'Hughes', 'Iyer', 'Jensen', 'Khan', 'Lopez', 'Mwangi', 'Nguyen', 'Ortiz',
         'Park', 'Qureshi', 'Reyes', 'Silva', 'Tran', 'Ueda', 'Vargas', 'Watanabe', 'Xu', 'Young']
-names = iter(f'{f} {l}' for f, l in zip(FIRST, LAST))
+names = iter(f'{FIRST[i % len(FIRST)]} {LAST[(i * 7 + i // len(FIRST)) % len(LAST)]}' for i in range(500))   # 60+ unique, fictional
 
 def team(company, kind, tier, boss, sectors):
     org = {'company': company, 'kind': kind, 'tier': tier, 'boss': {'name': next(names), **role(*boss)}, 'sectors': []}
