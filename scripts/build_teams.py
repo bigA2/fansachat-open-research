@@ -71,14 +71,14 @@ TEAM = team('Northlane Studio', 'creative agency (design, web, social)', 'Team $
 # Scale tier: a 50-person growing small business (e-commerce home goods brand with in-house studio)
 SCALE = team('Brightpath Home Co.', 'growing small business (e-commerce brand)', 'Scale $299', ('11-1011.00', 'CEO'), [
     ('Marketing', ('11-2021.00', 'Head of Marketing'), [('13-1161.01', 'SEO & Search Marketer', 2), ('13-1161.00', 'Market Research Analyst', 1),
-        ('27-3031.00', 'Social Media Manager', 2), ('27-3043.00', 'Content Writer', 2), ('13-1161.00', 'Email Marketing Specialist', 1)]),
-    ('Design', ('27-1011.00', 'Head of Design'), [('27-1024.00', 'Graphic Designer', 3), ('15-1255.00', 'Web Designer', 1), ('27-4021.00', 'Product Photographer', 1)]),
-    ('Sales', ('11-2022.00', 'Head of Sales'), [('41-4012.00', 'B2B Sales Rep', 3), ('41-3091.00', 'Wholesale Account Manager', 2)]),
-    ('Customer support', ('43-1011.00', 'Head of Support'), [('43-4051.00', 'Customer Service Rep', 5)]),
+        ('27-3031.00', 'Social Media Manager', 3), ('27-3043.00', 'Content Writer', 3), ('13-1161.00', 'Email Marketing Specialist', 1)]),
+    ('Design', ('27-1011.00', 'Head of Design'), [('27-1024.00', 'Graphic Designer', 4), ('27-4032.00', 'Video Editor', 2), ('15-1255.00', 'Web Designer', 1), ('27-4021.00', 'Product Photographer', 1)]),
+    ('Sales', ('11-2022.00', 'Head of Sales'), [('41-4012.00', 'B2B Sales Rep', 4), ('41-3091.00', 'Sales Development Rep', 1), ('41-3091.00', 'Wholesale Account Manager', 2)]),
+    ('Customer support', ('43-1011.00', 'Head of Support'), [('43-4051.00', 'Customer Service Rep', 7)]),
     ('Operations', ('11-1021.00', 'Head of Operations'), [('13-1081.00', 'Logistics Coordinator', 2), ('43-5071.00', 'Warehouse & Shipping Clerk', 2),
-        ('11-3071.04', 'Supply Chain Manager', 1)]),
+        ('11-3071.04', 'Supply Chain Manager', 1), ('13-1023.00', 'Purchasing Agent', 1)]),
     ('Finance & people', ('11-3031.00', 'Head of Finance'), [('13-2011.00', 'Accountant', 1), ('43-3031.00', 'Bookkeeper', 1),
-        ('13-1071.00', 'HR Specialist', 1), ('15-1211.00', 'Systems & Analytics Analyst', 1)])])
+        ('13-1071.00', 'HR Specialist', 1), ('43-3051.00', 'Payroll Clerk', 1), ('15-1211.00', 'Systems & Analytics Analyst', 1)])])
 assert SCALE['headcount'] == 50, SCALE['headcount']
 assert TEAM['headcount'] == 10, TEAM['headcount']
 json.dump({'onet_version': ver, 'team_tier': TEAM, 'scale_tier': SCALE}, open(f'{OUT}/teams.json', 'w', encoding='utf-8'), indent=1, ensure_ascii=False)
