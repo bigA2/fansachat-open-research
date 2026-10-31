@@ -1,0 +1,18 @@
+# How Zapier really works: video clips of its public pages + transcripts of its own tutorials. Public data, no AI.
+name: zapier
+on: { workflow_dispatch: {}, push: { branches: [main], paths: ['scripts/record_zapier.mjs', 'scripts/zapier_transcripts.sh', '.github/workflows/zapier.yml'] } }
+permissions: { contents: write }
+jobs:
+  record:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '22' }
+      - run: npm i --no-save playwright@1.48.2 && npx playwright install --with-deps chromium
+      - run: node scripts/record_zapier.mjs
+      - run: pip install -q yt-dlp && bash scripts/zapier_transcripts.sh
+      - run: |
+          git config user.name "github-actions[bot]"; git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add results/zapier && git commit -m "Zapier clips + tutorial transcripts [skip ci]" && git pull --rebase -q && git push || echo nothing
