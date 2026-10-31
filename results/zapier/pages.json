@@ -1,0 +1,38 @@
+[
+ {
+  "url": "https://zapier.com/how-it-works",
+  "ok": true,
+  "title": "Build automated workflows with Zapier",
+  "clip": "results/zapier/clips/00.webm"
+ },
+ {
+  "url": "https://zapier.com/features/autoreplay",
+  "ok": true,
+  "title": "",
+  "clip": "results/zapier/clips/01.webm"
+ },
+ {
+  "url": "https://zapier.com/ai/copilot",
+  "ok": true,
+  "title": "",
+  "clip": "results/zapier/clips/02.webm"
+ },
+ {
+  "url": "https://zapier.com/blog/troubleshoot-zap-errors/",
+  "ok": true,
+  "title": "",
+  "clip": "results/zapier/clips/03.webm"
+ },
+ {
+  "url": "https://help.zapier.com/hc/en-us/articles/8496309697421",
+  "ok": true,
+  "title": "What is a Zap? – Zapier",
+  "clip": "results/zapier/clips/04.webm"
+ },
+ {
+  "url": "https://zapier.com/apps",
+  "ok": true,
+  "title": "Integrations, App and Software Automation | Automate With Zapier",
+  "clip": "results/zapier/clips/05.webm"
+ }
+]
