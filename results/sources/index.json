@@ -1,0 +1,310 @@
+[
+ {
+  "topic": "onet",
+  "url": "https://www.onetcenter.org/database.html",
+  "ok": true,
+  "chars": 70571,
+  "file": "results/sources/onet/00.md"
+ },
+ {
+  "topic": "onet",
+  "url": "https://www.onetcenter.org/db_releases.html",
+  "ok": true,
+  "chars": 41695,
+  "file": "results/sources/onet/01.md"
+ },
+ {
+  "topic": "mapping",
+  "url": "https://help.zapier.com/hc/en-us/articles/8496343026701",
+  "ok": true,
+  "chars": 12526,
+  "file": "results/sources/mapping/00.md"
+ },
+ {
+  "topic": "mapping",
+  "url": "https://help.zapier.com/hc/en-us/articles/8496288690317",
+  "ok": true,
+  "chars": 14115,
+  "file": "results/sources/mapping/01.md"
+ },
+ {
+  "topic": "mapping",
+  "url": "https://help.zapier.com/hc/en-us/articles/8495961813389",
+  "ok": true,
+  "chars": 2979,
+  "file": "results/sources/mapping/02.md"
+ },
+ {
+  "topic": "mapping",
+  "url": "https://docs.n8n.io/data/data-mapping/",
+  "ok": true,
+  "chars": 8033,
+  "file": "results/sources/mapping/03.md"
+ },
+ {
+  "topic": "mapping",
+  "url": "https://docs.n8n.io/data/data-mapping/data-mapping-ui/",
+  "ok": true,
+  "chars": 7055,
+  "file": "results/sources/mapping/04.md"
+ },
+ {
+  "topic": "mapping",
+  "url": "https://www.activepieces.com/docs/flows/passing-data",
+  "ok": true,
+  "chars": 64541,
+  "file": "results/sources/mapping/05.md"
+ },
+ {
+  "topic": "nodes",
+  "url": "https://docs.n8n.io/workflows/components/nodes/",
+  "ok": true,
+  "chars": 14831,
+  "file": "results/sources/nodes/00.md"
+ },
+ {
+  "topic": "nodes",
+  "url": "https://docs.n8n.io/integrations/builtin/node-types/",
+  "ok": true,
+  "chars": 8660,
+  "file": "results/sources/nodes/01.md"
+ },
+ {
+  "topic": "nodes",
+  "url": "https://docs.n8n.io/flow-logic/",
+  "ok": true,
+  "chars": 8684,
+  "file": "results/sources/nodes/02.md"
+ },
+ {
+  "topic": "nodes",
+  "url": "https://docs.n8n.io/workflows/executions/debug/",
+  "ok": true,
+  "chars": 8410,
+  "file": "results/sources/nodes/03.md"
+ },
+ {
+  "topic": "notifications",
+  "url": "https://help.zapier.com/hc/en-us/articles/8496291148685",
+  "ok": true,
+  "chars": 12369,
+  "file": "results/sources/notifications/00.md"
+ },
+ {
+  "topic": "notifications",
+  "url": "https://help.zapier.com/hc/en-us/articles/8496037690637",
+  "ok": true,
+  "chars": 23250,
+  "file": "results/sources/notifications/01.md"
+ },
+ {
+  "topic": "notifications",
+  "url": "https://help.zapier.com/hc/en-us/articles/8496181445261",
+  "ok": true,
+  "chars": 19583,
+  "file": "results/sources/notifications/02.md"
+ },
+ {
+  "topic": "notifications",
+  "url": "https://docs.n8n.io/flow-logic/error-handling/",
+  "ok": true,
+  "chars": 10640,
+  "file": "results/sources/notifications/03.md"
+ },
+ {
+  "topic": "notifications",
+  "url": "https://www.make.com/en/help/scenarios/scenario-settings",
+  "ok": false,
+  "chars": 0,
+  "file": "results/sources/notifications/04.md"
+ },
+ {
+  "topic": "pricing",
+  "url": "https://zapier.com/pricing",
+  "ok": true,
+  "chars": 46543,
+  "file": "results/sources/pricing/00.md"
+ },
+ {
+  "topic": "pricing",
+  "url": "https://www.make.com/en/pricing",
+  "ok": true,
+  "chars": 15899,
+  "file": "results/sources/pricing/01.md"
+ },
+ {
+  "topic": "pricing",
+  "url": "https://n8n.io/pricing/",
+  "ok": true,
+  "chars": 21218,
+  "file": "results/sources/pricing/02.md"
+ },
+ {
+  "topic": "pricing",
+  "url": "https://www.activepieces.com/pricing",
+  "ok": true,
+  "chars": 10267,
+  "file": "results/sources/pricing/03.md"
+ },
+ {
+  "topic": "pricing",
+  "url": "https://www.lindy.ai/pricing",
+  "ok": true,
+  "chars": 15971,
+  "file": "results/sources/pricing/04.md"
+ },
+ {
+  "topic": "pricing",
+  "url": "https://relay.app/pricing",
+  "ok": true,
+  "chars": 393,
+  "file": "results/sources/pricing/05.md"
+ },
+ {
+  "topic": "teams",
+  "url": "https://help.zapier.com/hc/en-us/articles/8496270839565",
+  "ok": true,
+  "chars": 6707,
+  "file": "results/sources/teams/00.md"
+ },
+ {
+  "topic": "teams",
+  "url": "https://help.zapier.com/hc/en-us/articles/8496307853709",
+  "ok": true,
+  "chars": 2979,
+  "file": "results/sources/teams/01.md"
+ },
+ {
+  "topic": "teams",
+  "url": "https://docs.n8n.io/user-management/rbac/projects/",
+  "ok": true,
+  "chars": 12992,
+  "file": "results/sources/teams/02.md"
+ },
+ {
+  "topic": "teams",
+  "url": "https://www.make.com/en/help/general/teams",
+  "ok": false,
+  "chars": 0,
+  "file": "results/sources/teams/03.md"
+ },
+ {
+  "topic": "vertex",
+  "url": "https://cloud.google.com/products/agent-builder",
+  "ok": true,
+  "chars": 115747,
+  "file": "results/sources/vertex/00.md"
+ },
+ {
+  "topic": "vertex",
+  "url": "https://cloud.google.com/vertex-ai/generative-ai/docs/agent-builder/overview",
+  "ok": true,
+  "chars": 26372,
+  "file": "results/sources/vertex/01.md"
+ },
+ {
+  "topic": "vertex",
+  "url": "https://cloud.google.com/vertex-ai/generative-ai/docs/agent-engine/overview",
+  "ok": true,
+  "chars": 57408,
+  "file": "results/sources/vertex/02.md"
+ },
+ {
+  "topic": "vertex",
+  "url": "https://cloud.google.com/application-integration/docs/overview",
+  "ok": true,
+  "chars": 35626,
+  "file": "results/sources/vertex/03.md"
+ },
+ {
+  "topic": "injection",
+  "url": "https://genai.owasp.org/llmrisk/llm01-prompt-injection/",
+  "ok": true,
+  "chars": 21624,
+  "file": "results/sources/injection/00.md"
+ },
+ {
+  "topic": "injection",
+  "url": "https://genai.owasp.org/llmrisk/llm072025-system-prompt-leakage/",
+  "ok": true,
+  "chars": 20623,
+  "file": "results/sources/injection/01.md"
+ },
+ {
+  "topic": "injection",
+  "url": "https://genai.owasp.org/llmrisk/llm062025-excessive-agency/",
+  "ok": true,
+  "chars": 25709,
+  "file": "results/sources/injection/02.md"
+ },
+ {
+  "topic": "injection",
+  "url": "https://genai.owasp.org/llmrisk/llm102025-unbounded-consumption/",
+  "ok": true,
+  "chars": 26427,
+  "file": "results/sources/injection/03.md"
+ },
+ {
+  "topic": "injection",
+  "url": "https://genai.owasp.org/llmrisk/llm052025-improper-output-handling/",
+  "ok": true,
+  "chars": 21212,
+  "file": "results/sources/injection/04.md"
+ },
+ {
+  "topic": "injection",
+  "url": "https://simonwillison.net/series/prompt-injection/",
+  "ok": true,
+  "chars": 34645,
+  "file": "results/sources/injection/05.md"
+ },
+ {
+  "topic": "injection",
+  "url": "https://learnprompting.org/docs/prompt_hacking/injection",
+  "ok": true,
+  "chars": 38681,
+  "file": "results/sources/injection/06.md"
+ },
+ {
+  "topic": "injection",
+  "url": "https://cheatsheetseries.owasp.org/cheatsheets/LLM_Prompt_Injection_Prevention_Cheat_Sheet.html",
+  "ok": true,
+  "chars": 66765,
+  "file": "results/sources/injection/07.md"
+ },
+ {
+  "topic": "licences",
+  "url": "https://github.com/obra/superpowers/blob/main/LICENSE",
+  "ok": true,
+  "chars": 10131,
+  "file": "results/sources/licences/00.md"
+ },
+ {
+  "topic": "licences",
+  "url": "https://github.com/obra/superpowers",
+  "ok": true,
+  "chars": 34401,
+  "file": "results/sources/licences/01.md"
+ },
+ {
+  "topic": "licences",
+  "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+  "ok": true,
+  "chars": 23017,
+  "file": "results/sources/licences/02.md"
+ },
+ {
+  "topic": "licences",
+  "url": "https://github.com/multica-ai/andrej-karpathy-skills/blob/main/LICENSE",
+  "ok": true,
+  "chars": 7315,
+  "file": "results/sources/licences/03.md"
+ },
+ {
+  "topic": "licences",
+  "url": "https://raw.githubusercontent.com/n8n-io/n8n/master/LICENSE.md",
+  "ok": true,
+  "chars": 4426,
+  "file": "results/sources/licences/04.md"
+ }
+]
