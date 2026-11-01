@@ -121,6 +121,5 @@ L = [f"# Starter and Pro people (O*NET {ver.replace('_', '.')}): one person, rea
 for p in SOLO:
     L += [f"## {p['name']}, {p['title']} ({p['plan']}) - O*NET: {p['occupation']}", f"Apps they use (in our catalog): {', '.join(p['catalog_apps']) or '-'}"]
     L += [f"- {t['task']}" for t in p['tasks'][:8]] + ['']
-open(f'{OUT}/SOLO.md', 'w', encoding='utf-8').write('
-'.join(L))
+open(f'{OUT}/SOLO.md', 'w', encoding='utf-8').write(chr(10).join(L))
 print('teams ok', TEAM['headcount'], SCALE['headcount'], 'solo', len(SOLO))
