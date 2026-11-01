@@ -46,6 +46,6 @@ jobs:
       - uses: actions/download-artifact@v4
         with: { path: dl }
       - run: |
-          mkdir -p results && cp -r dl/teams/* results/ 2>/dev/null || true; cp -r dl/autofix/* results/ 2>/dev/null || true; cp -r dl/sources/* results/ 2>/dev/null || true
+          mkdir -p results && cp -r dl/autofix/* results/ 2>/dev/null || true; cp -r dl/sources/* results/ 2>/dev/null || true; cp -r dl/teams/* results/ 2>/dev/null || true
           git config user.name "github-actions[bot]"; git config user.email "github-actions[bot]@users.noreply.github.com"
           git add results && git commit -m "Research results (O*NET teams + solo, Laya scores, autofix docs, sources) [skip ci]" && git push || echo nothing

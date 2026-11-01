@@ -7,6 +7,6 @@
 - `results/PERSONA_REQUESTS.md`: each of the 60 people writes the one automation they want (one batched model call, ~1 cent), plus which catalog apps we recognise.
 - `results/autofix/`: Zapier / Make / n8n / Activepieces docs on broken workflows (auto-replay, error handling).
 
-Data credit: O*NET 30 Database by the U.S. Department of Labor, Employment and Training Administration (USDOL/ETA),
+Data credit: O*NET 31.0 Database by the U.S. Department of Labor, Employment and Training Administration (USDOL/ETA),
 used under the CC BY 4.0 license. App names: Activepieces community pieces (MIT).
 Everything here is produced by scripts with no AI language model.

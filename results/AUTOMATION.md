@@ -2,27 +2,93 @@
 
 automatable = could connected apps do it; repetitive = routine. Ranked by automatable x repetitive. Not a promise: a test list.
 
+## Starter and Pro people (Starter / Pro)
+
+| person | role | task | auto | routine | apps |
+|---|---|---|---|---|---|
+| Emeka Santos | Property manager | Direct collection of monthly assessments, rental fees, and deposits and payment of insurance premiums, mortgage, taxes, and incurred operating expenses. | 1.0 | 0.967 | Facebook Pages, Google Docs, Google Drive, LinkedIn, Microsoft Excel 365 |
+| Sana Castillo | Freelance writer | Write articles, bulletins, sales letters, speeches, and other related informative, marketing and promotional material. | 0.942 | 0.899 | Asana, Campaign Monitor, Canva, Drupal, Facebook Pages |
+| Hana Hughes | Clinic front desk | Answer telephones and direct calls to appropriate staff. | 0.933 | 0.906 | Google Docs, Google Drive, Microsoft Excel 365, Microsoft Outlook, Quickbooks Online |
+| Nadia Reyes | Photographer | Transfer photographs to computers for editing, archiving, and electronic transmission. | 0.949 | 0.87 | Facebook Pages, Google Drive, Microsoft Excel 365, Quickbooks Online, Twitter |
+| Mateo Khan | Freelance bookkeeper | Calculate and prepare checks for utilities, taxes, and other payments. | 0.908 | 0.905 | Dropbox, Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365 |
+| Kofi Usman | Real estate agent | Generate lists of properties that are compatible with buyers' needs and financial resources. | 0.934 | 0.866 | Canva, Docusign, Facebook Pages, Front, Google Ads |
+| Gabriel Zhou | Restaurant manager | Count money and make bank deposits. | 0.81 | 0.987 | Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365, Microsoft Outlook |
+| Tomas Jensen | Freelance designer | Develop graphics and layouts for product illustrations, company logos, and Web sites. | 0.913 | 0.875 | Canva, Drupal, Facebook Pages, Figma, Google Ads |
+| Gabriel Zhou | Restaurant manager | Keep records required by government agencies regarding sanitation or food subsidies. | 0.948 | 0.838 | Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365, Microsoft Outlook |
+| Lucia Kowalski | Online shop owner | Open and close cash registers, performing tasks such as counting money, separating charge slips, coupons, and vouchers, balancing cash drawers, and making deposits. | 0.888 | 0.892 | Facebook Pages, Google Docs, Google Drive, LinkedIn, Microsoft Excel 365 |
+| Ximena Ahmed | Indie software developer | Store, retrieve, and manipulate data for analysis of system capabilities and requirements. | 0.908 | 0.869 | Airtable, Apache Kafka, Azure DevOps, Cisco Webex Meetings, Confluence |
+| Wen Haddad | Virtual assistant | Collect and deposit money into accounts, disburse funds from cash accounts to pay bills or invoices, keep records of collections and disbursements, and ensure accounts are balanced. | 0.901 | 0.874 | Airtable, Canva, Cisco Webex Meetings, Confluence, Dropbox |
+| Hana Hughes | Clinic front desk | Transmit correspondence or medical records by mail, e-mail, or fax. | 0.952 | 0.827 | Google Docs, Google Drive, Microsoft Excel 365, Microsoft Outlook, Quickbooks Online |
+| Hana Hughes | Clinic front desk | Schedule and confirm patient diagnostic appointments, surgeries, or medical consultations. | 0.826 | 0.946 | Google Docs, Google Drive, Microsoft Excel 365, Microsoft Outlook, Quickbooks Online |
+| Wen Haddad | Virtual assistant | Answer telephones and give information to callers, take messages, or transfer calls to appropriate individuals. | 0.855 | 0.898 | Airtable, Canva, Cisco Webex Meetings, Confluence, Dropbox |
+| Divya Tanaka | Sales rep | Check stock levels and reorder merchandise as necessary. | 0.91 | 0.828 | Airtable, Cisco Webex Meetings, Dropbox, Facebook Pages, Google Ads |
+| Kemal Moreau | Web designer | Respond to user email inquiries, or set up automated systems to send responses. | 0.857 | 0.855 | Airtable, Apache Kafka, Cisco Webex Meetings, Confluence, Dropbox |
+| Tomas Jensen | Freelance designer | Use computer software to generate new images. | 0.948 | 0.769 | Canva, Drupal, Facebook Pages, Figma, Google Ads |
+| Nadia Reyes | Photographer | Manipulate and enhance scanned or digital images to create desired effects, using computers and specialized software. | 0.93 | 0.783 | Facebook Pages, Google Drive, Microsoft Excel 365, Quickbooks Online, Twitter |
+| Bea Park | Recruiter | Review employment applications and job orders to match applicants with job requirements. | 1.0 | 0.726 | Airtable, Cisco Webex Meetings, Drupal, Facebook Pages, GitHub |
+| Mateo Khan | Freelance bookkeeper | Check figures, postings, and documents for correct entry, mathematical accuracy, and proper codes. | 0.862 | 0.835 | Dropbox, Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365 |
+| Hana Hughes | Clinic front desk | Receive and route messages or documents, such as laboratory results, to appropriate staff. | 0.874 | 0.819 | Google Docs, Google Drive, Microsoft Excel 365, Microsoft Outlook, Quickbooks Online |
+| Quinn Duarte | Tutor | Provide private instruction to individual or small groups of students to improve academic performance, improve occupational skills, or prepare for academic or occupational tests. | 0.819 | 0.867 | Facebook Pages, Google Drive, Microsoft Excel 365, Zoom |
+| Lena Dlamini | Tax preparer | Check data input or verify totals on forms prepared by others to detect errors in arithmetic, data entry, or procedures. | 0.911 | 0.758 | Microsoft Excel 365, Microsoft Outlook, Quickbooks Online |
+| Wen Haddad | Virtual assistant | Schedule and confirm appointments for clients, customers, or supervisors. | 0.749 | 0.918 | Airtable, Canva, Cisco Webex Meetings, Confluence, Dropbox |
+| Lena Dlamini | Tax preparer | Use all appropriate adjustments, deductions, and credits to keep clients' taxes to a minimum. | 0.822 | 0.836 | Microsoft Excel 365, Microsoft Outlook, Quickbooks Online |
+| Tomas Jensen | Freelance designer | Key information into computer equipment to create layouts for client or supervisor. | 0.872 | 0.78 | Canva, Drupal, Facebook Pages, Figma, Google Ads |
+| Tomas Jensen | Freelance designer | Draw and print charts, graphs, illustrations, and other artwork, using computer. | 0.877 | 0.774 | Canva, Drupal, Facebook Pages, Figma, Google Ads |
+| Lena Dlamini | Tax preparer | Answer questions and provide future tax planning to clients. | 0.959 | 0.704 | Microsoft Excel 365, Microsoft Outlook, Quickbooks Online |
+| Hana Hughes | Clinic front desk | Compile and record medical charts, reports, or correspondence, using typewriter or personal computer. | 0.779 | 0.862 | Google Docs, Google Drive, Microsoft Excel 365, Microsoft Outlook, Quickbooks Online |
+| Mateo Khan | Freelance bookkeeper | Operate computers programmed with accounting software to record, store, and analyze information. | 0.938 | 0.705 | Dropbox, Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365 |
+| Wen Haddad | Virtual assistant | Create, maintain, and enter information into databases. | 0.82 | 0.806 | Airtable, Canva, Cisco Webex Meetings, Confluence, Dropbox |
+| Mateo Khan | Freelance bookkeeper | Prepare bank deposits by compiling data from cashiers, verifying and balancing receipts, and sending cash, checks, or other forms of payment to banks. | 0.784 | 0.832 | Dropbox, Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365 |
+| Kemal Moreau | Web designer | Write supporting code for Web applications or Web sites. | 0.798 | 0.817 | Airtable, Apache Kafka, Cisco Webex Meetings, Confluence, Dropbox |
+| Kemal Moreau | Web designer | Perform Web site tests according to planned schedules, or after any Web site or product revision. | 0.893 | 0.725 | Airtable, Apache Kafka, Cisco Webex Meetings, Confluence, Dropbox |
+| Rafael Turner | Insurance agent | Perform administrative tasks, such as maintaining records and handling policy renewals. | 0.767 | 0.837 | Facebook Pages, Front, LinkedIn, Microsoft Excel 365, Microsoft Outlook |
+| Tomas Jensen | Freelance designer | Prepare digital files for printing. | 0.818 | 0.768 | Canva, Drupal, Facebook Pages, Figma, Google Ads |
+| Fatima Rossi | Small-firm accountant | Process invoices for payment. | 0.805 | 0.77 | Facebook Pages, Google Docs, Google Sheets, Google Slides, Microsoft Excel 365 |
+| Nadia Reyes | Photographer | Enhance, retouch, and resize photographs and negatives, using airbrushing and other techniques. | 0.86 | 0.718 | Facebook Pages, Google Drive, Microsoft Excel 365, Quickbooks Online, Twitter |
+| Tomas Jensen | Freelance designer | Create designs, concepts, and sample layouts, based on knowledge of layout principles and esthetic design concepts. | 1.0 | 0.617 | Canva, Drupal, Facebook Pages, Figma, Google Ads |
+| Emeka Santos | Property manager | Prepare detailed budgets and financial reports for properties. | 0.787 | 0.778 | Facebook Pages, Google Docs, Google Drive, LinkedIn, Microsoft Excel 365 |
+| Priya Novak | Event planner | Arrange the availability of audio-visual equipment, transportation, displays, and other event needs. | 0.661 | 0.914 | Facebook Pages, Google Docs, Google Drive, LinkedIn, Microsoft Excel 365 |
+| Bea Park | Recruiter | Conduct reference or background checks on job applicants. | 0.808 | 0.732 | Airtable, Cisco Webex Meetings, Drupal, Facebook Pages, GitHub |
+| Gabriel Zhou | Restaurant manager | Perform some food preparation or service tasks, such as cooking, clearing tables, and serving food and drinks when necessary. | 0.666 | 0.882 | Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365, Microsoft Outlook |
+| Mateo Khan | Freelance bookkeeper | Prepare and process payroll information. | 0.754 | 0.779 | Dropbox, Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365 |
+| Kofi Usman | Real estate agent | Prepare documents such as representation contracts, purchase agreements, closing statements, deeds, and leases. | 0.763 | 0.766 | Canva, Docusign, Facebook Pages, Front, Google Ads |
+| Yusuf Sato | Solo marketer | Prepare reports of findings, illustrating data graphically and translating complex findings into written text. | 0.881 | 0.645 | Airtable, Asana, Canva, Dropbox, Drupal |
+| Arjun Iyer | PR and social specialist | Write press releases or other media communications to promote clients. | 0.687 | 0.825 | Airtable, Canva, Cisco Webex Meetings, Drupal, Facebook Pages |
+| Gabriel Zhou | Restaurant manager | Monitor budgets and payroll records, and review financial transactions to ensure that expenditures are authorized and budgeted. | 0.79 | 0.717 | Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365, Microsoft Outlook |
+| Emeka Santos | Property manager | Clean common areas, change light bulbs, and make minor property repairs. | 0.714 | 0.788 | Facebook Pages, Google Docs, Google Drive, LinkedIn, Microsoft Excel 365 |
+| Emeka Santos | Property manager | Plan, schedule, and coordinate general maintenance, major repairs, and remodeling or construction projects for commercial or residential properties. | 0.838 | 0.655 | Facebook Pages, Google Docs, Google Drive, LinkedIn, Microsoft Excel 365 |
+| Ximena Ahmed | Indie software developer | Monitor functioning of equipment to ensure system operates in conformance with specifications. | 0.651 | 0.824 | Airtable, Apache Kafka, Azure DevOps, Cisco Webex Meetings, Confluence |
+| Wen Haddad | Virtual assistant | Perform payroll functions, such as maintaining timekeeping information and processing and submitting payroll. | 0.792 | 0.664 | Airtable, Canva, Cisco Webex Meetings, Confluence, Dropbox |
+| Carlos Watanabe | Business consultant | Analyze data gathered and develop solutions or alternative methods of proceeding. | 0.857 | 0.612 | Airtable, Apache Kafka, Cisco Webex Meetings, Confluence, Dropbox |
+| Zara Bose | Marketing lead | Use sales forecasting or strategic planning to ensure the sale and profitability of products, lines, or services, analyzing business developments and monitoring market trends. | 0.941 | 0.557 | Airtable, Asana, Canva, Confluence, Constant Contact |
+| Mateo Khan | Freelance bookkeeper | Operate 10-key calculators, typewriters, and copy machines to perform calculations and produce documents. | 0.922 | 0.564 | Dropbox, Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365 |
+| Divya Tanaka | Sales rep | Prepare sales contracts and order forms. | 0.631 | 0.822 | Airtable, Cisco Webex Meetings, Dropbox, Facebook Pages, Google Ads |
+| Gabriel Zhou | Restaurant manager | Monitor employee and patron activities to ensure liquor regulations are obeyed. | 0.845 | 0.612 | Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365, Microsoft Outlook |
+| Nadia Reyes | Photographer | Adjust apertures, shutter speeds, and camera focus according to a combination of factors, such as lighting, field depth, subject motion, film type, and film speed. | 0.878 | 0.585 | Facebook Pages, Google Drive, Microsoft Excel 365, Quickbooks Online, Twitter |
+| Ivan Ortiz | Guesthouse manager | Greet and register guests. | 0.676 | 0.756 | Facebook Pages, Microsoft Excel 365, Microsoft Outlook |
+
 ## Northlane Studio (Team $149)
 
 | person | role | task | auto | routine | apps |
 |---|---|---|---|---|---|
 | Isha Novak | Copywriter | Write articles, bulletins, sales letters, speeches, and other related informative, marketing and promotional material. | 0.942 | 0.899 | Asana, Campaign Monitor, Canva, Drupal, Facebook Pages |
 | Jonas Duarte | Bookkeeper | Calculate and prepare checks for utilities, taxes, and other payments. | 0.908 | 0.905 | Dropbox, Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365 |
-| Chen Nakamura | Graphic Designer | Develop graphics and layouts for product illustrations, company logos, and Web sites. | 0.913 | 0.875 | Drupal, Facebook Pages, Figma, Google Ads, Google Docs |
-| Isha Novak | Copywriter | Invent names for products and write the slogans that appear on packaging, brochures and other promotional material. | 0.907 | 0.843 | Asana, Campaign Monitor, Canva, Drupal, Facebook Pages |
+| Chen Nakamura | Graphic Designer | Develop graphics and layouts for product illustrations, company logos, and Web sites. | 0.913 | 0.875 | Canva, Drupal, Facebook Pages, Figma, Google Ads |
 | Bilal Mensah | Creative Director | Mark up, paste, and complete layouts and write typography instructions to prepare materials for typesetting or printing. | 0.958 | 0.791 | Confluence, Drupal, Facebook Pages, Figma, Google Slides |
-| Chen Nakamura | Graphic Designer | Use computer software to generate new images. | 0.948 | 0.769 | Drupal, Facebook Pages, Figma, Google Ads, Google Docs |
+| Chen Nakamura | Graphic Designer | Use computer software to generate new images. | 0.948 | 0.769 | Canva, Drupal, Facebook Pages, Figma, Google Ads |
 | Jonas Duarte | Bookkeeper | Check figures, postings, and documents for correct entry, mathematical accuracy, and proper codes. | 0.862 | 0.835 | Dropbox, Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365 |
 | Bilal Mensah | Creative Director | Create custom illustrations or other graphic elements. | 0.948 | 0.735 | Confluence, Drupal, Facebook Pages, Figma, Google Slides |
-| Chen Nakamura | Graphic Designer | Key information into computer equipment to create layouts for client or supervisor. | 0.872 | 0.78 | Drupal, Facebook Pages, Figma, Google Ads, Google Docs |
+| Chen Nakamura | Graphic Designer | Key information into computer equipment to create layouts for client or supervisor. | 0.872 | 0.78 | Canva, Drupal, Facebook Pages, Figma, Google Ads |
 | Amara Rahman | Founder & Managing Director | Set prices or credit terms for goods or services, based on forecasts of customer demand. | 0.899 | 0.747 | Airtable, Confluence, Dropbox, Facebook Pages, Google Ads |
 | Jonas Duarte | Bookkeeper | Operate computers programmed with accounting software to record, store, and analyze information. | 0.938 | 0.705 | Dropbox, Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365 |
 | Bilal Mensah | Creative Director | Manage own accounts and projects, working within budget and scheduling requirements. | 0.94 | 0.703 | Confluence, Drupal, Facebook Pages, Figma, Google Slides |
 | Jonas Duarte | Bookkeeper | Prepare bank deposits by compiling data from cashiers, verifying and balancing receipts, and sending cash, checks, or other forms of payment to banks. | 0.784 | 0.832 | Dropbox, Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365 |
+| Elif Dlamini | Web & Digital Designer | Write supporting code for Web applications or Web sites. | 0.798 | 0.817 | Airtable, Apache Kafka, Cisco Webex Meetings, Confluence, Dropbox |
+| Elif Dlamini | Web & Digital Designer | Perform Web site tests according to planned schedules, or after any Web site or product revision. | 0.893 | 0.725 | Airtable, Apache Kafka, Cisco Webex Meetings, Confluence, Dropbox |
 | Bilal Mensah | Creative Director | Formulate basic layout design or presentation approach and specify material details, such as style and size of type, photographs, graphics, animation, video, and sound. | 0.828 | 0.779 | Confluence, Drupal, Facebook Pages, Figma, Google Slides |
-| Chen Nakamura | Graphic Designer | Prepare digital files for printing. | 0.818 | 0.768 | Drupal, Facebook Pages, Figma, Google Ads, Google Docs |
+| Chen Nakamura | Graphic Designer | Prepare digital files for printing. | 0.818 | 0.768 | Canva, Drupal, Facebook Pages, Figma, Google Ads |
 | Jonas Duarte | Bookkeeper | Compile budget data and documents, based on estimated revenues and expenses and previous budgets. | 0.731 | 0.853 | Dropbox, Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365 |
-| Chen Nakamura | Graphic Designer | Create designs, concepts, and sample layouts, based on knowledge of layout principles and esthetic design concepts. | 1.0 | 0.617 | Drupal, Facebook Pages, Figma, Google Ads, Google Docs |
+| Chen Nakamura | Graphic Designer | Create designs, concepts, and sample layouts, based on knowledge of layout principles and esthetic design concepts. | 1.0 | 0.617 | Canva, Drupal, Facebook Pages, Figma, Google Ads |
 | Jonas Duarte | Bookkeeper | Prepare and process payroll information. | 0.754 | 0.779 | Dropbox, Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365 |
 | Grace Reyes | Project Coordinator | Develop emergency management plans for recovery decision making and communications, continuity of critical departmental processes, or temporary shut-down of non-critical departments to ensure continuity of operation and governance. | 0.805 | 0.72 | Confluence, Microsoft Excel 365, Microsoft Outlook, Microsoft SQL Server, Microsoft SharePoint |
 | Hiro Young | Social Media Specialist | Write press releases or other media communications to promote clients. | 0.687 | 0.825 | Airtable, Canva, Cisco Webex Meetings, Drupal, Facebook Pages |
@@ -43,46 +109,46 @@ automatable = could connected apps do it; repetitive = routine. Ranked by automa
 | Jonas Duarte | Bookkeeper | Receive, record, and bank cash, checks, and vouchers. | 0.584 | 0.595 | Dropbox, Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365 |
 | Jonas Duarte | Bookkeeper | Reconcile records of bank transactions. | 0.8 | 0.432 | Dropbox, Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365 |
 | Jonas Duarte | Bookkeeper | Code documents according to company procedures. | 0.39 | 0.86 | Dropbox, Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365 |
+| Farhan Khan | Account Director | Conduct economic or commercial surveys to identify potential markets for products or services. | 0.62 | 0.529 | Airtable, Asana, Canva, Confluence, Constant Contact |
 | Bilal Mensah | Creative Director | Review and approve art materials, copy materials, and proofs of printed copy developed by staff members. | 0.427 | 0.758 | Confluence, Drupal, Facebook Pages, Figma, Google Slides |
 | Farhan Khan | Account Director | Direct the hiring, training, or performance evaluations of marketing or sales staff and oversee their daily activities. | 0.81 | 0.375 | Airtable, Asana, Canva, Confluence, Constant Contact |
 | Amara Rahman | Founder & Managing Director | Perform sales floor work, such as greeting or assisting customers, stocking shelves, or taking inventory. | 0.604 | 0.498 | Airtable, Confluence, Dropbox, Facebook Pages, Google Ads |
 | Grace Reyes | Project Coordinator | Review existing disaster recovery, crisis management, or business continuity plans. | 0.623 | 0.46 | Confluence, Microsoft Excel 365, Microsoft Outlook, Microsoft SQL Server, Microsoft SharePoint |
 | Grace Reyes | Project Coordinator | Develop disaster recovery plans for physical locations with critical assets, such as data centers. | 0.598 | 0.474 | Confluence, Microsoft Excel 365, Microsoft Outlook, Microsoft SQL Server, Microsoft SharePoint |
 | Jonas Duarte | Bookkeeper | Monitor status of loans and accounts to ensure that payments are up to date. | 0.76 | 0.357 | Dropbox, Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365 |
-| Isha Novak | Copywriter | Review advertising trends, consumer surveys, and other data regarding marketing of goods and services to determine the best way to promote products. | 0.846 | 0.249 | Asana, Campaign Monitor, Canva, Drupal, Facebook Pages |
-| Elif Dlamini | Web & Digital Designer | Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecting Web sites. | 0.456 | 0.454 | Airtable, Apache Kafka, Cisco Webex Meetings, Confluence, Dropbox |
+| Isha Novak | Copywriter | Edit or rewrite existing written material as necessary, and submit written material for approval by supervisor, editor, or publisher. | 0.272 | 0.758 | Asana, Campaign Monitor, Canva, Drupal, Facebook Pages |
 | Amara Rahman | Founder & Managing Director | Develop or implement product-marketing strategies, including advertising campaigns or sales promotions. | 0.834 | 0.243 | Airtable, Confluence, Dropbox, Facebook Pages, Google Ads |
 | Grace Reyes | Project Coordinator | Establish, maintain, or test call trees to ensure appropriate communication during disaster. | 0.628 | 0.306 | Confluence, Microsoft Excel 365, Microsoft Outlook, Microsoft SQL Server, Microsoft SharePoint |
-| Chen Nakamura | Graphic Designer | Determine size and arrangement of illustrative material and copy, and select style and size of type. | 0.812 | 0.222 | Drupal, Facebook Pages, Figma, Google Ads, Google Docs |
+| Chen Nakamura | Graphic Designer | Determine size and arrangement of illustrative material and copy, and select style and size of type. | 0.812 | 0.222 | Canva, Drupal, Facebook Pages, Figma, Google Ads |
 | Hiro Young | Social Media Specialist | Coach client representatives in effective communication with the public or with employees. | 0.8 | 0.205 | Airtable, Canva, Cisco Webex Meetings, Drupal, Facebook Pages |
+| Isha Novak | Copywriter | Write fiction or nonfiction prose, such as short stories, novels, biographies, articles, descriptive or critical analyses, and essays. | 0.637 | 0.255 | Asana, Campaign Monitor, Canva, Drupal, Facebook Pages |
 | Farhan Khan | Account Director | Evaluate the financial aspects of product development, such as budgets, expenditures, research and development appropriations, or return-on-investment and profit-loss projections. | 0.753 | 0.213 | Airtable, Asana, Canva, Confluence, Constant Contact |
 | Isha Novak | Copywriter | Vary language and tone of messages based on product and medium. | 0.654 | 0.244 | Asana, Campaign Monitor, Canva, Drupal, Facebook Pages |
-| Elif Dlamini | Web & Digital Designer | Create Web models or prototypes that include physical, interface, logical, or data models. | 0.612 | 0.245 | Airtable, Apache Kafka, Cisco Webex Meetings, Confluence, Dropbox |
 | Farhan Khan | Account Director | Develop pricing strategies, balancing firm objectives and customer satisfaction. | 0.594 | 0.236 | Airtable, Asana, Canva, Confluence, Constant Contact |
-| Elif Dlamini | Web & Digital Designer | Create searchable indices for Web page content. | 0.909 | 0.148 | Airtable, Apache Kafka, Cisco Webex Meetings, Confluence, Dropbox |
-| Chen Nakamura | Graphic Designer | Review final layouts and suggest improvements, as needed. | 0.525 | 0.256 | Drupal, Facebook Pages, Figma, Google Ads, Google Docs |
+| Chen Nakamura | Graphic Designer | Review final layouts and suggest improvements, as needed. | 0.525 | 0.256 | Canva, Drupal, Facebook Pages, Figma, Google Ads |
+| Farhan Khan | Account Director | Initiate market research studies, or analyze their findings. | 0.584 | 0.23 | Airtable, Asana, Canva, Confluence, Constant Contact |
+| Isha Novak | Copywriter | Revise written material to meet personal standards and to satisfy needs of clients, publishers, directors, or producers. | 0.546 | 0.23 | Asana, Campaign Monitor, Canva, Drupal, Facebook Pages |
 | Farhan Khan | Account Director | Identify, develop, or evaluate marketing strategy, based on knowledge of establishment objectives, market characteristics, and cost and markup factors. | 0.815 | 0.131 | Airtable, Asana, Canva, Confluence, Constant Contact |
 | Grace Reyes | Project Coordinator | Identify opportunities for strategic improvement or mitigation of business interruption and other risks caused by business, regulatory, or industry-specific change initiatives. | 0.455 | 0.208 | Confluence, Microsoft Excel 365, Microsoft Outlook, Microsoft SQL Server, Microsoft SharePoint |
-| Hiro Young | Social Media Specialist | Respond to requests for information from the media or designate an appropriate spokesperson or information source. | 0.147 | 0.542 | Airtable, Canva, Cisco Webex Meetings, Drupal, Facebook Pages |
-| Jonas Duarte | Bookkeeper | Comply with federal, state, and company policies, procedures, and regulations. | 0.094 | 0.846 | Dropbox, Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365 |
-| Hiro Young | Social Media Specialist | Plan or direct development or communication of programs to maintain favorable public or stockholder perceptions of an organization's accomplishments, agenda, or environmental responsibility. | 0.099 | 0.728 | Airtable, Canva, Cisco Webex Meetings, Drupal, Facebook Pages |
+| Isha Novak | Copywriter | Write advertising material for use by publication, broadcast, or internet media to promote the sale of goods and services. | 0.498 | 0.189 | Asana, Campaign Monitor, Canva, Drupal, Facebook Pages |
 
 ## Brightpath Home Co. (Scale $299)
 
 | person | role | task | auto | routine | apps |
 |---|---|---|---|---|---|
 | Sana Bose | Content Writer | Write articles, bulletins, sales letters, speeches, and other related informative, marketing and promotional material. | 0.942 | 0.899 | Asana, Campaign Monitor, Canva, Drupal, Facebook Pages |
+| Kemal Lindqvist | Sales Development Rep | Maintain customer records using automated systems. | 0.894 | 0.931 | HubSpot, Microsoft Excel 365, Microsoft Outlook, Salesforce |
+| Lucia Ibrahim | Wholesale Account Manager | Maintain customer records using automated systems. | 0.894 | 0.931 | HubSpot, Microsoft Excel 365, Microsoft Outlook, Salesforce |
 | Emeka Kowalski | Product Photographer | Transfer photographs to computers for editing, archiving, and electronic transmission. | 0.949 | 0.87 | Facebook Pages, Google Drive, Microsoft Excel 365, Quickbooks Online, Twitter |
 | Grace Silva | Bookkeeper | Calculate and prepare checks for utilities, taxes, and other payments. | 0.908 | 0.905 | Dropbox, Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365 |
-| Ximena Santos | Graphic Designer | Develop graphics and layouts for product illustrations, company logos, and Web sites. | 0.913 | 0.875 | Drupal, Facebook Pages, Figma, Google Ads, Google Docs |
+| Ximena Santos | Graphic Designer | Develop graphics and layouts for product illustrations, company logos, and Web sites. | 0.913 | 0.875 | Canva, Drupal, Facebook Pages, Figma, Google Ads |
 | Bea Ortiz | Video Editor | Set up and operate computer editing systems, electronic titling systems, video switching equipment, and digital video effects units to produce a final product. | 0.935 | 0.829 | Instagram for Business, Microsoft Excel 365, YouTube |
-| Sana Bose | Content Writer | Invent names for products and write the slogans that appear on packaging, brochures and other promotional material. | 0.907 | 0.843 | Asana, Campaign Monitor, Canva, Drupal, Facebook Pages |
 | Wen Tanaka | Head of Design | Mark up, paste, and complete layouts and write typography instructions to prepare materials for typesetting or printing. | 0.958 | 0.791 | Confluence, Drupal, Facebook Pages, Figma, Google Slides |
 | Gabriel Yilmaz | B2B Sales Rep | Check stock levels and reorder merchandise as necessary. | 0.91 | 0.828 | Airtable, Cisco Webex Meetings, Dropbox, Facebook Pages, Google Ads |
 | Zubair Lopez | Logistics Coordinator | Direct availability and allocation of materials, supplies, and finished products. | 0.891 | 0.844 | Facebook Pages, Microsoft Excel 365, Microsoft Outlook, Microsoft SQL Server, Microsoft SharePoint |
 | Isha Mensah | Payroll Clerk | Process and issue employee paychecks and statements of earnings and deductions. | 0.888 | 0.826 | Facebook Pages, Microsoft Excel 365, Microsoft Outlook, NetSuite, Quickbooks Online |
 | Amara Okafor | Warehouse & Shipping Clerk | Deliver or route materials to departments using handtruck, conveyor, or sorting bins. | 0.908 | 0.806 | Microsoft Excel 365, Microsoft Outlook |
-| Ximena Santos | Graphic Designer | Use computer software to generate new images. | 0.948 | 0.769 | Drupal, Facebook Pages, Figma, Google Ads, Google Docs |
+| Ximena Santos | Graphic Designer | Use computer software to generate new images. | 0.948 | 0.769 | Canva, Drupal, Facebook Pages, Figma, Google Ads |
 | Emeka Kowalski | Product Photographer | Manipulate and enhance scanned or digital images to create desired effects, using computers and specialized software. | 0.93 | 0.783 | Facebook Pages, Google Drive, Microsoft Excel 365, Quickbooks Online, Twitter |
 | Grace Silva | Bookkeeper | Check figures, postings, and documents for correct entry, mathematical accuracy, and proper codes. | 0.862 | 0.835 | Dropbox, Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365 |
 | Amara Okafor | Warehouse & Shipping Clerk | Pack, seal, label, or affix postage to prepare materials for shipping, using hand tools, power tools, or postage meter. | 0.895 | 0.788 | Microsoft Excel 365, Microsoft Outlook |
@@ -91,7 +157,7 @@ automatable = could connected apps do it; repetitive = routine. Ranked by automa
 | Fatima Quiroga | Head of Sales | Determine price schedules and discount rates. | 0.878 | 0.789 | Airtable, Dropbox, Facebook Pages, Google Ads, Google Docs |
 | Kemal Lindqvist | Sales Development Rep | Create forms or agreements to complete sales. | 0.844 | 0.811 | HubSpot, Microsoft Excel 365, Microsoft Outlook, Salesforce |
 | Lucia Ibrahim | Wholesale Account Manager | Create forms or agreements to complete sales. | 0.844 | 0.811 | HubSpot, Microsoft Excel 365, Microsoft Outlook, Salesforce |
-| Ximena Santos | Graphic Designer | Key information into computer equipment to create layouts for client or supervisor. | 0.872 | 0.78 | Drupal, Facebook Pages, Figma, Google Ads, Google Docs |
+| Ximena Santos | Graphic Designer | Key information into computer equipment to create layouts for client or supervisor. | 0.872 | 0.78 | Canva, Drupal, Facebook Pages, Figma, Google Ads |
 | Dalia Varga | Purchasing Agent | Prepare purchase orders, solicit bid proposals, and review requisitions for goods and services. | 0.798 | 0.852 | Facebook Pages, Google Ads, Google Docs, Microsoft Excel 365, Microsoft Outlook |
 | Yara Eriksen | Head of Operations | Set prices or credit terms for goods or services, based on forecasts of customer demand. | 0.899 | 0.747 | Airtable, Confluence, Dropbox, Facebook Pages, Google Ads |
 | Mateo Jensen | SEO & Search Marketer | Collect and analyze Web metrics, such as visits, time on site, page views per visit, transaction volume and revenue, traffic mix, click-through rates, conversion rates, cost per acquisition, or cost per click. | 0.806 | 0.825 | Drupal, Facebook Pages, Google Ads, Google Search, HubSpot |
@@ -99,13 +165,16 @@ automatable = could connected apps do it; repetitive = routine. Ranked by automa
 | Grace Silva | Bookkeeper | Operate computers programmed with accounting software to record, store, and analyze information. | 0.938 | 0.705 | Dropbox, Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365 |
 | Wen Tanaka | Head of Design | Manage own accounts and projects, working within budget and scheduling requirements. | 0.94 | 0.703 | Confluence, Drupal, Facebook Pages, Figma, Google Slides |
 | Grace Silva | Bookkeeper | Prepare bank deposits by compiling data from cashiers, verifying and balancing receipts, and sending cash, checks, or other forms of payment to banks. | 0.784 | 0.832 | Dropbox, Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365 |
+| Divya Moreau | Web Designer | Write supporting code for Web applications or Web sites. | 0.798 | 0.817 | Airtable, Apache Kafka, Cisco Webex Meetings, Confluence, Dropbox |
+| Divya Moreau | Web Designer | Perform Web site tests according to planned schedules, or after any Web site or product revision. | 0.893 | 0.725 | Airtable, Apache Kafka, Cisco Webex Meetings, Confluence, Dropbox |
 | Wen Tanaka | Head of Design | Formulate basic layout design or presentation approach and specify material details, such as style and size of type, photographs, graphics, animation, video, and sound. | 0.828 | 0.779 | Confluence, Drupal, Facebook Pages, Figma, Google Slides |
 | Noor Wolfe | Head of Support | Develop work schedules according to budgets and workloads. | 0.882 | 0.725 | Dropbox, Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365 |
-| Ximena Santos | Graphic Designer | Prepare digital files for printing. | 0.818 | 0.768 | Drupal, Facebook Pages, Figma, Google Ads, Google Docs |
+| Ximena Santos | Graphic Designer | Prepare digital files for printing. | 0.818 | 0.768 | Canva, Drupal, Facebook Pages, Figma, Google Ads |
+| Farhan Lopez | Accountant | Process invoices for payment. | 0.805 | 0.77 | Facebook Pages, Google Docs, Google Sheets, Google Slides, Microsoft Excel 365 |
 | Jonas Nakamura | Systems & Analytics Analyst | Test, maintain, and monitor computer programs and systems, including coordinating the installation of computer programs and systems. | 0.741 | 0.834 | Apache Kafka, Cisco Webex Meetings, Confluence, Drupal, Facebook Pages |
 | Amara Okafor | Warehouse & Shipping Clerk | Contact carrier representatives to make arrangements or to issue instructions for shipping and delivery of materials. | 0.869 | 0.711 | Microsoft Excel 365, Microsoft Outlook |
 | Emeka Kowalski | Product Photographer | Enhance, retouch, and resize photographs and negatives, using airbrushing and other techniques. | 0.86 | 0.718 | Facebook Pages, Google Drive, Microsoft Excel 365, Quickbooks Online, Twitter |
-| Ximena Santos | Graphic Designer | Create designs, concepts, and sample layouts, based on knowledge of layout principles and esthetic design concepts. | 1.0 | 0.617 | Drupal, Facebook Pages, Figma, Google Ads, Google Docs |
+| Ximena Santos | Graphic Designer | Create designs, concepts, and sample layouts, based on knowledge of layout principles and esthetic design concepts. | 1.0 | 0.617 | Canva, Drupal, Facebook Pages, Figma, Google Ads |
 | Isha Mensah | Payroll Clerk | Prepare and balance period-end reports, and reconcile issued payrolls to bank statements. | 0.78 | 0.791 | Facebook Pages, Microsoft Excel 365, Microsoft Outlook, NetSuite, Quickbooks Online |
 | Bea Ortiz | Video Editor | Cut shot sequences to different angles at specific points in scenes, making each individual cut as fluid and seamless as possible. | 0.926 | 0.661 | Instagram for Business, Microsoft Excel 365, YouTube |
 | Isha Mensah | Payroll Clerk | Compute wages and deductions, and enter data into computers. | 0.833 | 0.731 | Facebook Pages, Microsoft Excel 365, Microsoft Outlook, NetSuite, Quickbooks Online |
@@ -113,14 +182,10 @@ automatable = could connected apps do it; repetitive = routine. Ranked by automa
 | Hiro Rahman | HR Specialist | Conduct reference or background checks on job applicants. | 0.808 | 0.732 | Airtable, Cisco Webex Meetings, Drupal, Facebook Pages, GitHub |
 | Grace Silva | Bookkeeper | Prepare and process payroll information. | 0.754 | 0.779 | Dropbox, Facebook Pages, Google Docs, Google Drive, Microsoft Excel 365 |
 | Elif Eriksen | Head of Finance | Evaluate financial reporting systems, accounting or collection procedures, or investment activities and make recommendations for changes to procedures, operating systems, budgets, or other financial control functions. | 0.894 | 0.648 | Facebook Pages, Microsoft Excel 365, Microsoft Outlook, Microsoft SQL Server, Microsoft SharePoint |
-| Omar Xu | Market Research Analyst | Forecast and track marketing and sales trends, analyzing collected data. | 1.0 | 0.577 | Airtable, Asana, Canva, Dropbox, Drupal |
-| Victor Watanabe | Email Marketing Specialist | Forecast and track marketing and sales trends, analyzing collected data. | 1.0 | 0.577 | Airtable, Asana, Canva, Dropbox, Drupal |
 | Olu Farouk | Customer Service Rep | Keep records of customer interactions or transactions, recording details of inquiries, complaints, or comments, as well as actions taken. | 0.743 | 0.776 | Airtable, Dropbox, Facebook Pages, Google Docs, Google Drive |
 | Omar Xu | Market Research Analyst | Prepare reports of findings, illustrating data graphically and translating complex findings into written text. | 0.881 | 0.645 | Airtable, Asana, Canva, Dropbox, Drupal |
 | Victor Watanabe | Email Marketing Specialist | Prepare reports of findings, illustrating data graphically and translating complex findings into written text. | 0.881 | 0.645 | Airtable, Asana, Canva, Dropbox, Drupal |
 | Mateo Jensen | SEO & Search Marketer | Optimize digital assets, such as text, graphics, or multimedia assets, for search engine optimization (SEO) or for display and usability on internet-connected devices. | 0.823 | 0.69 | Drupal, Facebook Pages, Google Ads, Google Search, HubSpot |
-| Kemal Lindqvist | Sales Development Rep | Compute and compare costs of services. | 0.782 | 0.726 | HubSpot, Microsoft Excel 365, Microsoft Outlook, Salesforce |
-| Lucia Ibrahim | Wholesale Account Manager | Compute and compare costs of services. | 0.782 | 0.726 | HubSpot, Microsoft Excel 365, Microsoft Outlook, Salesforce |
 | Priya Haddad | Social Media Manager | Write press releases or other media communications to promote clients. | 0.687 | 0.825 | Airtable, Canva, Cisco Webex Meetings, Drupal, Facebook Pages |
 | Yara Eriksen | Head of Operations | Manage the movement of goods into and out of production facilities to ensure efficiency, effectiveness, or sustainability of operations. | 0.838 | 0.67 | Airtable, Confluence, Dropbox, Facebook Pages, Google Ads |
 | Jonas Nakamura | Systems & Analytics Analyst | Review and analyze computer printouts and performance indicators to locate code problems, and correct errors by correcting codes. | 0.732 | 0.759 | Apache Kafka, Cisco Webex Meetings, Confluence, Drupal, Facebook Pages |

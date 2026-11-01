@@ -1,4 +1,4 @@
-# Persona teams for Team and Scale testing (O*NET 30.1, real tasks + real software)
+# Persona teams for Team and Scale testing (O*NET 31.0, real tasks + real software)
 
 Data: O*NET database, National Center for O*NET Development, CC BY 4.0. People and company names are fictional.
 
@@ -26,24 +26,24 @@ Apps they use (in our catalog): Confluence, Drupal, Facebook Pages, Figma, Googl
   - Determine size and arrangement of illustrative material and copy, and select style and size of type.
   - Develop graphics and layouts for product illustrations, company logos, and Web sites.
   - Create designs, concepts, and sample layouts, based on knowledge of layout principles and esthetic design concepts.
-  - apps: Drupal, Facebook Pages, Figma, Google Ads, Google Docs, Google Drive, Google Slides, LinkedIn, Microsoft Excel 365, Microsoft Outlook, Quickbooks Online, WordPress, YouTube
+  - apps: Canva, Drupal, Facebook Pages, Figma, Google Ads, Google Docs, Google Drive, Google Slides, LinkedIn, Microsoft Excel 365, Microsoft Outlook, Quickbooks Online, WordPress, YouTube
 - **Dalia Usman**, Graphic Designer
 - **Elif Dlamini**, Web & Digital Designer
-  - Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites.
+  - Identify problems uncovered by testing or customer feedback, and correct problems or refer problems to appropriate personnel for correction.
+  - Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.
+  - Write supporting code for Web applications or Web sites.
+  - Perform Web site tests according to planned schedules, or after any Web site or product revision.
   - Collaborate with web development professionals, such as front-end or back-end developers, to complete the full scope of Web development projects.
-  - Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecting Web sites.
-  - Conduct user research to determine design requirements and analyze user feedback to improve design quality.
-  - Confer with management or development teams to prioritize needs, resolve conflicts, develop content criteria, or choose solutions.
   - apps: Airtable, Apache Kafka, Cisco Webex Meetings, Confluence, Dropbox, Drupal, Figma, GitHub, Google Ads, Google Docs, Google Drive, Google Slides, HubSpot, JSON, Microsoft Excel 365, Microsoft SQL Server, Microsoft SharePoint, MongoDB, MySQL, NetSuite
 
 ### Client services - head: Farhan Khan, Account Director
 Apps they use (in our catalog): Airtable, Asana, Canva, Confluence, Constant Contact, Dropbox, Drupal, Facebook Pages, Figma, GitHub, Google Ads, Google Docs, Google Drive, Google Slides, HubSpot, Instagram for Business, LinkedIn, Microsoft Excel 365, Microsoft Outlook, Microsoft SQL Server
-- Identify, develop, or evaluate marketing strategy, based on knowledge of establishment objectives, market characteristics, and cost and markup factors.
 - Formulate, direct, or coordinate marketing activities or policies to promote products or services, working with advertising or promotion managers.
+- Use sales forecasting or strategic planning to ensure the sale and profitability of products, lines, or services, analyzing business developments and monitoring market trends.
+- Identify, develop, or evaluate marketing strategy, based on knowledge of establishment objectives, market characteristics, and cost and markup factors.
+- Direct the hiring, training, or performance evaluations of marketing or sales staff and oversee their daily activities.
 - Evaluate the financial aspects of product development, such as budgets, expenditures, research and development appropriations, or return-on-investment and profit-loss projections.
 - Develop pricing strategies, balancing firm objectives and customer satisfaction.
-- Compile lists describing product or service offerings.
-- Direct the hiring, training, or performance evaluations of marketing or sales staff and oversee their daily activities.
 - **Grace Reyes**, Project Coordinator
   - Develop emergency management plans for recovery decision making and communications, continuity of critical departmental processes, or temporary shut-down of non-critical departments to ensure continuity of operation and governance.
   - Conduct or oversee collection of corporate intelligence to avoid fraud, financial crime, cyber attack, terrorism, and infrastructure failure.
@@ -59,11 +59,11 @@ Apps they use (in our catalog): Airtable, Asana, Canva, Confluence, Constant Con
   - Establish or maintain cooperative relationships with representatives of community, consumer, employee, or public interest groups.
   - apps: Airtable, Canva, Cisco Webex Meetings, Drupal, Facebook Pages, Google Ads, Google Docs, Google Drive, Google Slides, HubSpot, Instagram for Business, LinkedIn, Microsoft Excel 365, Microsoft Outlook, Microsoft SharePoint, Salesforce, Twitter, WordPress, YouTube
 - **Isha Novak**, Copywriter
-  - Develop advertising campaigns for a wide range of clients, working with an advertising agency's creative director and art director to determine the best way to present advertising information.
-  - Vary language and tone of messages based on product and medium.
+  - Write fiction or nonfiction prose, such as short stories, novels, biographies, articles, descriptive or critical analyses, and essays.
+  - Revise written material to meet personal standards and to satisfy needs of clients, publishers, directors, or producers.
   - Present drafts and ideas to clients.
-  - Discuss with the client the product, advertising themes and methods, and any changes that should be made in advertising copy.
-  - Review advertising trends, consumer surveys, and other data regarding marketing of goods and services to determine the best way to promote products.
+  - Edit or rewrite existing written material as necessary, and submit written material for approval by supervisor, editor, or publisher.
+  - Conduct research to obtain factual information and authentic detail, using sources such as newspaper accounts, diaries, and interviews.
   - apps: Asana, Campaign Monitor, Canva, Drupal, Facebook Pages, Figma, Google Ads, Google Docs, Google Drive, Google Slides, Google Workspace, HubSpot, LinkedIn, Microsoft Excel 365, Microsoft Outlook, Microsoft SharePoint, MySQL, Presenton, SendGrid, Slack
 
 ### Operations - head: Jonas Duarte, Bookkeeper
@@ -87,12 +87,12 @@ Apps they use (in our catalog): Dropbox, Facebook Pages, Google Docs, Google Dri
 
 ### Marketing - head: Lena Castillo, Head of Marketing
 Apps they use (in our catalog): Airtable, Asana, Canva, Confluence, Constant Contact, Dropbox, Drupal, Facebook Pages, Figma, GitHub, Google Ads, Google Docs, Google Drive, Google Slides, HubSpot, Instagram for Business, LinkedIn, Microsoft Excel 365, Microsoft Outlook, Microsoft SQL Server
-- Identify, develop, or evaluate marketing strategy, based on knowledge of establishment objectives, market characteristics, and cost and markup factors.
 - Formulate, direct, or coordinate marketing activities or policies to promote products or services, working with advertising or promotion managers.
+- Use sales forecasting or strategic planning to ensure the sale and profitability of products, lines, or services, analyzing business developments and monitoring market trends.
+- Identify, develop, or evaluate marketing strategy, based on knowledge of establishment objectives, market characteristics, and cost and markup factors.
+- Direct the hiring, training, or performance evaluations of marketing or sales staff and oversee their daily activities.
 - Evaluate the financial aspects of product development, such as budgets, expenditures, research and development appropriations, or return-on-investment and profit-loss projections.
 - Develop pricing strategies, balancing firm objectives and customer satisfaction.
-- Compile lists describing product or service offerings.
-- Direct the hiring, training, or performance evaluations of marketing or sales staff and oversee their daily activities.
 - **Mateo Jensen**, SEO & Search Marketer
   - Manage tracking and reporting of search-related activities and provide analyses to marketing executives.
   - Optimize digital assets, such as text, graphics, or multimedia assets, for search engine optimization (SEO) or for display and usability on internet-connected devices.
@@ -103,11 +103,11 @@ Apps they use (in our catalog): Airtable, Asana, Canva, Confluence, Constant Con
 - **Nadia Qureshi**, SEO & Search Marketer
 - **Omar Xu**, Market Research Analyst
   - Prepare reports of findings, illustrating data graphically and translating complex findings into written text.
-  - Collect and analyze data on customer demographics, preferences, needs, and buying habits to identify potential markets and factors affecting product demand.
+  - Seek and provide information to help companies determine their position in the marketplace.
   - Conduct research on consumer opinions and marketing strategies, collaborating with marketing professionals, statisticians, pollsters, and other professionals.
-  - Measure and assess customer and employee satisfaction.
+  - Collect and analyze data on customer demographics, preferences, needs, and buying habits to identify potential markets and factors affecting product demand.
   - Devise and evaluate methods and procedures for collecting data, such as surveys, opinion polls, or questionnaires, or arrange to obtain existing data.
-  - apps: Airtable, Asana, Canva, Dropbox, Drupal, Facebook Pages, Google Ads, Google Docs, Google Drive, Google Slides, HubSpot, Instagram for Business, LinkedIn, Microsoft Excel 365, Microsoft Outlook, Microsoft SQL Server, Microsoft SharePoint, MySQL, NetSuite, Presenton
+  - apps: Airtable, Asana, Canva, Dropbox, Drupal, Facebook Pages, Google Ads, Google Docs, Google Drive, Google Slides, HubSpot, Instagram for Business, LinkedIn, Microsoft Excel 365, Microsoft Outlook, Microsoft SQL Server, Microsoft SharePoint, MySQL, NetSuite, Salesforce
 - **Priya Haddad**, Social Media Manager
   - Respond to requests for information from the media or designate an appropriate spokesperson or information source.
   - Plan or direct development or communication of programs to maintain favorable public or stockholder perceptions of an organization's accomplishments, agenda, or environmental responsibility.
@@ -118,21 +118,21 @@ Apps they use (in our catalog): Airtable, Asana, Canva, Confluence, Constant Con
 - **Quinn Ahmed**, Social Media Manager
 - **Rafael Sato**, Social Media Manager
 - **Sana Bose**, Content Writer
-  - Develop advertising campaigns for a wide range of clients, working with an advertising agency's creative director and art director to determine the best way to present advertising information.
-  - Vary language and tone of messages based on product and medium.
+  - Write fiction or nonfiction prose, such as short stories, novels, biographies, articles, descriptive or critical analyses, and essays.
+  - Revise written material to meet personal standards and to satisfy needs of clients, publishers, directors, or producers.
   - Present drafts and ideas to clients.
-  - Discuss with the client the product, advertising themes and methods, and any changes that should be made in advertising copy.
-  - Review advertising trends, consumer surveys, and other data regarding marketing of goods and services to determine the best way to promote products.
+  - Edit or rewrite existing written material as necessary, and submit written material for approval by supervisor, editor, or publisher.
+  - Conduct research to obtain factual information and authentic detail, using sources such as newspaper accounts, diaries, and interviews.
   - apps: Asana, Campaign Monitor, Canva, Drupal, Facebook Pages, Figma, Google Ads, Google Docs, Google Drive, Google Slides, Google Workspace, HubSpot, LinkedIn, Microsoft Excel 365, Microsoft Outlook, Microsoft SharePoint, MySQL, Presenton, SendGrid, Slack
 - **Tomas Iyer**, Content Writer
 - **Uma Park**, Content Writer
 - **Victor Watanabe**, Email Marketing Specialist
   - Prepare reports of findings, illustrating data graphically and translating complex findings into written text.
-  - Collect and analyze data on customer demographics, preferences, needs, and buying habits to identify potential markets and factors affecting product demand.
+  - Seek and provide information to help companies determine their position in the marketplace.
   - Conduct research on consumer opinions and marketing strategies, collaborating with marketing professionals, statisticians, pollsters, and other professionals.
-  - Measure and assess customer and employee satisfaction.
+  - Collect and analyze data on customer demographics, preferences, needs, and buying habits to identify potential markets and factors affecting product demand.
   - Devise and evaluate methods and procedures for collecting data, such as surveys, opinion polls, or questionnaires, or arrange to obtain existing data.
-  - apps: Airtable, Asana, Canva, Dropbox, Drupal, Facebook Pages, Google Ads, Google Docs, Google Drive, Google Slides, HubSpot, Instagram for Business, LinkedIn, Microsoft Excel 365, Microsoft Outlook, Microsoft SQL Server, Microsoft SharePoint, MySQL, NetSuite, Presenton
+  - apps: Airtable, Asana, Canva, Dropbox, Drupal, Facebook Pages, Google Ads, Google Docs, Google Drive, Google Slides, HubSpot, Instagram for Business, LinkedIn, Microsoft Excel 365, Microsoft Outlook, Microsoft SQL Server, Microsoft SharePoint, MySQL, NetSuite, Salesforce
 
 ### Design - head: Wen Tanaka, Head of Design
 Apps they use (in our catalog): Confluence, Drupal, Facebook Pages, Figma, Google Slides, Microsoft Excel 365, Microsoft Outlook, WordPress, YouTube
@@ -148,7 +148,7 @@ Apps they use (in our catalog): Confluence, Drupal, Facebook Pages, Figma, Googl
   - Determine size and arrangement of illustrative material and copy, and select style and size of type.
   - Develop graphics and layouts for product illustrations, company logos, and Web sites.
   - Create designs, concepts, and sample layouts, based on knowledge of layout principles and esthetic design concepts.
-  - apps: Drupal, Facebook Pages, Figma, Google Ads, Google Docs, Google Drive, Google Slides, LinkedIn, Microsoft Excel 365, Microsoft Outlook, Quickbooks Online, WordPress, YouTube
+  - apps: Canva, Drupal, Facebook Pages, Figma, Google Ads, Google Docs, Google Drive, Google Slides, LinkedIn, Microsoft Excel 365, Microsoft Outlook, Quickbooks Online, WordPress, YouTube
 - **Yusuf Rossi**, Graphic Designer
 - **Zara Zhou**, Graphic Designer
 - **Arjun Hughes**, Graphic Designer
@@ -161,11 +161,11 @@ Apps they use (in our catalog): Confluence, Drupal, Facebook Pages, Figma, Googl
   - apps: Instagram for Business, Microsoft Excel 365, YouTube
 - **Carlos Vargas**, Video Editor
 - **Divya Moreau**, Web Designer
-  - Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites.
+  - Identify problems uncovered by testing or customer feedback, and correct problems or refer problems to appropriate personnel for correction.
+  - Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.
+  - Write supporting code for Web applications or Web sites.
+  - Perform Web site tests according to planned schedules, or after any Web site or product revision.
   - Collaborate with web development professionals, such as front-end or back-end developers, to complete the full scope of Web development projects.
-  - Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecting Web sites.
-  - Conduct user research to determine design requirements and analyze user feedback to improve design quality.
-  - Confer with management or development teams to prioritize needs, resolve conflicts, develop content criteria, or choose solutions.
   - apps: Airtable, Apache Kafka, Cisco Webex Meetings, Confluence, Dropbox, Drupal, Figma, GitHub, Google Ads, Google Docs, Google Drive, Google Slides, HubSpot, JSON, Microsoft Excel 365, Microsoft SQL Server, Microsoft SharePoint, MongoDB, MySQL, NetSuite
 - **Emeka Kowalski**, Product Photographer
   - Adjust apertures, shutter speeds, and camera focus according to a combination of factors, such as lighting, field depth, subject motion, film type, and film speed.
@@ -194,17 +194,17 @@ Apps they use (in our catalog): Airtable, Dropbox, Facebook Pages, Google Ads, G
 - **Ivan Nguyen**, B2B Sales Rep
 - **Jia Ueda**, B2B Sales Rep
 - **Kemal Lindqvist**, Sales Development Rep
-  - Answer customers' questions about services, prices, availability, or credit terms.
-  - Attend sales or trade meetings or read related publications to obtain information about market conditions, business trends, regulations, or industry developments.
-  - Compute and compare costs of services.
   - Consult with clients after sales or contract signings to resolve problems and provide ongoing support.
+  - Answer customers' questions about services, prices, availability, or credit terms.
+  - Develop sales presentations or proposals to explain service specifications.
+  - Create forms or agreements to complete sales.
   - Contact prospective or existing customers to discuss how services can meet their needs.
   - apps: HubSpot, Microsoft Excel 365, Microsoft Outlook, Salesforce
 - **Lucia Ibrahim**, Wholesale Account Manager
-  - Answer customers' questions about services, prices, availability, or credit terms.
-  - Attend sales or trade meetings or read related publications to obtain information about market conditions, business trends, regulations, or industry developments.
-  - Compute and compare costs of services.
   - Consult with clients after sales or contract signings to resolve problems and provide ongoing support.
+  - Answer customers' questions about services, prices, availability, or credit terms.
+  - Develop sales presentations or proposals to explain service specifications.
+  - Create forms or agreements to complete sales.
   - Contact prospective or existing customers to discuss how services can meet their needs.
   - apps: HubSpot, Microsoft Excel 365, Microsoft Outlook, Salesforce
 - **Malik Petrov**, Wholesale Account Manager
@@ -279,11 +279,11 @@ Apps they use (in our catalog): Facebook Pages, Microsoft Excel 365, Microsoft O
 - Develop or analyze information to assess the current or future financial status of firms.
 - Plan, direct, or coordinate the activities of workers in branches, offices, or departments of establishments, such as branch banks, brokerage firms, risk and insurance departments, or credit departments.
 - **Farhan Lopez**, Accountant
-  - Prepare detailed reports on audit findings.
-  - Report to management about asset utilization and audit results, and recommend changes in operations and financial activities.
-  - Collect and analyze data to detect deficient controls, duplicated effort, extravagance, fraud, or non-compliance with laws, regulations, and management policies.
-  - Inspect account books and accounting systems for efficiency, effectiveness, and use of accepted accounting procedures to record transactions.
-  - Supervise auditing of establishments, and determine scope of investigation required.
+  - Prepare, examine, or analyze accounting records, financial statements, or other financial reports to assess accuracy, completeness, and conformance to reporting and procedural standards.
+  - Process invoices for payment.
+  - Review accounts for discrepancies and reconcile differences.
+  - Compute taxes owed and prepare tax returns, ensuring compliance with payment, reporting, or other tax requirements.
+  - Prepare adjusting journal entries.
   - apps: Facebook Pages, Google Docs, Google Sheets, Google Slides, Microsoft Excel 365, Microsoft OneNote, Microsoft Outlook, Microsoft SQL Server, Microsoft SharePoint, NetSuite, Oracle Database, Quickbooks Online, Salesforce, Tableau, Workday
 - **Grace Silva**, Bookkeeper
   - Operate computers programmed with accounting software to record, store, and analyze information.

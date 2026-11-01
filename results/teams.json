@@ -1,5 +1,5 @@
 {
- "onet_version": "30_1",
+ "onet_version": "31_0",
  "team_tier": {
   "company": "Northlane Studio",
   "kind": "creative agency (design, web, social)",
@@ -271,11 +271,12 @@
        "Autodesk AutoCAD Civil 3D",
        "Autodesk Revit",
        "Bentley MicroStation",
+       "Canva",
        "Cascading style sheets CSS",
-       "Extensible markup language XML",
-       "Facebook"
+       "Extensible markup language XML"
       ],
       "catalog_apps": [
+       "Canva",
        "Drupal",
        "Facebook Pages",
        "Figma",
@@ -351,11 +352,12 @@
        "Autodesk AutoCAD Civil 3D",
        "Autodesk Revit",
        "Bentley MicroStation",
+       "Canva",
        "Cascading style sheets CSS",
-       "Extensible markup language XML",
-       "Facebook"
+       "Extensible markup language XML"
       ],
       "catalog_apps": [
+       "Canva",
        "Drupal",
        "Facebook Pages",
        "Figma",
@@ -378,44 +380,44 @@
       "title": "Web & Digital Designer",
       "tasks": [
        {
-        "task": "Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites.",
-        "type": "n/a",
-        "importance": null
-       },
-       {
-        "task": "Collaborate with web development professionals, such as front-end or back-end developers, to complete the full scope of Web development projects.",
-        "type": "n/a",
-        "importance": null
-       },
-       {
-        "task": "Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecting Web sites.",
-        "type": "n/a",
-        "importance": null
-       },
-       {
-        "task": "Conduct user research to determine design requirements and analyze user feedback to improve design quality.",
-        "type": "n/a",
-        "importance": null
-       },
-       {
-        "task": "Confer with management or development teams to prioritize needs, resolve conflicts, develop content criteria, or choose solutions.",
-        "type": "n/a",
-        "importance": null
-       },
-       {
-        "task": "Create searchable indices for Web page content.",
-        "type": "n/a",
-        "importance": null
-       },
-       {
-        "task": "Create Web models or prototypes that include physical, interface, logical, or data models.",
-        "type": "n/a",
-        "importance": null
+        "task": "Identify problems uncovered by testing or customer feedback, and correct problems or refer problems to appropriate personnel for correction.",
+        "type": "Core",
+        "importance": 4.31
        },
        {
         "task": "Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",
-        "type": "n/a",
-        "importance": null
+        "type": "Core",
+        "importance": 4.13
+       },
+       {
+        "task": "Write supporting code for Web applications or Web sites.",
+        "type": "Core",
+        "importance": 4.1
+       },
+       {
+        "task": "Perform Web site tests according to planned schedules, or after any Web site or product revision.",
+        "type": "Core",
+        "importance": 4.06
+       },
+       {
+        "task": "Collaborate with web development professionals, such as front-end or back-end developers, to complete the full scope of Web development projects.",
+        "type": "Core",
+        "importance": 4.05
+       },
+       {
+        "task": "Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites.",
+        "type": "Supplemental",
+        "importance": 4.04
+       },
+       {
+        "task": "Develop new visual design concepts and modify concepts based on stakeholder feedback.",
+        "type": "Core",
+        "importance": 4.01
+       },
+       {
+        "task": "Maintain understanding of current Web technologies or programming practices through continuing education, reading, or participation in professional conferences, workshops, or groups.",
+        "type": "Core",
+        "importance": 3.95
        }
       ],
       "software_onet": [
@@ -469,64 +471,64 @@
      "title": "Account Director",
      "tasks": [
       {
-       "task": "Identify, develop, or evaluate marketing strategy, based on knowledge of establishment objectives, market characteristics, and cost and markup factors.",
-       "type": "Core",
-       "importance": 4.3
-      },
-      {
        "task": "Formulate, direct, or coordinate marketing activities or policies to promote products or services, working with advertising or promotion managers.",
        "type": "Core",
-       "importance": 4.24
-      },
-      {
-       "task": "Evaluate the financial aspects of product development, such as budgets, expenditures, research and development appropriations, or return-on-investment and profit-loss projections.",
-       "type": "Core",
-       "importance": 3.99
-      },
-      {
-       "task": "Develop pricing strategies, balancing firm objectives and customer satisfaction.",
-       "type": "Core",
-       "importance": 3.87
-      },
-      {
-       "task": "Compile lists describing product or service offerings.",
-       "type": "Core",
-       "importance": 3.7
-      },
-      {
-       "task": "Direct the hiring, training, or performance evaluations of marketing or sales staff and oversee their daily activities.",
-       "type": "Core",
-       "importance": 3.66
-      },
-      {
-       "task": "Consult with product development personnel on product specifications, such as design, color, or packaging.",
-       "type": "Core",
-       "importance": 3.65
+       "importance": 4.08
       },
       {
        "task": "Use sales forecasting or strategic planning to ensure the sale and profitability of products, lines, or services, analyzing business developments and monitoring market trends.",
        "type": "Core",
-       "importance": 3.56
+       "importance": 3.94
       },
       {
-       "task": "Negotiate contracts with vendors or distributors to manage product distribution, establishing distribution networks or developing distribution strategies.",
+       "task": "Identify, develop, or evaluate marketing strategy, based on knowledge of establishment objectives, market characteristics, and cost and markup factors.",
        "type": "Core",
-       "importance": 3.53
+       "importance": 3.89
       },
       {
-       "task": "Coordinate or participate in promotional activities or trade shows, working with developers, advertisers, or production managers, to market products or services.",
+       "task": "Direct the hiring, training, or performance evaluations of marketing or sales staff and oversee their daily activities.",
        "type": "Core",
-       "importance": 3.41
+       "importance": 3.82
+      },
+      {
+       "task": "Evaluate the financial aspects of product development, such as budgets, expenditures, research and development appropriations, or return-on-investment and profit-loss projections.",
+       "type": "Core",
+       "importance": 3.77
+      },
+      {
+       "task": "Develop pricing strategies, balancing firm objectives and customer satisfaction.",
+       "type": "Core",
+       "importance": 3.76
+      },
+      {
+       "task": "Initiate market research studies, or analyze their findings.",
+       "type": "Core",
+       "importance": 3.71
       },
       {
        "task": "Consult with buying personnel to gain advice regarding the types of products or services expected to be in demand.",
        "type": "Supplemental",
-       "importance": 3.41
+       "importance": 3.64
       },
       {
-       "task": "Consult with buying personnel to gain advice regarding environmentally sound or sustainable products.",
-       "type": "Supplemental",
-       "importance": 3.41
+       "task": "Compile lists describing product or service offerings.",
+       "type": "Core",
+       "importance": 3.62
+      },
+      {
+       "task": "Consult with product development personnel on product specifications, such as design, color, or packaging.",
+       "type": "Core",
+       "importance": 3.61
+      },
+      {
+       "task": "Recommend modifications to products, packaging, production processes, or other characteristics to improve the environmental soundness or sustainability of products.",
+       "type": "Core",
+       "importance": 3.57
+      },
+      {
+       "task": "Conduct economic or commercial surveys to identify potential markets for products or services.",
+       "type": "Core",
+       "importance": 3.43
       }
      ],
      "software_onet": [
@@ -736,44 +738,44 @@
       "title": "Copywriter",
       "tasks": [
        {
-        "task": "Develop advertising campaigns for a wide range of clients, working with an advertising agency's creative director and art director to determine the best way to present advertising information.",
+        "task": "Write fiction or nonfiction prose, such as short stories, novels, biographies, articles, descriptive or critical analyses, and essays.",
         "type": "Core",
-        "importance": 4.46
+        "importance": 4.71
        },
        {
-        "task": "Vary language and tone of messages based on product and medium.",
+        "task": "Revise written material to meet personal standards and to satisfy needs of clients, publishers, directors, or producers.",
         "type": "Core",
-        "importance": 4.43
+        "importance": 4.71
        },
        {
         "task": "Present drafts and ideas to clients.",
         "type": "Core",
-        "importance": 4.24
+        "importance": 4.69
        },
        {
-        "task": "Discuss with the client the product, advertising themes and methods, and any changes that should be made in advertising copy.",
+        "task": "Edit or rewrite existing written material as necessary, and submit written material for approval by supervisor, editor, or publisher.",
         "type": "Core",
-        "importance": 4.23
+        "importance": 4.67
        },
        {
-        "task": "Review advertising trends, consumer surveys, and other data regarding marketing of goods and services to determine the best way to promote products.",
+        "task": "Conduct research to obtain factual information and authentic detail, using sources such as newspaper accounts, diaries, and interviews.",
         "type": "Core",
-        "importance": 3.71
+        "importance": 4.65
+       },
+       {
+        "task": "Vary language and tone of messages based on product and medium.",
+        "type": "Core",
+        "importance": 4.53
        },
        {
         "task": "Write articles, bulletins, sales letters, speeches, and other related informative, marketing and promotional material.",
         "type": "Core",
-        "importance": 3.7
+        "importance": 4.53
        },
        {
-        "task": "Conduct research and interviews to determine which of a product's selling features should be promoted.",
-        "type": "Supplemental",
-        "importance": 3.57
-       },
-       {
-        "task": "Invent names for products and write the slogans that appear on packaging, brochures and other promotional material.",
-        "type": "Supplemental",
-        "importance": 3.48
+        "task": "Write advertising material for use by publication, broadcast, or internet media to promote the sale of goods and services.",
+        "type": "Core",
+        "importance": 4.38
        }
       ],
       "software_onet": [
@@ -1029,64 +1031,64 @@
      "title": "Head of Marketing",
      "tasks": [
       {
-       "task": "Identify, develop, or evaluate marketing strategy, based on knowledge of establishment objectives, market characteristics, and cost and markup factors.",
-       "type": "Core",
-       "importance": 4.3
-      },
-      {
        "task": "Formulate, direct, or coordinate marketing activities or policies to promote products or services, working with advertising or promotion managers.",
        "type": "Core",
-       "importance": 4.24
-      },
-      {
-       "task": "Evaluate the financial aspects of product development, such as budgets, expenditures, research and development appropriations, or return-on-investment and profit-loss projections.",
-       "type": "Core",
-       "importance": 3.99
-      },
-      {
-       "task": "Develop pricing strategies, balancing firm objectives and customer satisfaction.",
-       "type": "Core",
-       "importance": 3.87
-      },
-      {
-       "task": "Compile lists describing product or service offerings.",
-       "type": "Core",
-       "importance": 3.7
-      },
-      {
-       "task": "Direct the hiring, training, or performance evaluations of marketing or sales staff and oversee their daily activities.",
-       "type": "Core",
-       "importance": 3.66
-      },
-      {
-       "task": "Consult with product development personnel on product specifications, such as design, color, or packaging.",
-       "type": "Core",
-       "importance": 3.65
+       "importance": 4.08
       },
       {
        "task": "Use sales forecasting or strategic planning to ensure the sale and profitability of products, lines, or services, analyzing business developments and monitoring market trends.",
        "type": "Core",
-       "importance": 3.56
+       "importance": 3.94
       },
       {
-       "task": "Negotiate contracts with vendors or distributors to manage product distribution, establishing distribution networks or developing distribution strategies.",
+       "task": "Identify, develop, or evaluate marketing strategy, based on knowledge of establishment objectives, market characteristics, and cost and markup factors.",
        "type": "Core",
-       "importance": 3.53
+       "importance": 3.89
       },
       {
-       "task": "Coordinate or participate in promotional activities or trade shows, working with developers, advertisers, or production managers, to market products or services.",
+       "task": "Direct the hiring, training, or performance evaluations of marketing or sales staff and oversee their daily activities.",
        "type": "Core",
-       "importance": 3.41
+       "importance": 3.82
+      },
+      {
+       "task": "Evaluate the financial aspects of product development, such as budgets, expenditures, research and development appropriations, or return-on-investment and profit-loss projections.",
+       "type": "Core",
+       "importance": 3.77
+      },
+      {
+       "task": "Develop pricing strategies, balancing firm objectives and customer satisfaction.",
+       "type": "Core",
+       "importance": 3.76
+      },
+      {
+       "task": "Initiate market research studies, or analyze their findings.",
+       "type": "Core",
+       "importance": 3.71
       },
       {
        "task": "Consult with buying personnel to gain advice regarding the types of products or services expected to be in demand.",
        "type": "Supplemental",
-       "importance": 3.41
+       "importance": 3.64
       },
       {
-       "task": "Consult with buying personnel to gain advice regarding environmentally sound or sustainable products.",
-       "type": "Supplemental",
-       "importance": 3.41
+       "task": "Compile lists describing product or service offerings.",
+       "type": "Core",
+       "importance": 3.62
+      },
+      {
+       "task": "Consult with product development personnel on product specifications, such as design, color, or packaging.",
+       "type": "Core",
+       "importance": 3.61
+      },
+      {
+       "task": "Recommend modifications to products, packaging, production processes, or other characteristics to improve the environmental soundness or sustainability of products.",
+       "type": "Core",
+       "importance": 3.57
+      },
+      {
+       "task": "Conduct economic or commercial surveys to identify potential markets for products or services.",
+       "type": "Core",
+       "importance": 3.43
       }
      ],
      "software_onet": [
@@ -1184,6 +1186,7 @@
        "Elasticsearch",
        "Facebook",
        "Google Analytics",
+       "Google Looker Analytics",
        "HubSpot software",
        "Hypertext markup language HTML",
        "JavaScript",
@@ -1191,8 +1194,7 @@
        "Microsoft Access",
        "Microsoft ASP.NET",
        "Microsoft Excel",
-       "Microsoft Office software",
-       "Microsoft Outlook"
+       "Microsoft Office software"
       ],
       "catalog_apps": [
        "Drupal",
@@ -1267,6 +1269,7 @@
        "Elasticsearch",
        "Facebook",
        "Google Analytics",
+       "Google Looker Analytics",
        "HubSpot software",
        "Hypertext markup language HTML",
        "JavaScript",
@@ -1274,8 +1277,7 @@
        "Microsoft Access",
        "Microsoft ASP.NET",
        "Microsoft Excel",
-       "Microsoft Office software",
-       "Microsoft Outlook"
+       "Microsoft Office software"
       ],
       "catalog_apps": [
        "Drupal",
@@ -1305,42 +1307,42 @@
        {
         "task": "Prepare reports of findings, illustrating data graphically and translating complex findings into written text.",
         "type": "Core",
-        "importance": 4.59
-       },
-       {
-        "task": "Collect and analyze data on customer demographics, preferences, needs, and buying habits to identify potential markets and factors affecting product demand.",
-        "type": "Core",
-        "importance": 4.36
-       },
-       {
-        "task": "Conduct research on consumer opinions and marketing strategies, collaborating with marketing professionals, statisticians, pollsters, and other professionals.",
-        "type": "Core",
-        "importance": 4.36
-       },
-       {
-        "task": "Measure and assess customer and employee satisfaction.",
-        "type": "Core",
-        "importance": 4.33
-       },
-       {
-        "task": "Devise and evaluate methods and procedures for collecting data, such as surveys, opinion polls, or questionnaires, or arrange to obtain existing data.",
-        "type": "Core",
-        "importance": 4.27
-       },
-       {
-        "task": "Measure the effectiveness of marketing, advertising, and communications programs and strategies.",
-        "type": "Core",
-        "importance": 4.1
+        "importance": 4.06
        },
        {
         "task": "Seek and provide information to help companies determine their position in the marketplace.",
         "type": "Core",
-        "importance": 3.96
+        "importance": 4.06
        },
        {
-        "task": "Forecast and track marketing and sales trends, analyzing collected data.",
+        "task": "Conduct research on consumer opinions and marketing strategies, collaborating with marketing professionals, statisticians, pollsters, and other professionals.",
         "type": "Core",
-        "importance": 3.95
+        "importance": 3.94
+       },
+       {
+        "task": "Collect and analyze data on customer demographics, preferences, needs, and buying habits to identify potential markets and factors affecting product demand.",
+        "type": "Core",
+        "importance": 3.88
+       },
+       {
+        "task": "Devise and evaluate methods and procedures for collecting data, such as surveys, opinion polls, or questionnaires, or arrange to obtain existing data.",
+        "type": "Core",
+        "importance": 3.85
+       },
+       {
+        "task": "Gather data on competitors and analyze their prices, sales, and method of marketing and distribution.",
+        "type": "Core",
+        "importance": 3.65
+       },
+       {
+        "task": "Measure and assess customer and employee satisfaction.",
+        "type": "Core",
+        "importance": 3.62
+       },
+       {
+        "task": "Monitor industry statistics and follow trends in trade literature.",
+        "type": "Core",
+        "importance": 3.53
        }
       ],
       "software_onet": [
@@ -1380,7 +1382,7 @@
        "Microsoft SharePoint",
        "MySQL",
        "NetSuite",
-       "Presenton"
+       "Salesforce"
       ]
      },
      {
@@ -1648,44 +1650,44 @@
       "title": "Content Writer",
       "tasks": [
        {
-        "task": "Develop advertising campaigns for a wide range of clients, working with an advertising agency's creative director and art director to determine the best way to present advertising information.",
+        "task": "Write fiction or nonfiction prose, such as short stories, novels, biographies, articles, descriptive or critical analyses, and essays.",
         "type": "Core",
-        "importance": 4.46
+        "importance": 4.71
        },
        {
-        "task": "Vary language and tone of messages based on product and medium.",
+        "task": "Revise written material to meet personal standards and to satisfy needs of clients, publishers, directors, or producers.",
         "type": "Core",
-        "importance": 4.43
+        "importance": 4.71
        },
        {
         "task": "Present drafts and ideas to clients.",
         "type": "Core",
-        "importance": 4.24
+        "importance": 4.69
        },
        {
-        "task": "Discuss with the client the product, advertising themes and methods, and any changes that should be made in advertising copy.",
+        "task": "Edit or rewrite existing written material as necessary, and submit written material for approval by supervisor, editor, or publisher.",
         "type": "Core",
-        "importance": 4.23
+        "importance": 4.67
        },
        {
-        "task": "Review advertising trends, consumer surveys, and other data regarding marketing of goods and services to determine the best way to promote products.",
+        "task": "Conduct research to obtain factual information and authentic detail, using sources such as newspaper accounts, diaries, and interviews.",
         "type": "Core",
-        "importance": 3.71
+        "importance": 4.65
+       },
+       {
+        "task": "Vary language and tone of messages based on product and medium.",
+        "type": "Core",
+        "importance": 4.53
        },
        {
         "task": "Write articles, bulletins, sales letters, speeches, and other related informative, marketing and promotional material.",
         "type": "Core",
-        "importance": 3.7
+        "importance": 4.53
        },
        {
-        "task": "Conduct research and interviews to determine which of a product's selling features should be promoted.",
-        "type": "Supplemental",
-        "importance": 3.57
-       },
-       {
-        "task": "Invent names for products and write the slogans that appear on packaging, brochures and other promotional material.",
-        "type": "Supplemental",
-        "importance": 3.48
+        "task": "Write advertising material for use by publication, broadcast, or internet media to promote the sale of goods and services.",
+        "type": "Core",
+        "importance": 4.38
        }
       ],
       "software_onet": [
@@ -1735,44 +1737,44 @@
       "title": "Content Writer",
       "tasks": [
        {
-        "task": "Develop advertising campaigns for a wide range of clients, working with an advertising agency's creative director and art director to determine the best way to present advertising information.",
+        "task": "Write fiction or nonfiction prose, such as short stories, novels, biographies, articles, descriptive or critical analyses, and essays.",
         "type": "Core",
-        "importance": 4.46
+        "importance": 4.71
        },
        {
-        "task": "Vary language and tone of messages based on product and medium.",
+        "task": "Revise written material to meet personal standards and to satisfy needs of clients, publishers, directors, or producers.",
         "type": "Core",
-        "importance": 4.43
+        "importance": 4.71
        },
        {
         "task": "Present drafts and ideas to clients.",
         "type": "Core",
-        "importance": 4.24
+        "importance": 4.69
        },
        {
-        "task": "Discuss with the client the product, advertising themes and methods, and any changes that should be made in advertising copy.",
+        "task": "Edit or rewrite existing written material as necessary, and submit written material for approval by supervisor, editor, or publisher.",
         "type": "Core",
-        "importance": 4.23
+        "importance": 4.67
        },
        {
-        "task": "Review advertising trends, consumer surveys, and other data regarding marketing of goods and services to determine the best way to promote products.",
+        "task": "Conduct research to obtain factual information and authentic detail, using sources such as newspaper accounts, diaries, and interviews.",
         "type": "Core",
-        "importance": 3.71
+        "importance": 4.65
+       },
+       {
+        "task": "Vary language and tone of messages based on product and medium.",
+        "type": "Core",
+        "importance": 4.53
        },
        {
         "task": "Write articles, bulletins, sales letters, speeches, and other related informative, marketing and promotional material.",
         "type": "Core",
-        "importance": 3.7
+        "importance": 4.53
        },
        {
-        "task": "Conduct research and interviews to determine which of a product's selling features should be promoted.",
-        "type": "Supplemental",
-        "importance": 3.57
-       },
-       {
-        "task": "Invent names for products and write the slogans that appear on packaging, brochures and other promotional material.",
-        "type": "Supplemental",
-        "importance": 3.48
+        "task": "Write advertising material for use by publication, broadcast, or internet media to promote the sale of goods and services.",
+        "type": "Core",
+        "importance": 4.38
        }
       ],
       "software_onet": [
@@ -1822,44 +1824,44 @@
       "title": "Content Writer",
       "tasks": [
        {
-        "task": "Develop advertising campaigns for a wide range of clients, working with an advertising agency's creative director and art director to determine the best way to present advertising information.",
+        "task": "Write fiction or nonfiction prose, such as short stories, novels, biographies, articles, descriptive or critical analyses, and essays.",
         "type": "Core",
-        "importance": 4.46
+        "importance": 4.71
        },
        {
-        "task": "Vary language and tone of messages based on product and medium.",
+        "task": "Revise written material to meet personal standards and to satisfy needs of clients, publishers, directors, or producers.",
         "type": "Core",
-        "importance": 4.43
+        "importance": 4.71
        },
        {
         "task": "Present drafts and ideas to clients.",
         "type": "Core",
-        "importance": 4.24
+        "importance": 4.69
        },
        {
-        "task": "Discuss with the client the product, advertising themes and methods, and any changes that should be made in advertising copy.",
+        "task": "Edit or rewrite existing written material as necessary, and submit written material for approval by supervisor, editor, or publisher.",
         "type": "Core",
-        "importance": 4.23
+        "importance": 4.67
        },
        {
-        "task": "Review advertising trends, consumer surveys, and other data regarding marketing of goods and services to determine the best way to promote products.",
+        "task": "Conduct research to obtain factual information and authentic detail, using sources such as newspaper accounts, diaries, and interviews.",
         "type": "Core",
-        "importance": 3.71
+        "importance": 4.65
+       },
+       {
+        "task": "Vary language and tone of messages based on product and medium.",
+        "type": "Core",
+        "importance": 4.53
        },
        {
         "task": "Write articles, bulletins, sales letters, speeches, and other related informative, marketing and promotional material.",
         "type": "Core",
-        "importance": 3.7
+        "importance": 4.53
        },
        {
-        "task": "Conduct research and interviews to determine which of a product's selling features should be promoted.",
-        "type": "Supplemental",
-        "importance": 3.57
-       },
-       {
-        "task": "Invent names for products and write the slogans that appear on packaging, brochures and other promotional material.",
-        "type": "Supplemental",
-        "importance": 3.48
+        "task": "Write advertising material for use by publication, broadcast, or internet media to promote the sale of goods and services.",
+        "type": "Core",
+        "importance": 4.38
        }
       ],
       "software_onet": [
@@ -1911,42 +1913,42 @@
        {
         "task": "Prepare reports of findings, illustrating data graphically and translating complex findings into written text.",
         "type": "Core",
-        "importance": 4.59
-       },
-       {
-        "task": "Collect and analyze data on customer demographics, preferences, needs, and buying habits to identify potential markets and factors affecting product demand.",
-        "type": "Core",
-        "importance": 4.36
-       },
-       {
-        "task": "Conduct research on consumer opinions and marketing strategies, collaborating with marketing professionals, statisticians, pollsters, and other professionals.",
-        "type": "Core",
-        "importance": 4.36
-       },
-       {
-        "task": "Measure and assess customer and employee satisfaction.",
-        "type": "Core",
-        "importance": 4.33
-       },
-       {
-        "task": "Devise and evaluate methods and procedures for collecting data, such as surveys, opinion polls, or questionnaires, or arrange to obtain existing data.",
-        "type": "Core",
-        "importance": 4.27
-       },
-       {
-        "task": "Measure the effectiveness of marketing, advertising, and communications programs and strategies.",
-        "type": "Core",
-        "importance": 4.1
+        "importance": 4.06
        },
        {
         "task": "Seek and provide information to help companies determine their position in the marketplace.",
         "type": "Core",
-        "importance": 3.96
+        "importance": 4.06
        },
        {
-        "task": "Forecast and track marketing and sales trends, analyzing collected data.",
+        "task": "Conduct research on consumer opinions and marketing strategies, collaborating with marketing professionals, statisticians, pollsters, and other professionals.",
         "type": "Core",
-        "importance": 3.95
+        "importance": 3.94
+       },
+       {
+        "task": "Collect and analyze data on customer demographics, preferences, needs, and buying habits to identify potential markets and factors affecting product demand.",
+        "type": "Core",
+        "importance": 3.88
+       },
+       {
+        "task": "Devise and evaluate methods and procedures for collecting data, such as surveys, opinion polls, or questionnaires, or arrange to obtain existing data.",
+        "type": "Core",
+        "importance": 3.85
+       },
+       {
+        "task": "Gather data on competitors and analyze their prices, sales, and method of marketing and distribution.",
+        "type": "Core",
+        "importance": 3.65
+       },
+       {
+        "task": "Measure and assess customer and employee satisfaction.",
+        "type": "Core",
+        "importance": 3.62
+       },
+       {
+        "task": "Monitor industry statistics and follow trends in trade literature.",
+        "type": "Core",
+        "importance": 3.53
        }
       ],
       "software_onet": [
@@ -1986,7 +1988,7 @@
        "Microsoft SharePoint",
        "MySQL",
        "NetSuite",
-       "Presenton"
+       "Salesforce"
       ]
      }
     ]
@@ -2150,11 +2152,12 @@
        "Autodesk AutoCAD Civil 3D",
        "Autodesk Revit",
        "Bentley MicroStation",
+       "Canva",
        "Cascading style sheets CSS",
-       "Extensible markup language XML",
-       "Facebook"
+       "Extensible markup language XML"
       ],
       "catalog_apps": [
+       "Canva",
        "Drupal",
        "Facebook Pages",
        "Figma",
@@ -2230,11 +2233,12 @@
        "Autodesk AutoCAD Civil 3D",
        "Autodesk Revit",
        "Bentley MicroStation",
+       "Canva",
        "Cascading style sheets CSS",
-       "Extensible markup language XML",
-       "Facebook"
+       "Extensible markup language XML"
       ],
       "catalog_apps": [
+       "Canva",
        "Drupal",
        "Facebook Pages",
        "Figma",
@@ -2310,11 +2314,12 @@
        "Autodesk AutoCAD Civil 3D",
        "Autodesk Revit",
        "Bentley MicroStation",
+       "Canva",
        "Cascading style sheets CSS",
-       "Extensible markup language XML",
-       "Facebook"
+       "Extensible markup language XML"
       ],
       "catalog_apps": [
+       "Canva",
        "Drupal",
        "Facebook Pages",
        "Figma",
@@ -2390,11 +2395,12 @@
        "Autodesk AutoCAD Civil 3D",
        "Autodesk Revit",
        "Bentley MicroStation",
+       "Canva",
        "Cascading style sheets CSS",
-       "Extensible markup language XML",
-       "Facebook"
+       "Extensible markup language XML"
       ],
       "catalog_apps": [
+       "Canva",
        "Drupal",
        "Facebook Pages",
        "Figma",
@@ -2461,6 +2467,7 @@
        "Adobe After Effects",
        "Adobe Creative Cloud software",
        "Adobe Illustrator",
+       "Adobe InDesign",
        "Adobe Photoshop",
        "AJAX",
        "Cascading style sheets CSS",
@@ -2530,6 +2537,7 @@
        "Adobe After Effects",
        "Adobe Creative Cloud software",
        "Adobe Illustrator",
+       "Adobe InDesign",
        "Adobe Photoshop",
        "AJAX",
        "Cascading style sheets CSS",
@@ -2555,44 +2563,44 @@
       "title": "Web Designer",
       "tasks": [
        {
-        "task": "Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites.",
-        "type": "n/a",
-        "importance": null
-       },
-       {
-        "task": "Collaborate with web development professionals, such as front-end or back-end developers, to complete the full scope of Web development projects.",
-        "type": "n/a",
-        "importance": null
-       },
-       {
-        "task": "Communicate with network personnel or Web site hosting agencies to address hardware or software issues affecting Web sites.",
-        "type": "n/a",
-        "importance": null
-       },
-       {
-        "task": "Conduct user research to determine design requirements and analyze user feedback to improve design quality.",
-        "type": "n/a",
-        "importance": null
-       },
-       {
-        "task": "Confer with management or development teams to prioritize needs, resolve conflicts, develop content criteria, or choose solutions.",
-        "type": "n/a",
-        "importance": null
-       },
-       {
-        "task": "Create searchable indices for Web page content.",
-        "type": "n/a",
-        "importance": null
-       },
-       {
-        "task": "Create Web models or prototypes that include physical, interface, logical, or data models.",
-        "type": "n/a",
-        "importance": null
+        "task": "Identify problems uncovered by testing or customer feedback, and correct problems or refer problems to appropriate personnel for correction.",
+        "type": "Core",
+        "importance": 4.31
        },
        {
         "task": "Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",
-        "type": "n/a",
-        "importance": null
+        "type": "Core",
+        "importance": 4.13
+       },
+       {
+        "task": "Write supporting code for Web applications or Web sites.",
+        "type": "Core",
+        "importance": 4.1
+       },
+       {
+        "task": "Perform Web site tests according to planned schedules, or after any Web site or product revision.",
+        "type": "Core",
+        "importance": 4.06
+       },
+       {
+        "task": "Collaborate with web development professionals, such as front-end or back-end developers, to complete the full scope of Web development projects.",
+        "type": "Core",
+        "importance": 4.05
+       },
+       {
+        "task": "Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites.",
+        "type": "Supplemental",
+        "importance": 4.04
+       },
+       {
+        "task": "Develop new visual design concepts and modify concepts based on stakeholder feedback.",
+        "type": "Core",
+        "importance": 4.01
+       },
+       {
+        "task": "Maintain understanding of current Web technologies or programming practices through continuing education, reading, or participation in professional conferences, workshops, or groups.",
+        "type": "Core",
+        "importance": 3.95
        }
       ],
       "software_onet": [
@@ -3174,44 +3182,44 @@
       "title": "Sales Development Rep",
       "tasks": [
        {
-        "task": "Answer customers' questions about services, prices, availability, or credit terms.",
-        "type": "n/a",
-        "importance": null
-       },
-       {
-        "task": "Attend sales or trade meetings or read related publications to obtain information about market conditions, business trends, regulations, or industry developments.",
-        "type": "n/a",
-        "importance": null
-       },
-       {
-        "task": "Compute and compare costs of services.",
-        "type": "n/a",
-        "importance": null
-       },
-       {
         "task": "Consult with clients after sales or contract signings to resolve problems and provide ongoing support.",
-        "type": "n/a",
-        "importance": null
+        "type": "Core",
+        "importance": 4.4
        },
        {
-        "task": "Contact prospective or existing customers to discuss how services can meet their needs.",
-        "type": "n/a",
-        "importance": null
-       },
-       {
-        "task": "Create forms or agreements to complete sales.",
-        "type": "n/a",
-        "importance": null
+        "task": "Answer customers' questions about services, prices, availability, or credit terms.",
+        "type": "Core",
+        "importance": 4.37
        },
        {
         "task": "Develop sales presentations or proposals to explain service specifications.",
-        "type": "n/a",
-        "importance": null
+        "type": "Core",
+        "importance": 4.35
        },
        {
-        "task": "Distribute promotional materials at meetings, conferences, or trade shows.",
-        "type": "n/a",
-        "importance": null
+        "task": "Create forms or agreements to complete sales.",
+        "type": "Core",
+        "importance": 4.25
+       },
+       {
+        "task": "Contact prospective or existing customers to discuss how services can meet their needs.",
+        "type": "Core",
+        "importance": 4.22
+       },
+       {
+        "task": "Negotiate prices or terms of sales or service agreements.",
+        "type": "Core",
+        "importance": 4.19
+       },
+       {
+        "task": "Quote prices, credit terms, contract terms, or fulfillment dates for services.",
+        "type": "Core",
+        "importance": 4.05
+       },
+       {
+        "task": "Maintain customer records using automated systems.",
+        "type": "Core",
+        "importance": 4.02
        }
       ],
       "software_onet": [
@@ -3240,44 +3248,44 @@
       "title": "Wholesale Account Manager",
       "tasks": [
        {
-        "task": "Answer customers' questions about services, prices, availability, or credit terms.",
-        "type": "n/a",
-        "importance": null
-       },
-       {
-        "task": "Attend sales or trade meetings or read related publications to obtain information about market conditions, business trends, regulations, or industry developments.",
-        "type": "n/a",
-        "importance": null
-       },
-       {
-        "task": "Compute and compare costs of services.",
-        "type": "n/a",
-        "importance": null
-       },
-       {
         "task": "Consult with clients after sales or contract signings to resolve problems and provide ongoing support.",
-        "type": "n/a",
-        "importance": null
+        "type": "Core",
+        "importance": 4.4
        },
        {
-        "task": "Contact prospective or existing customers to discuss how services can meet their needs.",
-        "type": "n/a",
-        "importance": null
-       },
-       {
-        "task": "Create forms or agreements to complete sales.",
-        "type": "n/a",
-        "importance": null
+        "task": "Answer customers' questions about services, prices, availability, or credit terms.",
+        "type": "Core",
+        "importance": 4.37
        },
        {
         "task": "Develop sales presentations or proposals to explain service specifications.",
-        "type": "n/a",
-        "importance": null
+        "type": "Core",
+        "importance": 4.35
        },
        {
-        "task": "Distribute promotional materials at meetings, conferences, or trade shows.",
-        "type": "n/a",
-        "importance": null
+        "task": "Create forms or agreements to complete sales.",
+        "type": "Core",
+        "importance": 4.25
+       },
+       {
+        "task": "Contact prospective or existing customers to discuss how services can meet their needs.",
+        "type": "Core",
+        "importance": 4.22
+       },
+       {
+        "task": "Negotiate prices or terms of sales or service agreements.",
+        "type": "Core",
+        "importance": 4.19
+       },
+       {
+        "task": "Quote prices, credit terms, contract terms, or fulfillment dates for services.",
+        "type": "Core",
+        "importance": 4.05
+       },
+       {
+        "task": "Maintain customer records using automated systems.",
+        "type": "Core",
+        "importance": 4.02
        }
       ],
       "software_onet": [
@@ -3306,44 +3314,44 @@
       "title": "Wholesale Account Manager",
       "tasks": [
        {
-        "task": "Answer customers' questions about services, prices, availability, or credit terms.",
-        "type": "n/a",
-        "importance": null
-       },
-       {
-        "task": "Attend sales or trade meetings or read related publications to obtain information about market conditions, business trends, regulations, or industry developments.",
-        "type": "n/a",
-        "importance": null
-       },
-       {
-        "task": "Compute and compare costs of services.",
-        "type": "n/a",
-        "importance": null
-       },
-       {
         "task": "Consult with clients after sales or contract signings to resolve problems and provide ongoing support.",
-        "type": "n/a",
-        "importance": null
+        "type": "Core",
+        "importance": 4.4
        },
        {
-        "task": "Contact prospective or existing customers to discuss how services can meet their needs.",
-        "type": "n/a",
-        "importance": null
-       },
-       {
-        "task": "Create forms or agreements to complete sales.",
-        "type": "n/a",
-        "importance": null
+        "task": "Answer customers' questions about services, prices, availability, or credit terms.",
+        "type": "Core",
+        "importance": 4.37
        },
        {
         "task": "Develop sales presentations or proposals to explain service specifications.",
-        "type": "n/a",
-        "importance": null
+        "type": "Core",
+        "importance": 4.35
        },
        {
-        "task": "Distribute promotional materials at meetings, conferences, or trade shows.",
-        "type": "n/a",
-        "importance": null
+        "task": "Create forms or agreements to complete sales.",
+        "type": "Core",
+        "importance": 4.25
+       },
+       {
+        "task": "Contact prospective or existing customers to discuss how services can meet their needs.",
+        "type": "Core",
+        "importance": 4.22
+       },
+       {
+        "task": "Negotiate prices or terms of sales or service agreements.",
+        "type": "Core",
+        "importance": 4.19
+       },
+       {
+        "task": "Quote prices, credit terms, contract terms, or fulfillment dates for services.",
+        "type": "Core",
+        "importance": 4.05
+       },
+       {
+        "task": "Maintain customer records using automated systems.",
+        "type": "Core",
+        "importance": 4.02
        }
       ],
       "software_onet": [
@@ -4709,44 +4717,44 @@
       "title": "Accountant",
       "tasks": [
        {
-        "task": "Prepare detailed reports on audit findings.",
+        "task": "Prepare, examine, or analyze accounting records, financial statements, or other financial reports to assess accuracy, completeness, and conformance to reporting and procedural standards.",
         "type": "Core",
-        "importance": 4.58
+        "importance": 4.6
        },
        {
-        "task": "Report to management about asset utilization and audit results, and recommend changes in operations and financial activities.",
+        "task": "Process invoices for payment.",
         "type": "Core",
-        "importance": 4.55
+        "importance": 4.54
        },
        {
-        "task": "Collect and analyze data to detect deficient controls, duplicated effort, extravagance, fraud, or non-compliance with laws, regulations, and management policies.",
+        "task": "Review accounts for discrepancies and reconcile differences.",
         "type": "Core",
-        "importance": 4.5
+        "importance": 4.47
+       },
+       {
+        "task": "Compute taxes owed and prepare tax returns, ensuring compliance with payment, reporting, or other tax requirements.",
+        "type": "Core",
+        "importance": 4.29
+       },
+       {
+        "task": "Prepare adjusting journal entries.",
+        "type": "Core",
+        "importance": 4.29
        },
        {
         "task": "Inspect account books and accounting systems for efficiency, effectiveness, and use of accepted accounting procedures to record transactions.",
         "type": "Core",
-        "importance": 4.5
+        "importance": 4.18
        },
        {
-        "task": "Supervise auditing of establishments, and determine scope of investigation required.",
+        "task": "Prepare detailed reports on audit findings.",
         "type": "Core",
-        "importance": 4.5
+        "importance": 4.07
        },
        {
-        "task": "Confer with company officials about financial and regulatory matters.",
+        "task": "Prepare, analyze, or verify annual reports, financial statements, and other records, using accepted accounting and statistical procedures to assess financial condition and facilitate financial planning.",
         "type": "Core",
-        "importance": 4.3
-       },
-       {
-        "task": "Examine and evaluate financial and information systems, recommending controls to ensure system reliability and data integrity.",
-        "type": "Core",
-        "importance": 4.3
-       },
-       {
-        "task": "Inspect cash on hand, notes receivable and payable, negotiable securities, and canceled checks to confirm records are accurate.",
-        "type": "Core",
-        "importance": 4.25
+        "importance": 4.07
        }
       ],
       "software_onet": [
@@ -4757,14 +4765,14 @@
        "Google Sheets",
        "IBM SPSS Statistics",
        "Intuit QuickBooks",
+       "Intuit TurboTax",
        "MEDITECH software",
        "Microsoft Access",
        "Microsoft Excel",
        "Microsoft Office software",
        "Microsoft Outlook",
        "Microsoft PowerPoint",
-       "Microsoft Project",
-       "Microsoft SharePoint"
+       "Microsoft Project"
       ],
       "catalog_apps": [
        "Facebook Pages",
@@ -5108,5 +5116,2461 @@
    }
   ],
   "headcount": 50
- }
+ },
+ "solo": [
+  {
+   "name": "Kofi Usman",
+   "plan": "Starter",
+   "soc": "41-9022.00",
+   "occupation": "Real Estate Sales Agents",
+   "title": "Real estate agent",
+   "tasks": [
+    {
+     "task": "Present purchase offers to sellers for consideration.",
+     "type": "Core",
+     "importance": 4.74
+    },
+    {
+     "task": "Act as an intermediary in negotiations between buyers and sellers, generally representing one or the other.",
+     "type": "Core",
+     "importance": 4.73
+    },
+    {
+     "task": "Confer with escrow companies, lenders, home inspectors, and pest control operators to ensure that terms and conditions of purchase agreements are met before closing dates.",
+     "type": "Core",
+     "importance": 4.73
+    },
+    {
+     "task": "Appraise properties to determine loan values.",
+     "type": "Supplemental",
+     "importance": 4.71
+    },
+    {
+     "task": "Advise clients on market conditions, prices, mortgages, legal requirements, and related matters.",
+     "type": "Core",
+     "importance": 4.7
+    },
+    {
+     "task": "Prepare documents such as representation contracts, purchase agreements, closing statements, deeds, and leases.",
+     "type": "Core",
+     "importance": 4.67
+    },
+    {
+     "task": "Compare a property with similar properties that have recently sold to determine its competitive market price.",
+     "type": "Core",
+     "importance": 4.57
+    },
+    {
+     "task": "Coordinate appointments to show homes to prospective buyers.",
+     "type": "Core",
+     "importance": 4.55
+    },
+    {
+     "task": "Generate lists of properties that are compatible with buyers' needs and financial resources.",
+     "type": "Core",
+     "importance": 4.52
+    },
+    {
+     "task": "Interview clients to determine what kinds of properties they are seeking.",
+     "type": "Core",
+     "importance": 4.48
+    }
+   ],
+   "software_onet": [
+    "Adobe Acrobat",
+    "Canva",
+    "Facebook",
+    "Google Docs",
+    "Intuit QuickBooks",
+    "Microsoft Excel",
+    "Microsoft Office software",
+    "Microsoft Outlook",
+    "Microsoft PowerPoint",
+    "Microsoft Project",
+    "Microsoft Teams",
+    "Microsoft Word",
+    "Yardi software",
+    "Zoom"
+   ],
+   "catalog_apps": [
+    "Canva",
+    "Docusign",
+    "Facebook Pages",
+    "Front",
+    "Google Ads",
+    "Google Docs",
+    "Google Drive",
+    "LinkedIn",
+    "Microsoft Excel 365",
+    "Microsoft Outlook",
+    "Microsoft Teams",
+    "Quickbooks Online",
+    "Zoom"
+   ]
+  },
+  {
+   "name": "Lena Dlamini",
+   "plan": "Starter",
+   "soc": "13-2082.00",
+   "occupation": "Tax Preparers",
+   "title": "Tax preparer",
+   "tasks": [
+    {
+     "task": "Compute taxes owed or overpaid, using adding machines or personal computers, and complete entries on forms, following tax form instructions and tax tables.",
+     "type": "Core",
+     "importance": 4.75
+    },
+    {
+     "task": "Use all appropriate adjustments, deductions, and credits to keep clients' taxes to a minimum.",
+     "type": "Core",
+     "importance": 4.71
+    },
+    {
+     "task": "Furnish taxpayers with sufficient information and advice to ensure correct tax form completion.",
+     "type": "Core",
+     "importance": 4.57
+    },
+    {
+     "task": "Interview clients to obtain additional information on taxable income and deductible expenses and allowances.",
+     "type": "Core",
+     "importance": 4.57
+    },
+    {
+     "task": "Prepare or assist in preparing simple to complex tax returns for individuals or small businesses.",
+     "type": "Core",
+     "importance": 4.5
+    },
+    {
+     "task": "Review financial records, such as income statements and documentation of expenditures to determine forms needed to prepare tax returns.",
+     "type": "Core",
+     "importance": 4.45
+    },
+    {
+     "task": "Check data input or verify totals on forms prepared by others to detect errors in arithmetic, data entry, or procedures.",
+     "type": "Core",
+     "importance": 4.37
+    },
+    {
+     "task": "Explain federal and state tax laws to individuals and companies.",
+     "type": "Core",
+     "importance": 4.21
+    },
+    {
+     "task": "Answer questions and provide future tax planning to clients.",
+     "type": "Core",
+     "importance": 4.2
+    },
+    {
+     "task": "Consult tax law handbooks or bulletins to determine procedures for preparation of atypical returns.",
+     "type": "Core",
+     "importance": 4.2
+    }
+   ],
+   "software_onet": [
+    "Intuit QuickBooks",
+    "Intuit TurboTax",
+    "Microsoft Access",
+    "Microsoft Excel",
+    "Microsoft Office software",
+    "Microsoft Outlook",
+    "Microsoft Word"
+   ],
+   "catalog_apps": [
+    "Microsoft Excel 365",
+    "Microsoft Outlook",
+    "Quickbooks Online"
+   ]
+  },
+  {
+   "name": "Mateo Khan",
+   "plan": "Starter",
+   "soc": "43-3031.00",
+   "occupation": "Bookkeeping, Accounting, and Auditing Clerks",
+   "title": "Freelance bookkeeper",
+   "tasks": [
+    {
+     "task": "Operate computers programmed with accounting software to record, store, and analyze information.",
+     "type": "Core",
+     "importance": 4.76
+    },
+    {
+     "task": "Prepare and process payroll information.",
+     "type": "Supplemental",
+     "importance": 4.71
+    },
+    {
+     "task": "Check figures, postings, and documents for correct entry, mathematical accuracy, and proper codes.",
+     "type": "Core",
+     "importance": 4.68
+    },
+    {
+     "task": "Prepare bank deposits by compiling data from cashiers, verifying and balancing receipts, and sending cash, checks, or other forms of payment to banks.",
+     "type": "Supplemental",
+     "importance": 4.61
+    },
+    {
+     "task": "Comply with federal, state, and company policies, procedures, and regulations.",
+     "type": "Core",
+     "importance": 4.57
+    },
+    {
+     "task": "Operate 10-key calculators, typewriters, and copy machines to perform calculations and produce documents.",
+     "type": "Core",
+     "importance": 4.47
+    },
+    {
+     "task": "Receive, record, and bank cash, checks, and vouchers.",
+     "type": "Core",
+     "importance": 4.46
+    },
+    {
+     "task": "Calculate and prepare checks for utilities, taxes, and other payments.",
+     "type": "Supplemental",
+     "importance": 4.44
+    },
+    {
+     "task": "Monitor status of loans and accounts to ensure that payments are up to date.",
+     "type": "Supplemental",
+     "importance": 4.4
+    },
+    {
+     "task": "Reconcile records of bank transactions.",
+     "type": "Supplemental",
+     "importance": 4.38
+    }
+   ],
+   "software_onet": [
+    "Adobe Acrobat",
+    "Epic Systems",
+    "Google Docs",
+    "Intuit QuickBooks",
+    "MEDITECH software",
+    "Microsoft Access",
+    "Microsoft Excel",
+    "Microsoft Office software",
+    "Microsoft Outlook",
+    "Microsoft PowerPoint",
+    "Microsoft Project",
+    "Microsoft SharePoint",
+    "Microsoft Windows",
+    "Microsoft Word",
+    "Oracle Database"
+   ],
+   "catalog_apps": [
+    "Dropbox",
+    "Facebook Pages",
+    "Google Docs",
+    "Google Drive",
+    "Microsoft Excel 365",
+    "Microsoft Outlook",
+    "Microsoft SharePoint",
+    "NetSuite",
+    "Oracle Database",
+    "Quickbooks Online"
+   ]
+  },
+  {
+   "name": "Nadia Reyes",
+   "plan": "Starter",
+   "soc": "27-4021.00",
+   "occupation": "Photographers",
+   "title": "Photographer",
+   "tasks": [
+    {
+     "task": "Adjust apertures, shutter speeds, and camera focus according to a combination of factors, such as lighting, field depth, subject motion, film type, and film speed.",
+     "type": "Core",
+     "importance": 4.91
+    },
+    {
+     "task": "Create artificial light, using flashes and reflectors.",
+     "type": "Core",
+     "importance": 4.86
+    },
+    {
+     "task": "Determine desired images and picture composition, selecting and adjusting subjects, equipment, and lighting to achieve desired effects.",
+     "type": "Core",
+     "importance": 4.82
+    },
+    {
+     "task": "Transfer photographs to computers for editing, archiving, and electronic transmission.",
+     "type": "Core",
+     "importance": 4.82
+    },
+    {
+     "task": "Use traditional or digital cameras, along with a variety of equipment, such as tripods, filters, and flash attachments.",
+     "type": "Core",
+     "importance": 4.81
+    },
+    {
+     "task": "Manipulate and enhance scanned or digital images to create desired effects, using computers and specialized software.",
+     "type": "Core",
+     "importance": 4.68
+    },
+    {
+     "task": "Take pictures of individuals, families, and small groups, either in studio or on location.",
+     "type": "Core",
+     "importance": 4.68
+    },
+    {
+     "task": "Enhance, retouch, and resize photographs and negatives, using airbrushing and other techniques.",
+     "type": "Core",
+     "importance": 4.57
+    },
+    {
+     "task": "Test equipment prior to use to ensure that it is in good working order.",
+     "type": "Core",
+     "importance": 4.57
+    },
+    {
+     "task": "Estimate or measure light levels, distances, and numbers of exposures needed, using measuring devices and formulas.",
+     "type": "Core",
+     "importance": 4.52
+    }
+   ],
+   "software_onet": [
+    "Adobe Acrobat",
+    "Adobe After Effects",
+    "Adobe Creative Cloud software",
+    "Adobe Illustrator",
+    "Adobe InDesign",
+    "Adobe Photoshop",
+    "Apple macOS",
+    "Facebook",
+    "Intuit QuickBooks",
+    "Microsoft Access",
+    "Microsoft Excel",
+    "Microsoft Word",
+    "WordPress"
+   ],
+   "catalog_apps": [
+    "Facebook Pages",
+    "Google Drive",
+    "Microsoft Excel 365",
+    "Quickbooks Online",
+    "Twitter",
+    "WordPress",
+    "YouTube"
+   ]
+  },
+  {
+   "name": "Omar Young",
+   "plan": "Starter",
+   "soc": "39-9031.00",
+   "occupation": "Exercise Trainers and Group Fitness Instructors",
+   "title": "Personal trainer",
+   "tasks": [
+    {
+     "task": "Observe participants and inform them of corrective measures necessary for skill improvement.",
+     "type": "Core",
+     "importance": 4.9
+    },
+    {
+     "task": "Offer alternatives during classes to accommodate different levels of fitness.",
+     "type": "Core",
+     "importance": 4.81
+    },
+    {
+     "task": "Monitor participants' progress and adapt programs as needed.",
+     "type": "Core",
+     "importance": 4.76
+    },
+    {
+     "task": "Plan routines, choose appropriate music, and choose different movements for each set of muscles, depending on participants' capabilities and limitations.",
+     "type": "Core",
+     "importance": 4.76
+    },
+    {
+     "task": "Evaluate individuals' abilities, needs, and physical conditions, and develop suitable training programs to meet any special requirements.",
+     "type": "Core",
+     "importance": 4.55
+    },
+    {
+     "task": "Instruct participants in maintaining exertion levels to maximize benefits from exercise routines.",
+     "type": "Core",
+     "importance": 4.52
+    },
+    {
+     "task": "Teach and demonstrate use of gymnastic and training equipment, such as trampolines and weights.",
+     "type": "Core",
+     "importance": 4.47
+    },
+    {
+     "task": "Explain and enforce safety rules and regulations governing sports, recreational activities, and the use of exercise equipment.",
+     "type": "Core",
+     "importance": 4.38
+    },
+    {
+     "task": "Teach proper breathing techniques used during physical exertion.",
+     "type": "Core",
+     "importance": 4.24
+    },
+    {
+     "task": "Maintain fitness equipment.",
+     "type": "Core",
+     "importance": 4.11
+    }
+   ],
+   "software_onet": [
+    "Intuit QuickBooks",
+    "Microsoft Excel",
+    "Microsoft Office software",
+    "Microsoft Outlook",
+    "Microsoft PowerPoint",
+    "Microsoft Word"
+   ],
+   "catalog_apps": [
+    "Microsoft Excel 365",
+    "Microsoft Outlook",
+    "Quickbooks Online"
+   ]
+  },
+  {
+   "name": "Priya Novak",
+   "plan": "Starter",
+   "soc": "13-1121.00",
+   "occupation": "Meeting, Convention, and Event Planners",
+   "title": "Event planner",
+   "tasks": [
+    {
+     "task": "Consult with customers to determine objectives and requirements for events, such as meetings, conferences, and conventions.",
+     "type": "Core",
+     "importance": 4.6
+    },
+    {
+     "task": "Review event bills for accuracy and approve payment.",
+     "type": "Core",
+     "importance": 4.54
+    },
+    {
+     "task": "Coordinate services for events, such as accommodation and transportation for participants, facilities, catering, signage, displays, special needs requirements, printing and event security.",
+     "type": "Core",
+     "importance": 4.4
+    },
+    {
+     "task": "Arrange the availability of audio-visual equipment, transportation, displays, and other event needs.",
+     "type": "Core",
+     "importance": 4.35
+    },
+    {
+     "task": "Confer with staff at a chosen event site to coordinate details.",
+     "type": "Core",
+     "importance": 4.34
+    },
+    {
+     "task": "Inspect event facilities to ensure that they conform to customer requirements.",
+     "type": "Core",
+     "importance": 4.31
+    },
+    {
+     "task": "Maintain records of event aspects, including financial details.",
+     "type": "Core",
+     "importance": 4.26
+    },
+    {
+     "task": "Monitor event activities to ensure compliance with applicable regulations and laws, satisfaction of participants, and resolution of any problems that arise.",
+     "type": "Core",
+     "importance": 4.14
+    },
+    {
+     "task": "Negotiate contracts with such service providers and suppliers as hotels, convention centers, and speakers.",
+     "type": "Core",
+     "importance": 4.08
+    },
+    {
+     "task": "Evaluate and select providers of services according to customer requirements.",
+     "type": "Core",
+     "importance": 4.06
+    }
+   ],
+   "software_onet": [
+    "Adobe Creative Cloud software",
+    "Adobe InDesign",
+    "Adobe Photoshop",
+    "ESRI ArcGIS software",
+    "Facebook",
+    "Google Docs",
+    "Hypertext markup language HTML",
+    "Marketo Marketing Automation",
+    "Microsoft Access",
+    "Microsoft Excel",
+    "Microsoft Office software",
+    "Microsoft Outlook",
+    "Microsoft PowerPoint",
+    "Microsoft Project",
+    "Microsoft Word"
+   ],
+   "catalog_apps": [
+    "Facebook Pages",
+    "Google Docs",
+    "Google Drive",
+    "LinkedIn",
+    "Microsoft Excel 365",
+    "Microsoft Outlook"
+   ]
+  },
+  {
+   "name": "Quinn Duarte",
+   "plan": "Starter",
+   "soc": "25-3041.00",
+   "occupation": "Tutors",
+   "title": "Tutor",
+   "tasks": [
+    {
+     "task": "Provide feedback to students, using positive reinforcement techniques to encourage, motivate, or build confidence in students.",
+     "type": "Core",
+     "importance": 4.86
+    },
+    {
+     "task": "Review class material with students by discussing text, working solutions to problems, or reviewing worksheets or other assignments.",
+     "type": "Core",
+     "importance": 4.73
+    },
+    {
+     "task": "Assess students' progress throughout tutoring sessions.",
+     "type": "Core",
+     "importance": 4.68
+    },
+    {
+     "task": "Teach students study skills, note-taking skills, and test-taking strategies.",
+     "type": "Core",
+     "importance": 4.45
+    },
+    {
+     "task": "Provide private instruction to individual or small groups of students to improve academic performance, improve occupational skills, or prepare for academic or occupational tests.",
+     "type": "Core",
+     "importance": 4.45
+    },
+    {
+     "task": "Participate in training and development sessions to improve tutoring practices or learn new tutoring techniques.",
+     "type": "Core",
+     "importance": 4.18
+    },
+    {
+     "task": "Collaborate with students, parents, teachers, school administrators, or counselors to determine student needs, develop tutoring plans, or assess student progress.",
+     "type": "Core",
+     "importance": 4.15
+    },
+    {
+     "task": "Monitor student performance or assist students in academic environments, such as classrooms, laboratories, or computing centers.",
+     "type": "Core",
+     "importance": 4.14
+    },
+    {
+     "task": "Schedule tutoring appointments with students or their parents.",
+     "type": "Core",
+     "importance": 3.95
+    },
+    {
+     "task": "Organize tutoring environment to promote productivity and learning.",
+     "type": "Core",
+     "importance": 3.91
+    }
+   ],
+   "software_onet": [
+    "Facebook",
+    "Microsoft Excel",
+    "Microsoft Office software",
+    "Microsoft PowerPoint",
+    "Microsoft Word",
+    "Zoom"
+   ],
+   "catalog_apps": [
+    "Facebook Pages",
+    "Google Drive",
+    "Microsoft Excel 365",
+    "Zoom"
+   ]
+  },
+  {
+   "name": "Rafael Turner",
+   "plan": "Starter",
+   "soc": "41-3021.00",
+   "occupation": "Insurance Sales Agents",
+   "title": "Insurance agent",
+   "tasks": [
+    {
+     "task": "Customize insurance programs to suit individual customers, often covering a variety of risks.",
+     "type": "Core",
+     "importance": 4.43
+    },
+    {
+     "task": "Sell various types of insurance policies to businesses and individuals on behalf of insurance companies, including automobile, fire, life, property, medical and dental insurance, or specialized policies, such as marine, farm/crop, and medical malpractice.",
+     "type": "Core",
+     "importance": 4.37
+    },
+    {
+     "task": "Explain features, advantages, and disadvantages of various policies to promote sale of insurance plans.",
+     "type": "Core",
+     "importance": 4.23
+    },
+    {
+     "task": "Perform administrative tasks, such as maintaining records and handling policy renewals.",
+     "type": "Core",
+     "importance": 4.19
+    },
+    {
+     "task": "Seek out new clients and develop clientele by networking to find new customers and generate lists of prospective clients.",
+     "type": "Core",
+     "importance": 4.14
+    },
+    {
+     "task": "Call on policyholders to deliver and explain policy, to analyze insurance program and suggest additions or changes, or to change beneficiaries.",
+     "type": "Core",
+     "importance": 4.13
+    },
+    {
+     "task": "Confer with clients to obtain and provide information when claims are made on a policy.",
+     "type": "Core",
+     "importance": 4.08
+    },
+    {
+     "task": "Interview prospective clients to obtain data about their financial resources and needs, the physical condition of the person or property to be insured, and to discuss any existing coverage.",
+     "type": "Core",
+     "importance": 4.06
+    },
+    {
+     "task": "Contact underwriter and submit forms to obtain binder coverage.",
+     "type": "Core",
+     "importance": 4.05
+    },
+    {
+     "task": "Select company that offers type of coverage requested by client to underwrite policy.",
+     "type": "Core",
+     "importance": 4.0
+    }
+   ],
+   "software_onet": [
+    "Adobe After Effects",
+    "Facebook",
+    "Microsoft Excel",
+    "Microsoft Office software",
+    "Microsoft Outlook",
+    "Microsoft PowerPoint",
+    "Microsoft Windows",
+    "Microsoft Word",
+    "Zoom"
+   ],
+   "catalog_apps": [
+    "Facebook Pages",
+    "Front",
+    "LinkedIn",
+    "Microsoft Excel 365",
+    "Microsoft Outlook",
+    "YouTube",
+    "Zoom"
+   ]
+  },
+  {
+   "name": "Sana Castillo",
+   "plan": "Starter",
+   "soc": "27-3043.00",
+   "occupation": "Writers and Authors",
+   "title": "Freelance writer",
+   "tasks": [
+    {
+     "task": "Write fiction or nonfiction prose, such as short stories, novels, biographies, articles, descriptive or critical analyses, and essays.",
+     "type": "Core",
+     "importance": 4.71
+    },
+    {
+     "task": "Revise written material to meet personal standards and to satisfy needs of clients, publishers, directors, or producers.",
+     "type": "Core",
+     "importance": 4.71
+    },
+    {
+     "task": "Present drafts and ideas to clients.",
+     "type": "Core",
+     "importance": 4.69
+    },
+    {
+     "task": "Edit or rewrite existing written material as necessary, and submit written material for approval by supervisor, editor, or publisher.",
+     "type": "Core",
+     "importance": 4.67
+    },
+    {
+     "task": "Conduct research to obtain factual information and authentic detail, using sources such as newspaper accounts, diaries, and interviews.",
+     "type": "Core",
+     "importance": 4.65
+    },
+    {
+     "task": "Vary language and tone of messages based on product and medium.",
+     "type": "Core",
+     "importance": 4.53
+    },
+    {
+     "task": "Write articles, bulletins, sales letters, speeches, and other related informative, marketing and promotional material.",
+     "type": "Core",
+     "importance": 4.53
+    },
+    {
+     "task": "Write advertising material for use by publication, broadcast, or internet media to promote the sale of goods and services.",
+     "type": "Core",
+     "importance": 4.38
+    },
+    {
+     "task": "Write to customers in their terms and on their level so that the script, story, or advertisement message is more readily received.",
+     "type": "Core",
+     "importance": 4.36
+    },
+    {
+     "task": "Prepare works in appropriate format for publication, and send them to publishers or producers.",
+     "type": "Core",
+     "importance": 4.35
+    }
+   ],
+   "software_onet": [
+    "Adobe Acrobat",
+    "Adobe After Effects",
+    "Adobe Creative Cloud software",
+    "Adobe Illustrator",
+    "Adobe InDesign",
+    "Adobe Photoshop",
+    "Asana",
+    "Canva",
+    "Facebook",
+    "Figma",
+    "Google Analytics",
+    "Google Docs",
+    "Google Workspace software",
+    "HubSpot software",
+    "Hypertext markup language HTML"
+   ],
+   "catalog_apps": [
+    "Asana",
+    "Campaign Monitor",
+    "Canva",
+    "Drupal",
+    "Facebook Pages",
+    "Figma",
+    "Google Ads",
+    "Google Docs",
+    "Google Drive",
+    "Google Slides",
+    "Google Workspace",
+    "HubSpot",
+    "LinkedIn",
+    "Microsoft Excel 365",
+    "Microsoft Outlook",
+    "Microsoft SharePoint",
+    "MySQL",
+    "Presenton",
+    "SendGrid",
+    "Slack"
+   ]
+  },
+  {
+   "name": "Tomas Jensen",
+   "plan": "Starter",
+   "soc": "27-1024.00",
+   "occupation": "Graphic Designers",
+   "title": "Freelance designer",
+   "tasks": [
+    {
+     "task": "Key information into computer equipment to create layouts for client or supervisor.",
+     "type": "Core",
+     "importance": 4.7
+    },
+    {
+     "task": "Review final layouts and suggest improvements, as needed.",
+     "type": "Core",
+     "importance": 4.65
+    },
+    {
+     "task": "Determine size and arrangement of illustrative material and copy, and select style and size of type.",
+     "type": "Core",
+     "importance": 4.6
+    },
+    {
+     "task": "Develop graphics and layouts for product illustrations, company logos, and Web sites.",
+     "type": "Core",
+     "importance": 4.56
+    },
+    {
+     "task": "Create designs, concepts, and sample layouts, based on knowledge of layout principles and esthetic design concepts.",
+     "type": "Core",
+     "importance": 4.5
+    },
+    {
+     "task": "Use computer software to generate new images.",
+     "type": "Core",
+     "importance": 4.47
+    },
+    {
+     "task": "Prepare digital files for printing.",
+     "type": "Core",
+     "importance": 4.45
+    },
+    {
+     "task": "Confer with clients to discuss and determine layout design.",
+     "type": "Core",
+     "importance": 4.28
+    },
+    {
+     "task": "Research the target audience of projects.",
+     "type": "Core",
+     "importance": 4.25
+    },
+    {
+     "task": "Draw and print charts, graphs, illustrations, and other artwork, using computer.",
+     "type": "Core",
+     "importance": 4.15
+    }
+   ],
+   "software_onet": [
+    "Adobe Acrobat",
+    "Adobe After Effects",
+    "Adobe Creative Cloud software",
+    "Adobe Illustrator",
+    "Adobe InDesign",
+    "Adobe Photoshop",
+    "AJAX",
+    "Apple macOS",
+    "Autodesk AutoCAD",
+    "Autodesk AutoCAD Civil 3D",
+    "Autodesk Revit",
+    "Bentley MicroStation",
+    "Canva",
+    "Cascading style sheets CSS",
+    "Extensible markup language XML"
+   ],
+   "catalog_apps": [
+    "Canva",
+    "Drupal",
+    "Facebook Pages",
+    "Figma",
+    "Google Ads",
+    "Google Docs",
+    "Google Drive",
+    "Google Slides",
+    "LinkedIn",
+    "Microsoft Excel 365",
+    "Microsoft Outlook",
+    "Quickbooks Online",
+    "WordPress",
+    "YouTube"
+   ]
+  },
+  {
+   "name": "Uma Qureshi",
+   "plan": "Starter",
+   "soc": "21-1013.00",
+   "occupation": "Marriage and Family Therapists",
+   "title": "Therapist in private practice",
+   "tasks": [
+    {
+     "task": "Ask questions that will help clients identify their feelings and behaviors.",
+     "type": "Core",
+     "importance": 4.79
+    },
+    {
+     "task": "Encourage individuals and family members to develop and use skills and strategies for confronting their problems in a constructive manner.",
+     "type": "Core",
+     "importance": 4.79
+    },
+    {
+     "task": "Develop and implement individualized treatment plans addressing family relationship problems, destructive patterns of behavior, and other personal issues.",
+     "type": "Core",
+     "importance": 4.76
+    },
+    {
+     "task": "Maintain case files that include activities, progress notes, evaluations, and recommendations.",
+     "type": "Core",
+     "importance": 4.75
+    },
+    {
+     "task": "Counsel clients on concerns, such as unsatisfactory relationships, divorce and separation, child rearing, home management, or financial difficulties.",
+     "type": "Core",
+     "importance": 4.69
+    },
+    {
+     "task": "Determine whether clients should be counseled or referred to other specialists in such fields as medicine, psychiatry, or legal aid.",
+     "type": "Core",
+     "importance": 4.54
+    },
+    {
+     "task": "Supervise other counselors, social service staff, and assistants.",
+     "type": "Core",
+     "importance": 4.38
+    },
+    {
+     "task": "Confer with other counselors, doctors, and professionals to analyze individual cases and to coordinate counseling services.",
+     "type": "Core",
+     "importance": 4.23
+    },
+    {
+     "task": "Diagnose mental and emotional disorders in clients.",
+     "type": "Core",
+     "importance": 4.21
+    },
+    {
+     "task": "Confer with clients to develop plans for posttreatment activities.",
+     "type": "Core",
+     "importance": 4.14
+    }
+   ],
+   "software_onet": [
+    "Intuit QuickBooks",
+    "Microsoft Access",
+    "Microsoft Excel",
+    "Microsoft Office software",
+    "Microsoft Outlook",
+    "Microsoft PowerPoint",
+    "Microsoft Teams",
+    "Microsoft Word",
+    "Zoom"
+   ],
+   "catalog_apps": [
+    "Microsoft Excel 365",
+    "Microsoft Outlook",
+    "Microsoft Teams",
+    "Quickbooks Online",
+    "Zoom"
+   ]
+  },
+  {
+   "name": "Victor Xu",
+   "plan": "Starter",
+   "soc": "23-1011.00",
+   "occupation": "Lawyers",
+   "title": "Solo lawyer",
+   "tasks": [
+    {
+     "task": "Interpret laws, rulings and regulations for individuals and businesses.",
+     "type": "Core",
+     "importance": 4.54
+    },
+    {
+     "task": "Analyze the probable outcomes of cases, using knowledge of legal precedents.",
+     "type": "Core",
+     "importance": 4.41
+    },
+    {
+     "task": "Gather evidence to formulate defense or to initiate legal actions by such means as interviewing clients and witnesses to ascertain the facts of a case.",
+     "type": "Core",
+     "importance": 4.4
+    },
+    {
+     "task": "Present and summarize cases to judges and juries.",
+     "type": "Supplemental",
+     "importance": 4.36
+    },
+    {
+     "task": "Represent clients in court or before government agencies.",
+     "type": "Core",
+     "importance": 4.34
+    },
+    {
+     "task": "Select jurors, argue motions, meet with judges, and question witnesses during the course of a trial.",
+     "type": "Supplemental",
+     "importance": 4.34
+    },
+    {
+     "task": "Evaluate findings and develop strategies and arguments in preparation for presentation of cases.",
+     "type": "Core",
+     "importance": 4.31
+    },
+    {
+     "task": "Present evidence to defend clients or prosecute defendants in criminal or civil litigation.",
+     "type": "Supplemental",
+     "importance": 4.29
+    },
+    {
+     "task": "Advise clients concerning business transactions, claim liability, advisability of prosecuting or defending lawsuits, or legal rights and obligations.",
+     "type": "Core",
+     "importance": 4.27
+    },
+    {
+     "task": "Examine legal data to determine advisability of defending or prosecuting lawsuit.",
+     "type": "Core",
+     "importance": 4.21
+    }
+   ],
+   "software_onet": [
+    "Adobe Acrobat",
+    "Google Analytics",
+    "Microsoft Access",
+    "Microsoft Excel",
+    "Microsoft Office software",
+    "Microsoft Outlook",
+    "Microsoft PowerPoint",
+    "Microsoft Project",
+    "Microsoft Word",
+    "SAP software"
+   ],
+   "catalog_apps": [
+    "Cisco Webex Meetings",
+    "Front",
+    "Microsoft Excel 365",
+    "Microsoft Outlook",
+    "Microsoft SharePoint"
+   ]
+  },
+  {
+   "name": "Wen Haddad",
+   "plan": "Starter",
+   "soc": "43-6014.00",
+   "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+   "title": "Virtual assistant",
+   "tasks": [
+    {
+     "task": "Answer telephones and give information to callers, take messages, or transfer calls to appropriate individuals.",
+     "type": "Core",
+     "importance": 4.33
+    },
+    {
+     "task": "Greet visitors or callers and handle their inquiries or direct them to the appropriate persons according to their needs.",
+     "type": "Core",
+     "importance": 4.32
+    },
+    {
+     "task": "Create, maintain, and enter information into databases.",
+     "type": "Core",
+     "importance": 4.22
+    },
+    {
+     "task": "Use computers for various applications, such as database management or word processing.",
+     "type": "Core",
+     "importance": 4.22
+    },
+    {
+     "task": "Perform payroll functions, such as maintaining timekeeping information and processing and submitting payroll.",
+     "type": "Supplemental",
+     "importance": 4.22
+    },
+    {
+     "task": "Collect and deposit money into accounts, disburse funds from cash accounts to pay bills or invoices, keep records of collections and disbursements, and ensure accounts are balanced.",
+     "type": "Supplemental",
+     "importance": 4.15
+    },
+    {
+     "task": "Operate office equipment, such as fax machines, copiers, or phone systems and arrange for repairs when equipment malfunctions.",
+     "type": "Core",
+     "importance": 4.06
+    },
+    {
+     "task": "Set up and manage paper or electronic filing systems, recording information, updating paperwork, or maintaining documents, such as attendance records, correspondence, or other material.",
+     "type": "Core",
+     "importance": 4.0
+    },
+    {
+     "task": "Operate electronic mail systems and coordinate the flow of information, internally or with other organizations.",
+     "type": "Core",
+     "importance": 3.95
+    },
+    {
+     "task": "Schedule and confirm appointments for clients, customers, or supervisors.",
+     "type": "Core",
+     "importance": 3.93
+    }
+   ],
+   "software_onet": [
+    "Adobe Acrobat",
+    "Adobe Creative Cloud software",
+    "Adobe Illustrator",
+    "Adobe InDesign",
+    "Adobe Photoshop",
+    "Apache Cassandra",
+    "Apache Hadoop",
+    "Apache Hive",
+    "Apache Tomcat",
+    "Apple macOS",
+    "Atlassian Confluence",
+    "Atlassian JIRA",
+    "Canva",
+    "Cisco Webex",
+    "Facebook"
+   ],
+   "catalog_apps": [
+    "Airtable",
+    "Canva",
+    "Cisco Webex Meetings",
+    "Confluence",
+    "Dropbox",
+    "Drupal",
+    "Facebook Pages",
+    "Google Docs",
+    "Google Drive",
+    "Google Sheets",
+    "Google Slides",
+    "Google Workspace",
+    "LinkedIn",
+    "Microsoft Excel 365",
+    "Microsoft OneNote",
+    "Microsoft Outlook",
+    "Microsoft SQL Server",
+    "Microsoft SharePoint",
+    "Microsoft Teams",
+    "NetSuite"
+   ]
+  },
+  {
+   "name": "Ximena Ahmed",
+   "plan": "Starter",
+   "soc": "15-1252.00",
+   "occupation": "Software Developers",
+   "title": "Indie software developer",
+   "tasks": [
+    {
+     "task": "Monitor functioning of equipment to ensure system operates in conformance with specifications.",
+     "type": "Supplemental",
+     "importance": 4.12
+    },
+    {
+     "task": "Analyze user needs and software requirements to determine feasibility of design within time and cost constraints.",
+     "type": "Core",
+     "importance": 4.08
+    },
+    {
+     "task": "Develop or direct software system testing or validation procedures, programming, or documentation.",
+     "type": "Core",
+     "importance": 3.9
+    },
+    {
+     "task": "Confer with systems analysts, engineers, programmers and others to design systems and to obtain information on project limitations and capabilities, performance requirements and interfaces.",
+     "type": "Core",
+     "importance": 3.75
+    },
+    {
+     "task": "Coordinate installation of software system.",
+     "type": "Supplemental",
+     "importance": 3.75
+    },
+    {
+     "task": "Modify existing software to correct errors, adapt it to new hardware, or upgrade interfaces and improve performance.",
+     "type": "Core",
+     "importance": 3.74
+    },
+    {
+     "task": "Prepare reports or correspondence concerning project specifications, activities, or status.",
+     "type": "Core",
+     "importance": 3.68
+    },
+    {
+     "task": "Analyze information to determine, recommend, and plan installation of a new system or modification of an existing system.",
+     "type": "Core",
+     "importance": 3.61
+    },
+    {
+     "task": "Store, retrieve, and manipulate data for analysis of system capabilities and requirements.",
+     "type": "Core",
+     "importance": 3.59
+    },
+    {
+     "task": "Design, develop and modify software systems, using scientific analysis and mathematical models to predict and measure outcomes and consequences of design.",
+     "type": "Core",
+     "importance": 3.56
+    }
+   ],
+   "software_onet": [
+    "Adobe Acrobat",
+    "Adobe After Effects",
+    "Adobe Creative Cloud software",
+    "Adobe Illustrator",
+    "Adobe InDesign",
+    "Adobe Photoshop",
+    "AJAX",
+    "Alteryx software",
+    "Amazon DynamoDB",
+    "Amazon Elastic Compute Cloud EC2",
+    "Amazon Redshift",
+    "Amazon Web Services AWS CloudFormation",
+    "Amazon Web Services AWS software",
+    "Ansible software",
+    "Apache Airflow"
+   ],
+   "catalog_apps": [
+    "Airtable",
+    "Apache Kafka",
+    "Azure DevOps",
+    "Cisco Webex Meetings",
+    "Confluence",
+    "Dropbox",
+    "Drupal",
+    "Facebook Pages",
+    "Figma",
+    "GitHub",
+    "GitLab",
+    "Gmail",
+    "Google Docs",
+    "Google Drive",
+    "Google Sheets",
+    "Google Slides",
+    "JSON",
+    "LinkedIn",
+    "Microsoft Excel 365",
+    "Microsoft OneNote"
+   ]
+  },
+  {
+   "name": "Yusuf Sato",
+   "plan": "Pro",
+   "soc": "13-1161.00",
+   "occupation": "Market Research Analysts and Marketing Specialists",
+   "title": "Solo marketer",
+   "tasks": [
+    {
+     "task": "Prepare reports of findings, illustrating data graphically and translating complex findings into written text.",
+     "type": "Core",
+     "importance": 4.06
+    },
+    {
+     "task": "Seek and provide information to help companies determine their position in the marketplace.",
+     "type": "Core",
+     "importance": 4.06
+    },
+    {
+     "task": "Conduct research on consumer opinions and marketing strategies, collaborating with marketing professionals, statisticians, pollsters, and other professionals.",
+     "type": "Core",
+     "importance": 3.94
+    },
+    {
+     "task": "Collect and analyze data on customer demographics, preferences, needs, and buying habits to identify potential markets and factors affecting product demand.",
+     "type": "Core",
+     "importance": 3.88
+    },
+    {
+     "task": "Devise and evaluate methods and procedures for collecting data, such as surveys, opinion polls, or questionnaires, or arrange to obtain existing data.",
+     "type": "Core",
+     "importance": 3.85
+    },
+    {
+     "task": "Gather data on competitors and analyze their prices, sales, and method of marketing and distribution.",
+     "type": "Core",
+     "importance": 3.65
+    },
+    {
+     "task": "Measure and assess customer and employee satisfaction.",
+     "type": "Core",
+     "importance": 3.62
+    },
+    {
+     "task": "Monitor industry statistics and follow trends in trade literature.",
+     "type": "Core",
+     "importance": 3.53
+    },
+    {
+     "task": "Attend staff conferences to provide management with information and proposals concerning the promotion, distribution, design, and pricing of company products or services.",
+     "type": "Supplemental",
+     "importance": 3.45
+    },
+    {
+     "task": "Direct trained survey interviewers.",
+     "type": "Core",
+     "importance": 3.36
+    }
+   ],
+   "software_onet": [
+    "Adobe Acrobat",
+    "Adobe After Effects",
+    "Adobe Creative Cloud software",
+    "Adobe Illustrator",
+    "Adobe InDesign",
+    "Adobe Photoshop",
+    "Amazon Redshift",
+    "Apache Hadoop",
+    "Apache Hive",
+    "Apple macOS",
+    "Asana",
+    "Canva",
+    "Cascading style sheets CSS",
+    "ESRI ArcGIS software",
+    "Facebook"
+   ],
+   "catalog_apps": [
+    "Airtable",
+    "Asana",
+    "Canva",
+    "Dropbox",
+    "Drupal",
+    "Facebook Pages",
+    "Google Ads",
+    "Google Docs",
+    "Google Drive",
+    "Google Slides",
+    "HubSpot",
+    "Instagram for Business",
+    "LinkedIn",
+    "Microsoft Excel 365",
+    "Microsoft Outlook",
+    "Microsoft SQL Server",
+    "Microsoft SharePoint",
+    "MySQL",
+    "NetSuite",
+    "Salesforce"
+   ]
+  },
+  {
+   "name": "Zara Bose",
+   "plan": "Pro",
+   "soc": "11-2021.00",
+   "occupation": "Marketing Managers",
+   "title": "Marketing lead",
+   "tasks": [
+    {
+     "task": "Formulate, direct, or coordinate marketing activities or policies to promote products or services, working with advertising or promotion managers.",
+     "type": "Core",
+     "importance": 4.08
+    },
+    {
+     "task": "Use sales forecasting or strategic planning to ensure the sale and profitability of products, lines, or services, analyzing business developments and monitoring market trends.",
+     "type": "Core",
+     "importance": 3.94
+    },
+    {
+     "task": "Identify, develop, or evaluate marketing strategy, based on knowledge of establishment objectives, market characteristics, and cost and markup factors.",
+     "type": "Core",
+     "importance": 3.89
+    },
+    {
+     "task": "Direct the hiring, training, or performance evaluations of marketing or sales staff and oversee their daily activities.",
+     "type": "Core",
+     "importance": 3.82
+    },
+    {
+     "task": "Evaluate the financial aspects of product development, such as budgets, expenditures, research and development appropriations, or return-on-investment and profit-loss projections.",
+     "type": "Core",
+     "importance": 3.77
+    },
+    {
+     "task": "Develop pricing strategies, balancing firm objectives and customer satisfaction.",
+     "type": "Core",
+     "importance": 3.76
+    },
+    {
+     "task": "Initiate market research studies, or analyze their findings.",
+     "type": "Core",
+     "importance": 3.71
+    },
+    {
+     "task": "Consult with buying personnel to gain advice regarding the types of products or services expected to be in demand.",
+     "type": "Supplemental",
+     "importance": 3.64
+    },
+    {
+     "task": "Compile lists describing product or service offerings.",
+     "type": "Core",
+     "importance": 3.62
+    },
+    {
+     "task": "Consult with product development personnel on product specifications, such as design, color, or packaging.",
+     "type": "Core",
+     "importance": 3.61
+    }
+   ],
+   "software_onet": [
+    "Adobe Acrobat",
+    "Adobe After Effects",
+    "Adobe Creative Cloud software",
+    "Adobe Illustrator",
+    "Adobe InDesign",
+    "Adobe Photoshop",
+    "Amazon Redshift",
+    "Amazon Web Services AWS software",
+    "Apache Cassandra",
+    "Apache Hadoop",
+    "Apache Hive",
+    "Apple macOS",
+    "Asana",
+    "Atlassian Confluence",
+    "Atlassian JIRA"
+   ],
+   "catalog_apps": [
+    "Airtable",
+    "Asana",
+    "Canva",
+    "Confluence",
+    "Constant Contact",
+    "Dropbox",
+    "Drupal",
+    "Facebook Pages",
+    "Figma",
+    "GitHub",
+    "Google Ads",
+    "Google Docs",
+    "Google Drive",
+    "Google Slides",
+    "HubSpot",
+    "Instagram for Business",
+    "LinkedIn",
+    "Microsoft Excel 365",
+    "Microsoft Outlook",
+    "Microsoft SQL Server"
+   ]
+  },
+  {
+   "name": "Arjun Iyer",
+   "plan": "Pro",
+   "soc": "27-3031.00",
+   "occupation": "Public Relations Specialists",
+   "title": "PR and social specialist",
+   "tasks": [
+    {
+     "task": "Respond to requests for information from the media or designate an appropriate spokesperson or information source.",
+     "type": "Core",
+     "importance": 4.55
+    },
+    {
+     "task": "Plan or direct development or communication of programs to maintain favorable public or stockholder perceptions of an organization's accomplishments, agenda, or environmental responsibility.",
+     "type": "Core",
+     "importance": 4.41
+    },
+    {
+     "task": "Post and update content on the company's Web site and social media outlets.",
+     "type": "Core",
+     "importance": 4.41
+    },
+    {
+     "task": "Write press releases or other media communications to promote clients.",
+     "type": "Core",
+     "importance": 4.38
+    },
+    {
+     "task": "Establish or maintain cooperative relationships with representatives of community, consumer, employee, or public interest groups.",
+     "type": "Core",
+     "importance": 4.23
+    },
+    {
+     "task": "Confer with other managers to identify trends or key group interests or concerns or to provide advice on business decisions.",
+     "type": "Core",
+     "importance": 4.18
+    },
+    {
+     "task": "Coach client representatives in effective communication with the public or with employees.",
+     "type": "Core",
+     "importance": 4.14
+    },
+    {
+     "task": "Study the objectives, promotional policies, or needs of organizations to develop public relations strategies that will influence public opinion or promote ideas, products, or services.",
+     "type": "Core",
+     "importance": 4.1
+    },
+    {
+     "task": "Prepare or edit organizational publications, such as employee newsletters or stockholders' reports, for internal or external audiences.",
+     "type": "Core",
+     "importance": 3.9
+    },
+    {
+     "task": "Arrange public appearances, lectures, contests, or exhibits for clients to increase product or service awareness or to promote goodwill.",
+     "type": "Core",
+     "importance": 3.86
+    }
+   ],
+   "software_onet": [
+    "Adobe Acrobat",
+    "Adobe After Effects",
+    "Adobe Creative Cloud software",
+    "Adobe Illustrator",
+    "Adobe InDesign",
+    "Adobe Photoshop",
+    "Apple macOS",
+    "Canva",
+    "Cascading style sheets CSS",
+    "Cisco Webex",
+    "Facebook",
+    "Google Analytics",
+    "Google Docs",
+    "HubSpot software",
+    "Hypertext markup language HTML"
+   ],
+   "catalog_apps": [
+    "Airtable",
+    "Canva",
+    "Cisco Webex Meetings",
+    "Drupal",
+    "Facebook Pages",
+    "Google Ads",
+    "Google Docs",
+    "Google Drive",
+    "Google Slides",
+    "HubSpot",
+    "Instagram for Business",
+    "LinkedIn",
+    "Microsoft Excel 365",
+    "Microsoft Outlook",
+    "Microsoft SharePoint",
+    "Salesforce",
+    "Twitter",
+    "WordPress",
+    "YouTube"
+   ]
+  },
+  {
+   "name": "Bea Park",
+   "plan": "Pro",
+   "soc": "13-1071.00",
+   "occupation": "Human Resources Specialists",
+   "title": "Recruiter",
+   "tasks": [
+    {
+     "task": "Interpret and explain human resources policies, procedures, laws, standards, or regulations.",
+     "type": "Core",
+     "importance": 4.66
+    },
+    {
+     "task": "Hire employees and process hiring-related paperwork.",
+     "type": "Core",
+     "importance": 4.5
+    },
+    {
+     "task": "Administer employee benefit plans.",
+     "type": "Supplemental",
+     "importance": 4.45
+    },
+    {
+     "task": "Maintain current knowledge of Equal Employment Opportunity (EEO) and affirmative action guidelines and laws, such as the Americans with Disabilities Act (ADA).",
+     "type": "Core",
+     "importance": 4.44
+    },
+    {
+     "task": "Schedule or administer skill, intelligence, psychological, or drug tests for current or prospective employees.",
+     "type": "Supplemental",
+     "importance": 4.34
+    },
+    {
+     "task": "Prepare or maintain employment records related to events, such as hiring, termination, leaves, transfers, or promotions, using human resources management system software.",
+     "type": "Core",
+     "importance": 4.33
+    },
+    {
+     "task": "Address employee relations issues, such as harassment allegations, work complaints, or other employee concerns.",
+     "type": "Core",
+     "importance": 4.31
+    },
+    {
+     "task": "Conduct reference or background checks on job applicants.",
+     "type": "Supplemental",
+     "importance": 4.28
+    },
+    {
+     "task": "Review employment applications and job orders to match applicants with job requirements.",
+     "type": "Core",
+     "importance": 4.18
+    },
+    {
+     "task": "Inform job applicants of details such as duties and responsibilities, compensation, benefits, schedules, working conditions, or promotion opportunities.",
+     "type": "Core",
+     "importance": 4.18
+    }
+   ],
+   "software_onet": [
+    "Adobe Acrobat",
+    "Adobe Creative Cloud software",
+    "Adobe Illustrator",
+    "Adobe InDesign",
+    "Adobe Photoshop",
+    "Apple macOS",
+    "Cisco Webex",
+    "ESRI ArcGIS software",
+    "Extensible markup language XML",
+    "Facebook",
+    "GitHub",
+    "Google Analytics",
+    "Google Docs",
+    "Hypertext markup language HTML",
+    "IBM SPSS Statistics"
+   ],
+   "catalog_apps": [
+    "Airtable",
+    "Cisco Webex Meetings",
+    "Drupal",
+    "Facebook Pages",
+    "GitHub",
+    "Google Ads",
+    "Google Docs",
+    "Google Drive",
+    "Google Slides",
+    "LinkedIn",
+    "Matrix",
+    "Microsoft Excel 365",
+    "Microsoft Outlook",
+    "Microsoft SQL Server",
+    "Microsoft SharePoint",
+    "NetSuite",
+    "Oracle Database",
+    "Quickbooks Online",
+    "Salesforce",
+    "Slack"
+   ]
+  },
+  {
+   "name": "Carlos Watanabe",
+   "plan": "Pro",
+   "soc": "13-1111.00",
+   "occupation": "Management Analysts",
+   "title": "Business consultant",
+   "tasks": [
+    {
+     "task": "Gather and organize information on problems or procedures.",
+     "type": "Core",
+     "importance": 4.48
+    },
+    {
+     "task": "Confer with personnel concerned to ensure successful functioning of newly implemented systems or procedures.",
+     "type": "Core",
+     "importance": 4.48
+    },
+    {
+     "task": "Analyze data gathered and develop solutions or alternative methods of proceeding.",
+     "type": "Core",
+     "importance": 4.45
+    },
+    {
+     "task": "Document findings of study and prepare recommendations for implementation of new systems, procedures, or organizational changes.",
+     "type": "Core",
+     "importance": 4.24
+    },
+    {
+     "task": "Plan study of work problems and procedures, such as organizational change, communications, information flow, integrated production methods, inventory control, or cost analysis.",
+     "type": "Core",
+     "importance": 4.1
+    },
+    {
+     "task": "Interview personnel and conduct on-site observation to ascertain unit functions, work performed, and methods, equipment, and personnel used.",
+     "type": "Core",
+     "importance": 4.1
+    },
+    {
+     "task": "Prepare manuals and train workers in use of new forms, reports, procedures or equipment, according to organizational policy.",
+     "type": "Core",
+     "importance": 3.84
+    },
+    {
+     "task": "Review forms and reports and confer with management and users about format, distribution, and purpose, identifying problems and improvements.",
+     "type": "Core",
+     "importance": 3.74
+    },
+    {
+     "task": "Develop and implement records management program for filing, protection, and retrieval of records, and assure compliance with program.",
+     "type": "Core",
+     "importance": 3.61
+    },
+    {
+     "task": "Design, evaluate, recommend, and approve changes of forms and reports.",
+     "type": "Core",
+     "importance": 3.21
+    }
+   ],
+   "software_onet": [
+    "Adobe Acrobat",
+    "Adobe InDesign",
+    "AJAX",
+    "Alteryx software",
+    "Amazon Elastic Compute Cloud EC2",
+    "Amazon Redshift",
+    "Amazon Web Services AWS software",
+    "Ansible software",
+    "Apache Cassandra",
+    "Apache Hadoop",
+    "Apache Hive",
+    "Apache Kafka",
+    "Apache Maven",
+    "Apache Spark",
+    "Apache Subversion SVN"
+   ],
+   "catalog_apps": [
+    "Airtable",
+    "Apache Kafka",
+    "Cisco Webex Meetings",
+    "Confluence",
+    "Dropbox",
+    "Drupal",
+    "Facebook Pages",
+    "GitHub",
+    "Google Docs",
+    "Google Drive",
+    "Google Slides",
+    "JSON",
+    "LinkedIn",
+    "Microsoft Excel 365",
+    "Microsoft OneNote",
+    "Microsoft Outlook",
+    "Microsoft Power BI",
+    "Microsoft SQL Server",
+    "Microsoft SharePoint",
+    "Microsoft Teams"
+   ]
+  },
+  {
+   "name": "Divya Tanaka",
+   "plan": "Pro",
+   "soc": "41-4012.00",
+   "occupation": "Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+   "title": "Sales rep",
+   "tasks": [
+    {
+     "task": "Negotiate with retail merchants to improve product exposure, such as shelf positioning and advertising.",
+     "type": "Supplemental",
+     "importance": 4.41
+    },
+    {
+     "task": "Check stock levels and reorder merchandise as necessary.",
+     "type": "Supplemental",
+     "importance": 4.4
+    },
+    {
+     "task": "Plan, assemble, and stock product displays in retail stores, or make recommendations to retailers regarding product displays, promotional programs, and advertising.",
+     "type": "Supplemental",
+     "importance": 4.38
+    },
+    {
+     "task": "Answer customers' questions about products, prices, availability, product uses, and credit terms.",
+     "type": "Core",
+     "importance": 4.37
+    },
+    {
+     "task": "Recommend products to customers, based on customers' needs and interests.",
+     "type": "Core",
+     "importance": 4.29
+    },
+    {
+     "task": "Estimate or quote prices, credit or contract terms, warranties, and delivery dates.",
+     "type": "Core",
+     "importance": 4.27
+    },
+    {
+     "task": "Consult with clients after sales or contract signings to resolve problems and to provide ongoing support.",
+     "type": "Core",
+     "importance": 4.23
+    },
+    {
+     "task": "Negotiate details of contracts and payments.",
+     "type": "Supplemental",
+     "importance": 4.19
+    },
+    {
+     "task": "Prepare sales contracts and order forms.",
+     "type": "Core",
+     "importance": 4.16
+    },
+    {
+     "task": "Provide customers with product samples and catalogs.",
+     "type": "Core",
+     "importance": 4.14
+    }
+   ],
+   "software_onet": [
+    "Adobe Acrobat",
+    "Adobe Creative Cloud software",
+    "Adobe Illustrator",
+    "Adobe InDesign",
+    "Adobe Photoshop",
+    "Apple macOS",
+    "Autodesk AutoCAD",
+    "Cisco Webex",
+    "Eclipse IDE",
+    "Epic Systems",
+    "ESRI ArcGIS software",
+    "Extensible markup language XML",
+    "Facebook",
+    "Google Analytics",
+    "Google Docs"
+   ],
+   "catalog_apps": [
+    "Airtable",
+    "Cisco Webex Meetings",
+    "Dropbox",
+    "Facebook Pages",
+    "Google Ads",
+    "Google Docs",
+    "Google Drive",
+    "Google Slides",
+    "HubSpot",
+    "LinkedIn",
+    "Microsoft Dynamics CRM",
+    "Microsoft Excel 365",
+    "Microsoft OneNote",
+    "Microsoft Outlook",
+    "Microsoft SharePoint",
+    "Microsoft Teams",
+    "NetSuite",
+    "Oracle Database",
+    "Quickbooks Online",
+    "Salesforce"
+   ]
+  },
+  {
+   "name": "Emeka Santos",
+   "plan": "Pro",
+   "soc": "11-9141.00",
+   "occupation": "Property, Real Estate, and Community Association Managers",
+   "title": "Property manager",
+   "tasks": [
+    {
+     "task": "Manage and oversee operations, maintenance, administration, and improvement of commercial, industrial, or residential properties.",
+     "type": "Core",
+     "importance": 4.52
+    },
+    {
+     "task": "Direct collection of monthly assessments, rental fees, and deposits and payment of insurance premiums, mortgage, taxes, and incurred operating expenses.",
+     "type": "Core",
+     "importance": 4.48
+    },
+    {
+     "task": "Plan, schedule, and coordinate general maintenance, major repairs, and remodeling or construction projects for commercial or residential properties.",
+     "type": "Core",
+     "importance": 4.44
+    },
+    {
+     "task": "Prepare detailed budgets and financial reports for properties.",
+     "type": "Core",
+     "importance": 4.44
+    },
+    {
+     "task": "Act as liaisons between on-site managers or tenants and owners.",
+     "type": "Core",
+     "importance": 4.29
+    },
+    {
+     "task": "Solicit and analyze bids from contractors for repairs, renovations, and maintenance.",
+     "type": "Core",
+     "importance": 4.28
+    },
+    {
+     "task": "Meet with clients to negotiate management and service contracts, determine priorities, and discuss the financial and operational status of properties.",
+     "type": "Core",
+     "importance": 4.26
+    },
+    {
+     "task": "Clean common areas, change light bulbs, and make minor property repairs.",
+     "type": "Core",
+     "importance": 4.25
+    },
+    {
+     "task": "Inspect grounds, facilities, and equipment routinely to determine necessity of repairs or maintenance.",
+     "type": "Core",
+     "importance": 4.21
+    },
+    {
+     "task": "Direct and coordinate the activities of staff and contract personnel and evaluate their performance.",
+     "type": "Core",
+     "importance": 4.17
+    }
+   ],
+   "software_onet": [
+    "Facebook",
+    "Google Analytics",
+    "Google Docs",
+    "Hypertext markup language HTML",
+    "Intuit QuickBooks",
+    "Microsoft Access",
+    "Microsoft Excel",
+    "Microsoft Office software",
+    "Microsoft Outlook",
+    "Microsoft PowerPoint",
+    "Microsoft Project",
+    "Microsoft Windows",
+    "Microsoft Word",
+    "Yardi software"
+   ],
+   "catalog_apps": [
+    "Facebook Pages",
+    "Google Docs",
+    "Google Drive",
+    "LinkedIn",
+    "Microsoft Excel 365",
+    "Microsoft Outlook",
+    "Quickbooks Online",
+    "YouTube"
+   ]
+  },
+  {
+   "name": "Fatima Rossi",
+   "plan": "Pro",
+   "soc": "13-2011.00",
+   "occupation": "Accountants and Auditors",
+   "title": "Small-firm accountant",
+   "tasks": [
+    {
+     "task": "Prepare, examine, or analyze accounting records, financial statements, or other financial reports to assess accuracy, completeness, and conformance to reporting and procedural standards.",
+     "type": "Core",
+     "importance": 4.6
+    },
+    {
+     "task": "Process invoices for payment.",
+     "type": "Core",
+     "importance": 4.54
+    },
+    {
+     "task": "Review accounts for discrepancies and reconcile differences.",
+     "type": "Core",
+     "importance": 4.47
+    },
+    {
+     "task": "Compute taxes owed and prepare tax returns, ensuring compliance with payment, reporting, or other tax requirements.",
+     "type": "Core",
+     "importance": 4.29
+    },
+    {
+     "task": "Prepare adjusting journal entries.",
+     "type": "Core",
+     "importance": 4.29
+    },
+    {
+     "task": "Inspect account books and accounting systems for efficiency, effectiveness, and use of accepted accounting procedures to record transactions.",
+     "type": "Core",
+     "importance": 4.18
+    },
+    {
+     "task": "Prepare detailed reports on audit findings.",
+     "type": "Core",
+     "importance": 4.07
+    },
+    {
+     "task": "Prepare, analyze, or verify annual reports, financial statements, and other records, using accepted accounting and statistical procedures to assess financial condition and facilitate financial planning.",
+     "type": "Core",
+     "importance": 4.07
+    },
+    {
+     "task": "Collect and analyze data to detect deficient controls, duplicated effort, extravagance, fraud, or non-compliance with laws, regulations, and management policies.",
+     "type": "Core",
+     "importance": 4.0
+    },
+    {
+     "task": "Review data about material assets, net worth, liabilities, capital stock, surplus, income, or expenditures.",
+     "type": "Core",
+     "importance": 3.94
+    }
+   ],
+   "software_onet": [
+    "Adobe Acrobat",
+    "Alteryx software",
+    "Epic Systems",
+    "Google Docs",
+    "Google Sheets",
+    "IBM SPSS Statistics",
+    "Intuit QuickBooks",
+    "Intuit TurboTax",
+    "MEDITECH software",
+    "Microsoft Access",
+    "Microsoft Excel",
+    "Microsoft Office software",
+    "Microsoft Outlook",
+    "Microsoft PowerPoint",
+    "Microsoft Project"
+   ],
+   "catalog_apps": [
+    "Facebook Pages",
+    "Google Docs",
+    "Google Sheets",
+    "Google Slides",
+    "Microsoft Excel 365",
+    "Microsoft OneNote",
+    "Microsoft Outlook",
+    "Microsoft SQL Server",
+    "Microsoft SharePoint",
+    "NetSuite",
+    "Oracle Database",
+    "Quickbooks Online",
+    "Salesforce",
+    "Tableau",
+    "Workday"
+   ]
+  },
+  {
+   "name": "Gabriel Zhou",
+   "plan": "Pro",
+   "soc": "11-9051.00",
+   "occupation": "Food Service Managers",
+   "title": "Restaurant manager",
+   "tasks": [
+    {
+     "task": "Monitor employee and patron activities to ensure liquor regulations are obeyed.",
+     "type": "Supplemental",
+     "importance": 4.78
+    },
+    {
+     "task": "Greet guests, escort them to their seats, and present them with menus and wine lists.",
+     "type": "Supplemental",
+     "importance": 4.62
+    },
+    {
+     "task": "Count money and make bank deposits.",
+     "type": "Core",
+     "importance": 4.56
+    },
+    {
+     "task": "Establish standards for personnel performance and customer service.",
+     "type": "Core",
+     "importance": 4.54
+    },
+    {
+     "task": "Keep records required by government agencies regarding sanitation or food subsidies.",
+     "type": "Core",
+     "importance": 4.45
+    },
+    {
+     "task": "Schedule staff hours and assign duties.",
+     "type": "Core",
+     "importance": 4.42
+    },
+    {
+     "task": "Investigate and resolve complaints regarding food quality, service, or accommodations.",
+     "type": "Core",
+     "importance": 4.39
+    },
+    {
+     "task": "Maintain food and equipment inventories, and keep inventory records.",
+     "type": "Core",
+     "importance": 4.39
+    },
+    {
+     "task": "Perform some food preparation or service tasks, such as cooking, clearing tables, and serving food and drinks when necessary.",
+     "type": "Core",
+     "importance": 4.35
+    },
+    {
+     "task": "Monitor budgets and payroll records, and review financial transactions to ensure that expenditures are authorized and budgeted.",
+     "type": "Core",
+     "importance": 4.34
+    }
+   ],
+   "software_onet": [
+    "Facebook",
+    "Google Docs",
+    "Intuit QuickBooks",
+    "Microsoft Excel",
+    "Microsoft Office software",
+    "Microsoft Outlook",
+    "Microsoft PowerPoint",
+    "Microsoft Project",
+    "Microsoft Word"
+   ],
+   "catalog_apps": [
+    "Facebook Pages",
+    "Google Docs",
+    "Google Drive",
+    "Microsoft Excel 365",
+    "Microsoft Outlook",
+    "Quickbooks Online"
+   ]
+  },
+  {
+   "name": "Hana Hughes",
+   "plan": "Pro",
+   "soc": "43-6013.00",
+   "occupation": "Medical Secretaries and Administrative Assistants",
+   "title": "Clinic front desk",
+   "tasks": [
+    {
+     "task": "Answer telephones and direct calls to appropriate staff.",
+     "type": "Core",
+     "importance": 4.64
+    },
+    {
+     "task": "Transcribe recorded messages or practitioners' diagnoses or recommendations into patients' medical records.",
+     "type": "Supplemental",
+     "importance": 4.6
+    },
+    {
+     "task": "Compile and record medical charts, reports, or correspondence, using typewriter or personal computer.",
+     "type": "Supplemental",
+     "importance": 4.55
+    },
+    {
+     "task": "Schedule and confirm patient diagnostic appointments, surgeries, or medical consultations.",
+     "type": "Core",
+     "importance": 4.51
+    },
+    {
+     "task": "Complete insurance or other claim forms.",
+     "type": "Core",
+     "importance": 4.5
+    },
+    {
+     "task": "Greet visitors, ascertain purpose of visit, and direct them to appropriate staff.",
+     "type": "Core",
+     "importance": 4.48
+    },
+    {
+     "task": "Transmit correspondence or medical records by mail, e-mail, or fax.",
+     "type": "Core",
+     "importance": 4.47
+    },
+    {
+     "task": "Maintain medical records, technical library, or correspondence files.",
+     "type": "Core",
+     "importance": 4.46
+    },
+    {
+     "task": "Receive and route messages or documents, such as laboratory results, to appropriate staff.",
+     "type": "Core",
+     "importance": 4.46
+    },
+    {
+     "task": "Interview patients to complete documents, case histories, or forms, such as intake or insurance forms.",
+     "type": "Core",
+     "importance": 4.44
+    }
+   ],
+   "software_onet": [
+    "eClinicalWorks EHR software",
+    "Epic Systems",
+    "Google Docs",
+    "Henry Schein Dentrix",
+    "Intuit QuickBooks",
+    "MEDITECH software",
+    "Microsoft Access",
+    "Microsoft Excel",
+    "Microsoft Office software",
+    "Microsoft Outlook",
+    "Microsoft PowerPoint",
+    "Microsoft Windows",
+    "Microsoft Word"
+   ],
+   "catalog_apps": [
+    "Google Docs",
+    "Google Drive",
+    "Microsoft Excel 365",
+    "Microsoft Outlook",
+    "Quickbooks Online"
+   ]
+  },
+  {
+   "name": "Ivan Ortiz",
+   "plan": "Pro",
+   "soc": "11-9081.00",
+   "occupation": "Lodging Managers",
+   "title": "Guesthouse manager",
+   "tasks": [
+    {
+     "task": "Answer inquiries pertaining to hotel policies and services, and resolve occupants' complaints.",
+     "type": "Core",
+     "importance": 4.53
+    },
+    {
+     "task": "Participate in financial activities, such as the setting of room rates, the establishment of budgets, and the allocation of funds to departments.",
+     "type": "Core",
+     "importance": 4.5
+    },
+    {
+     "task": "Confer and cooperate with other managers to ensure coordination of hotel activities.",
+     "type": "Core",
+     "importance": 4.48
+    },
+    {
+     "task": "Greet and register guests.",
+     "type": "Core",
+     "importance": 4.48
+    },
+    {
+     "task": "Monitor the revenue activity of the hotel or facility.",
+     "type": "Core",
+     "importance": 4.47
+    },
+    {
+     "task": "Meet with clients to schedule and plan details of conventions, banquets, receptions and other functions.",
+     "type": "Supplemental",
+     "importance": 4.43
+    },
+    {
+     "task": "Manage and maintain temporary or permanent lodging facilities.",
+     "type": "Core",
+     "importance": 4.42
+    },
+    {
+     "task": "Train staff members.",
+     "type": "Core",
+     "importance": 4.41
+    },
+    {
+     "task": "Observe and monitor staff performance to ensure efficient operations and adherence to facility's policies and procedures.",
+     "type": "Core",
+     "importance": 4.38
+    },
+    {
+     "task": "Coordinate front-office activities of hotels or motels, and resolve problems.",
+     "type": "Core",
+     "importance": 4.36
+    }
+   ],
+   "software_onet": [
+    "Facebook",
+    "Microsoft Access",
+    "Microsoft Excel",
+    "Microsoft Office software",
+    "Microsoft Outlook",
+    "Microsoft PowerPoint",
+    "Microsoft Word"
+   ],
+   "catalog_apps": [
+    "Facebook Pages",
+    "Microsoft Excel 365",
+    "Microsoft Outlook"
+   ]
+  },
+  {
+   "name": "Jia Vargas",
+   "plan": "Pro",
+   "soc": "13-1151.00",
+   "occupation": "Training and Development Specialists",
+   "title": "Course creator and trainer",
+   "tasks": [
+    {
+     "task": "Present information with a variety of instructional techniques or formats, such as role playing, simulations, team exercises, group discussions, videos, or lectures.",
+     "type": "Core",
+     "importance": 4.65
+    },
+    {
+     "task": "Obtain, organize, or develop training procedure manuals, guides, or course materials, such as handouts or visual materials.",
+     "type": "Core",
+     "importance": 4.62
+    },
+    {
+     "task": "Evaluate modes of training delivery, such as in-person or virtual, to optimize training effectiveness, training costs, or environmental impacts.",
+     "type": "Core",
+     "importance": 4.45
+    },
+    {
+     "task": "Offer specific training programs to help workers maintain or improve job skills.",
+     "type": "Core",
+     "importance": 4.43
+    },
+    {
+     "task": "Assess training needs through surveys, interviews with employees, focus groups, or consultation with managers, instructors, or customer representatives.",
+     "type": "Core",
+     "importance": 4.43
+    },
+    {
+     "task": "Monitor, evaluate, or record training activities or program effectiveness.",
+     "type": "Core",
+     "importance": 4.4
+    },
+    {
+     "task": "Design, plan, organize, or direct orientation and training programs for employees or customers.",
+     "type": "Core",
+     "importance": 4.33
+    },
+    {
+     "task": "Develop alternative training methods if expected improvements are not seen.",
+     "type": "Core",
+     "importance": 4.1
+    },
+    {
+     "task": "Evaluate training materials prepared by instructors, such as outlines, text, or handouts.",
+     "type": "Core",
+     "importance": 4.0
+    },
+    {
+     "task": "Monitor training costs and prepare budget reports to justify expenditures.",
+     "type": "Core",
+     "importance": 3.82
+    }
+   ],
+   "software_onet": [
+    "Adobe Acrobat",
+    "Adobe After Effects",
+    "Adobe Creative Cloud software",
+    "Adobe Illustrator",
+    "Adobe InDesign",
+    "Adobe Photoshop",
+    "Cisco Webex",
+    "Django",
+    "Epic Systems",
+    "Hypertext markup language HTML",
+    "IBM SPSS Statistics",
+    "JavaScript",
+    "Microsoft Access",
+    "Microsoft Excel",
+    "Microsoft Office software"
+   ],
+   "catalog_apps": [
+    "Cisco Webex Meetings",
+    "Drupal",
+    "Google Drive",
+    "Google Slides",
+    "Microsoft Excel 365",
+    "Microsoft OneNote",
+    "Microsoft Outlook",
+    "Microsoft SharePoint",
+    "MySQL",
+    "Zoom"
+   ]
+  },
+  {
+   "name": "Kemal Moreau",
+   "plan": "Pro",
+   "soc": "15-1255.00",
+   "occupation": "Web and Digital Interface Designers",
+   "title": "Web designer",
+   "tasks": [
+    {
+     "task": "Identify problems uncovered by testing or customer feedback, and correct problems or refer problems to appropriate personnel for correction.",
+     "type": "Core",
+     "importance": 4.31
+    },
+    {
+     "task": "Design, build, or maintain Web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",
+     "type": "Core",
+     "importance": 4.13
+    },
+    {
+     "task": "Write supporting code for Web applications or Web sites.",
+     "type": "Core",
+     "importance": 4.1
+    },
+    {
+     "task": "Perform Web site tests according to planned schedules, or after any Web site or product revision.",
+     "type": "Core",
+     "importance": 4.06
+    },
+    {
+     "task": "Collaborate with web development professionals, such as front-end or back-end developers, to complete the full scope of Web development projects.",
+     "type": "Core",
+     "importance": 4.05
+    },
+    {
+     "task": "Collaborate with management or users to develop e-commerce strategies and to integrate these strategies with Web sites.",
+     "type": "Supplemental",
+     "importance": 4.04
+    },
+    {
+     "task": "Develop new visual design concepts and modify concepts based on stakeholder feedback.",
+     "type": "Core",
+     "importance": 4.01
+    },
+    {
+     "task": "Maintain understanding of current Web technologies or programming practices through continuing education, reading, or participation in professional conferences, workshops, or groups.",
+     "type": "Core",
+     "importance": 3.95
+    },
+    {
+     "task": "Respond to user email inquiries, or set up automated systems to send responses.",
+     "type": "Core",
+     "importance": 3.92
+    },
+    {
+     "task": "Create Web models or prototypes that include physical, interface, logical, or data models.",
+     "type": "Supplemental",
+     "importance": 3.86
+    }
+   ],
+   "software_onet": [
+    "Adobe Acrobat",
+    "Adobe After Effects",
+    "Adobe Creative Cloud software",
+    "Adobe Illustrator",
+    "Adobe InDesign",
+    "Adobe Photoshop",
+    "AJAX",
+    "Amazon DynamoDB",
+    "Amazon Elastic Compute Cloud EC2",
+    "Amazon Redshift",
+    "Amazon Web Services AWS CloudFormation",
+    "Amazon Web Services AWS software",
+    "Ansible software",
+    "Apache Cassandra",
+    "Apache Hadoop"
+   ],
+   "catalog_apps": [
+    "Airtable",
+    "Apache Kafka",
+    "Cisco Webex Meetings",
+    "Confluence",
+    "Dropbox",
+    "Drupal",
+    "Figma",
+    "GitHub",
+    "Google Ads",
+    "Google Docs",
+    "Google Drive",
+    "Google Slides",
+    "HubSpot",
+    "JSON",
+    "Microsoft Excel 365",
+    "Microsoft SQL Server",
+    "Microsoft SharePoint",
+    "MongoDB",
+    "MySQL",
+    "NetSuite"
+   ]
+  },
+  {
+   "name": "Lucia Kowalski",
+   "plan": "Pro",
+   "soc": "41-2031.00",
+   "occupation": "Retail Salespersons",
+   "title": "Online shop owner",
+   "tasks": [
+    {
+     "task": "Greet customers and ascertain what each customer wants or needs.",
+     "type": "Core",
+     "importance": 4.84
+    },
+    {
+     "task": "Recommend, select, and help locate or obtain merchandise based on customer needs and desires.",
+     "type": "Core",
+     "importance": 4.68
+    },
+    {
+     "task": "Maintain records related to sales.",
+     "type": "Supplemental",
+     "importance": 4.58
+    },
+    {
+     "task": "Compute sales prices, total purchases, and receive and process cash or credit payment.",
+     "type": "Core",
+     "importance": 4.56
+    },
+    {
+     "task": "Prepare merchandise for purchase or rental.",
+     "type": "Core",
+     "importance": 4.55
+    },
+    {
+     "task": "Answer questions regarding the store and its merchandise.",
+     "type": "Core",
+     "importance": 4.53
+    },
+    {
+     "task": "Maintain knowledge of current sales and promotions, policies regarding payment and exchanges, and security practices.",
+     "type": "Core",
+     "importance": 4.48
+    },
+    {
+     "task": "Open and close cash registers, performing tasks such as counting money, separating charge slips, coupons, and vouchers, balancing cash drawers, and making deposits.",
+     "type": "Supplemental",
+     "importance": 4.42
+    },
+    {
+     "task": "Prepare sales slips or sales contracts.",
+     "type": "Supplemental",
+     "importance": 4.34
+    },
+    {
+     "task": "Demonstrate use or operation of merchandise.",
+     "type": "Core",
+     "importance": 4.33
+    }
+   ],
+   "software_onet": [
+    "Adobe Acrobat",
+    "Adobe Creative Cloud software",
+    "Adobe Illustrator",
+    "Adobe InDesign",
+    "Adobe Photoshop",
+    "Apple macOS",
+    "Apple Safari",
+    "Autodesk AutoCAD",
+    "Eclipse IDE",
+    "Facebook",
+    "Google Docs",
+    "Intuit QuickBooks",
+    "Microsoft Access",
+    "Microsoft Edge",
+    "Microsoft Excel"
+   ],
+   "catalog_apps": [
+    "Facebook Pages",
+    "Google Docs",
+    "Google Drive",
+    "LinkedIn",
+    "Microsoft Excel 365",
+    "Microsoft Outlook",
+    "Microsoft SharePoint",
+    "Quickbooks Online",
+    "Salesforce",
+    "YouTube"
+   ]
+  }
+ ]
 }
