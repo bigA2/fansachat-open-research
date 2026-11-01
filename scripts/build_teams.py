@@ -15,7 +15,10 @@ def onet_zip():
     sys.exit('no O*NET download')
 z, ver = onet_zip()
 def table(name):
-    f = next(n for n in z.namelist() if n.endswith('/' + name))
+    key = lambda n: n.rsplit('/', 1)[-1].lower().replace('_', ' ').replace('.txt', '')
+    f = next((n for n in z.namelist() if key(n) == key(name)), None)
+    if f is None:   # files renamed between releases: say what is there instead of a bare StopIteration
+        sys.exit(f'{name} not in O*NET {ver}: ' + ', '.join(sorted(key(n) for n in z.namelist() if n.endswith('.txt'))))
     return list(csv.DictReader(io.TextIOWrapper(z.open(f), 'utf-8'), delimiter='\t'))
 titles = {r['O*NET-SOC Code']: r['Title'] for r in table('Occupation Data.txt')}
 tasks = defaultdict(dict)
@@ -24,7 +27,10 @@ imp = {}
 for r in table('Task Ratings.txt'):
     if r['Scale ID'] == 'IM': imp[r['Task ID']] = float(r['Data Value'])
 tech = defaultdict(list)
-for r in table('Technology Skills.txt'): tech[r['O*NET-SOC Code']].append((r['Example'], r.get('Hot Technology', 'N') == 'Y'))
+# O*NET 31.0 renamed Technology Skills.txt -> Software Skills.txt and Example -> Workplace Example.
+names_in_zip = {n.rsplit('/', 1)[-1] for n in z.namelist()}
+for r in table('Software Skills.txt' if 'Software Skills.txt' in names_in_zip else 'Technology Skills.txt'):
+    tech[r['O*NET-SOC Code']].append((r.get('Workplace Example') or r['Example'], r.get('Hot Technology', 'N') == 'Y'))
 
 CAT = json.load(open('data/catalog_apps.json', encoding='utf-8'))   # slug -> [name, aliases]
 def to_catalog(example):
