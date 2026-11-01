@@ -94,7 +94,7 @@
   "topic": "notifications",
   "url": "https://help.zapier.com/hc/en-us/articles/8496037690637",
   "ok": true,
-  "chars": 23250,
+  "chars": 26978,
   "file": "results/sources/notifications/01.md"
  },
  {
@@ -122,14 +122,14 @@
   "topic": "pricing",
   "url": "https://zapier.com/pricing",
   "ok": true,
-  "chars": 46543,
+  "chars": 47309,
   "file": "results/sources/pricing/00.md"
  },
  {
   "topic": "pricing",
   "url": "https://www.make.com/en/pricing",
-  "ok": true,
-  "chars": 15899,
+  "ok": false,
+  "chars": 0,
   "file": "results/sources/pricing/01.md"
  },
  {
@@ -143,14 +143,14 @@
   "topic": "pricing",
   "url": "https://www.activepieces.com/pricing",
   "ok": true,
-  "chars": 10267,
+  "chars": 10296,
   "file": "results/sources/pricing/03.md"
  },
  {
   "topic": "pricing",
   "url": "https://www.lindy.ai/pricing",
   "ok": true,
-  "chars": 15971,
+  "chars": 17310,
   "file": "results/sources/pricing/04.md"
  },
  {
@@ -171,7 +171,7 @@
   "topic": "teams",
   "url": "https://help.zapier.com/hc/en-us/articles/8496307853709",
   "ok": true,
-  "chars": 2979,
+  "chars": 6707,
   "file": "results/sources/teams/01.md"
  },
  {
@@ -199,14 +199,14 @@
   "topic": "vertex",
   "url": "https://cloud.google.com/vertex-ai/generative-ai/docs/agent-builder/overview",
   "ok": true,
-  "chars": 26372,
+  "chars": 25961,
   "file": "results/sources/vertex/01.md"
  },
  {
   "topic": "vertex",
   "url": "https://cloud.google.com/vertex-ai/generative-ai/docs/agent-engine/overview",
   "ok": true,
-  "chars": 57408,
+  "chars": 59293,
   "file": "results/sources/vertex/02.md"
  },
  {
@@ -227,14 +227,14 @@
   "topic": "injection",
   "url": "https://genai.owasp.org/llmrisk/llm072025-system-prompt-leakage/",
   "ok": true,
-  "chars": 20623,
+  "chars": 20624,
   "file": "results/sources/injection/01.md"
  },
  {
   "topic": "injection",
   "url": "https://genai.owasp.org/llmrisk/llm062025-excessive-agency/",
   "ok": true,
-  "chars": 25709,
+  "chars": 25708,
   "file": "results/sources/injection/02.md"
  },
  {
