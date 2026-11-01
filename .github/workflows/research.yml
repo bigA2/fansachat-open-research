@@ -26,8 +26,19 @@ jobs:
       - run: python scripts/crawl_autofix.py
       - uses: actions/upload-artifact@v4
         with: { name: autofix, path: results/ }
+  sources:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install -q crawl4ai && crawl4ai-setup
+      - run: python scripts/crawl_sources.py
+      - uses: actions/upload-artifact@v4
+        with: { name: sources, path: results/ }
   commit:
-    needs: [teams, autofix]
+    needs: [teams, autofix, sources]
     if: always()
     runs-on: ubuntu-latest
     steps:
@@ -35,6 +46,6 @@ jobs:
       - uses: actions/download-artifact@v4
         with: { path: dl }
       - run: |
-          mkdir -p results && cp -r dl/teams/* results/ 2>/dev/null || true; cp -r dl/autofix/* results/ 2>/dev/null || true
+          mkdir -p results && cp -r dl/teams/* results/ 2>/dev/null || true; cp -r dl/autofix/* results/ 2>/dev/null || true; cp -r dl/sources/* results/ 2>/dev/null || true
           git config user.name "github-actions[bot]"; git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add results && git commit -m "Research results (O*NET teams, Laya scores, autofix docs) [skip ci]" && git push || echo nothing
+          git add results && git commit -m "Research results (O*NET teams + solo, Laya scores, autofix docs, sources) [skip ci]" && git push || echo nothing

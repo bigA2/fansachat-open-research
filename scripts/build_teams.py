@@ -7,7 +7,7 @@ from collections import defaultdict
 
 OUT = 'results'; os.makedirs(OUT, exist_ok=True)
 def onet_zip():
-    for v in ['30_1', '30_0', '29_3', '29_2', '29_1', '29_0']:
+    for v in ['31_2', '31_1', '31_0', '30_3', '30_2', '30_1', '30_0', '29_3', '29_2', '29_1', '29_0']:
         try:
             print('trying O*NET', v, flush=True)
             return zipfile.ZipFile(io.BytesIO(urllib.request.urlopen(f'https://www.onetcenter.org/dl_files/database/db_{v}_text.zip', timeout=120).read())), v
@@ -81,7 +81,23 @@ SCALE = team('Brightpath Home Co.', 'growing small business (e-commerce brand)',
         ('13-1071.00', 'HR Specialist', 1), ('43-3051.00', 'Payroll Clerk', 1), ('15-1211.00', 'Systems & Analytics Analyst', 1)])])
 assert SCALE['headcount'] == 50, SCALE['headcount']
 assert TEAM['headcount'] == 10, TEAM['headcount']
-json.dump({'onet_version': ver, 'team_tier': TEAM, 'scale_tier': SCALE}, open(f'{OUT}/teams.json', 'w', encoding='utf-8'), indent=1, ensure_ascii=False)
+# Starter and Pro: one person (or 2-5) doing it all. Occupations with no tasks in this O*NET release are skipped.
+SOLO_ROLES = [('Starter', '41-9022.00', 'Real estate agent'), ('Starter', '13-2082.00', 'Tax preparer'), ('Starter', '43-3031.00', 'Freelance bookkeeper'),
+    ('Starter', '27-4021.00', 'Photographer'), ('Starter', '39-9031.00', 'Personal trainer'), ('Starter', '13-1121.00', 'Event planner'),
+    ('Starter', '25-3041.00', 'Tutor'), ('Starter', '41-3021.00', 'Insurance agent'), ('Starter', '27-3043.00', 'Freelance writer'),
+    ('Starter', '27-1024.00', 'Freelance designer'), ('Starter', '21-1013.00', 'Therapist in private practice'), ('Starter', '23-1011.00', 'Solo lawyer'),
+    ('Starter', '43-6014.00', 'Virtual assistant'), ('Starter', '15-1252.00', 'Indie software developer'),
+    ('Pro', '13-1161.00', 'Solo marketer'), ('Pro', '11-2021.00', 'Marketing lead'), ('Pro', '27-3031.00', 'PR and social specialist'),
+    ('Pro', '13-1071.00', 'Recruiter'), ('Pro', '13-1111.00', 'Business consultant'), ('Pro', '41-4012.00', 'Sales rep'),
+    ('Pro', '11-9141.00', 'Property manager'), ('Pro', '13-2011.00', 'Small-firm accountant'), ('Pro', '11-9051.00', 'Restaurant manager'),
+    ('Pro', '43-6013.00', 'Clinic front desk'), ('Pro', '11-9081.00', 'Guesthouse manager'), ('Pro', '13-1151.00', 'Course creator and trainer'),
+    ('Pro', '15-1255.00', 'Web designer'), ('Pro', '41-2031.00', 'Online shop owner')]
+SOLO = []
+for plan, soc, title in SOLO_ROLES:
+    r = role(soc, title, 10)
+    if not r['tasks']: print('skip, no tasks in this release:', soc, title, flush=True); continue
+    SOLO.append({'name': next(names), 'plan': plan, **r})
+json.dump({'onet_version': ver, 'team_tier': TEAM, 'scale_tier': SCALE, 'solo': SOLO}, open(f'{OUT}/teams.json', 'w', encoding='utf-8'), indent=1, ensure_ascii=False)
 
 def md(org):
     L = [f"## {org['company']} ({org['kind']}) - {org['tier']}, {org['headcount']} people", '',
@@ -101,4 +117,10 @@ open(f'{OUT}/TEAMS.md', 'w', encoding='utf-8').write(
     f"# Persona teams for Team and Scale testing (O*NET {ver.replace('_', '.')}, real tasks + real software)\n\n"
     "Data: O*NET database, National Center for O*NET Development, CC BY 4.0. People and company names are fictional.\n\n"
     + md(TEAM) + '\n\n' + md(SCALE) + '\n')
-print('teams ok', TEAM['headcount'], SCALE['headcount'])
+L = [f"# Starter and Pro people (O*NET {ver.replace('_', '.')}): one person, real tasks + real software", '']
+for p in SOLO:
+    L += [f"## {p['name']}, {p['title']} ({p['plan']}) - O*NET: {p['occupation']}", f"Apps they use (in our catalog): {', '.join(p['catalog_apps']) or '-'}"]
+    L += [f"- {t['task']}" for t in p['tasks'][:8]] + ['']
+open(f'{OUT}/SOLO.md', 'w', encoding='utf-8').write('
+'.join(L))
+print('teams ok', TEAM['headcount'], SCALE['headcount'], 'solo', len(SOLO))

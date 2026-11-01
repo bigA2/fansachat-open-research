@@ -23,10 +23,19 @@ for tier in ('team_tier', 'scale_tier'):
                 cache[k] = {q: round(a[q]['noul'], 3) for q in Q}
             rows.append({'tier': tier, 'company': org['company'], 'where': where, 'person': p['name'], 'title': p['title'],
                          'task': k, **cache[k], 'apps': p['catalog_apps']})
+for p in T.get('solo', []):
+    for t in p['tasks']:
+        k = t['task']
+        if k not in cache:
+            a = m.predict(k, {q: {'type': 'noul', 'instructions': s} for q, s in Q.items()})['answers']
+            cache[k] = {q: round(a[q]['noul'], 3) for q in Q}
+        rows.append({'tier': 'solo', 'company': p['plan'], 'where': p['plan'], 'person': p['name'], 'title': p['title'],
+                     'task': k, **cache[k], 'apps': p['catalog_apps']})
 json.dump(rows, open('results/automation.json', 'w', encoding='utf-8'), indent=1, ensure_ascii=False)
 L = ['# Which real tasks FansaChat can automate (Laya yes/no scores, 0-1)', '',
      'automatable = could connected apps do it; repetitive = routine. Ranked by automatable x repetitive. Not a promise: a test list.', '']
-for tier in ('team_tier', 'scale_tier'):
+T['solo'] = {'company': 'Starter and Pro people', 'tier': 'Starter / Pro'}
+for tier in ('solo', 'team_tier', 'scale_tier'):
     L += [f"## {T[tier]['company']} ({T[tier]['tier']})", '', '| person | role | task | auto | routine | apps |', '|---|---|---|---|---|---|']
     best = sorted((r for r in rows if r['tier'] == tier), key=lambda r: -(r['automatable'] * r['repetitive']))
     seen = set()
